@@ -9,8 +9,6 @@
 - Filter by predefined tags
 - Search by name and file path
 - Detailed view for each asset
-- Optimized for desktop and mobile
-- Sorting and "load more" function for mobile devices
 
 ## Credits
 
