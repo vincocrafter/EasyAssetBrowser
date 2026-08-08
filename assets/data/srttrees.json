@@ -1,0 +1,4013 @@
+[
+  {
+    "name": "benstalk",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/benstalk_cs704/benstalk.srt"
+  },
+  {
+    "name": "nymphaea",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/floating_plants/nymphaea/nymphaea.srt"
+  },
+  {
+    "name": "nymphaea_leafy",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/floating_plants/nymphaea/nymphaea_leafy.srt"
+  },
+  {
+    "name": "nymphaea_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/floating_plants/nymphaea/nymphaea_low.srt"
+  },
+  {
+    "name": "nymphaea_q701",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/floating_plants/nymphaea/nymphaea_q701.srt"
+  },
+  {
+    "name": "blue_geranium",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_common/blue_geranium.srt"
+  },
+  {
+    "name": "cereal_avena",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_common/cereal_avena.srt"
+  },
+  {
+    "name": "green_high",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_common/green_high.srt"
+  },
+  {
+    "name": "green_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_common/green_low.srt"
+  },
+  {
+    "name": "green_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_common/green_med.srt"
+  },
+  {
+    "name": "red_papaver",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_common/red_papaver.srt"
+  },
+  {
+    "name": "white_chamomilla",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_common/white_chamomilla.srt"
+  },
+  {
+    "name": "yellow_sinapis",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_common/yellow_sinapis.srt"
+  },
+  {
+    "name": "dry_high",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_dry/dry_high.srt"
+  },
+  {
+    "name": "dry_high_leafy",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_dry/dry_high_leafy.srt"
+  },
+  {
+    "name": "dry_high_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass/grass_dry/dry_high_slim.srt"
+  },
+  {
+    "name": "artemisia",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_common/artemisia.srt"
+  },
+  {
+    "name": "fern",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_common/fern.srt"
+  },
+  {
+    "name": "fern_dry",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_common/fern_dry.srt"
+  },
+  {
+    "name": "fern_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_common/fern_low.srt"
+  },
+  {
+    "name": "flowers_yellow_medium",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_common/flowers_yellow_medium.srt"
+  },
+  {
+    "name": "heather_bush",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_common/heather_bush.srt"
+  },
+  {
+    "name": "marsh_big",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_marsh/marsh_big.srt"
+  },
+  {
+    "name": "marsh_big_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_marsh/marsh_big_slim.srt"
+  },
+  {
+    "name": "marsh_clump",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_marsh/marsh_clump.srt"
+  },
+  {
+    "name": "marsh_dry_lying",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_marsh/marsh_dry_lying.srt"
+  },
+  {
+    "name": "marsh_tall",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/grass_w3/grass_marsh/marsh_tall.srt"
+  },
+  {
+    "name": "blue_orchis",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/lootable_herbs/blue_orchis.srt"
+  },
+  {
+    "name": "blue_orchis_fall",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/lootable_herbs/blue_orchis_fall.srt"
+  },
+  {
+    "name": "clover_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/lootable_herbs/clover_cluster.srt"
+  },
+  {
+    "name": "clover_cluster_fall",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/lootable_herbs/clover_cluster_fall.srt"
+  },
+  {
+    "name": "green_angelica",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/lootable_herbs/green_angelica.srt"
+  },
+  {
+    "name": "green_angelica_fall",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/lootable_herbs/green_angelica_fall.srt"
+  },
+  {
+    "name": "red_aconitum",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/lootable_herbs/red_aconitum.srt"
+  },
+  {
+    "name": "red_aconitum_fall",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/lootable_herbs/red_aconitum_fall.srt"
+  },
+  {
+    "name": "amanita",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/amanita.srt"
+  },
+  {
+    "name": "amanita_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/amanita_cluster.srt"
+  },
+  {
+    "name": "boletus",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/boletus.srt"
+  },
+  {
+    "name": "boletus_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/boletus_cluster.srt"
+  },
+  {
+    "name": "cortinaria_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/cortinaria_low.srt"
+  },
+  {
+    "name": "cortinaria_low_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/cortinaria_low_cluster.srt"
+  },
+  {
+    "name": "cortinaria_low_small_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/cortinaria_low_small_cluster.srt"
+  },
+  {
+    "name": "lactarius",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/lactarius.srt"
+  },
+  {
+    "name": "lacta_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/lacta_low.srt"
+  },
+  {
+    "name": "lacta_low_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms/lacta_low_cluster.srt"
+  },
+  {
+    "name": "amanitab",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/amanitab.srt"
+  },
+  {
+    "name": "amanitab_big",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/amanitab_big.srt"
+  },
+  {
+    "name": "amanitab_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/amanitab_low.srt"
+  },
+  {
+    "name": "cortinaria",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/cortinaria.srt"
+  },
+  {
+    "name": "cortinaria_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/cortinaria_cluster.srt"
+  },
+  {
+    "name": "cortinaria_small_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/cortinaria_small_cluster.srt"
+  },
+  {
+    "name": "lacta",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/lacta.srt"
+  },
+  {
+    "name": "lacta_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/lacta_cluster.srt"
+  },
+  {
+    "name": "rhodotus",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/rhodotus.srt"
+  },
+  {
+    "name": "rhodotus_big",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/rhodotus_big.srt"
+  },
+  {
+    "name": "rhodotus_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/rhodotus_low.srt"
+  },
+  {
+    "name": "rhodotus_slope",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/rhodotus_slope.srt"
+  },
+  {
+    "name": "rhodotus_snake",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mushrooms_q705/rhodotus_snake.srt"
+  },
+  {
+    "name": "castanea_big",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_big.srt"
+  },
+  {
+    "name": "castanea_big_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_big_slim.srt"
+  },
+  {
+    "name": "castanea_break",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_break.srt"
+  },
+  {
+    "name": "castanea_break_lying",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_break_lying.srt"
+  },
+  {
+    "name": "castanea_break_stump",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_break_stump.srt"
+  },
+  {
+    "name": "castanea_bush",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_bush.srt"
+  },
+  {
+    "name": "castanea_bush_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_bush_low.srt"
+  },
+  {
+    "name": "castanea_bush_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_bush_slim.srt"
+  },
+  {
+    "name": "castanea_forest",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_forest.srt"
+  },
+  {
+    "name": "castanea_forest_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_forest_slim.srt"
+  },
+  {
+    "name": "castanea_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_med.srt"
+  },
+  {
+    "name": "castanea_med_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_med_slim.srt"
+  },
+  {
+    "name": "castanea_med_umbrella",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_med_umbrella.srt"
+  },
+  {
+    "name": "castanea_tree_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_tree_low.srt"
+  },
+  {
+    "name": "castanea_tree_low_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/castanea/castanea_tree_low_med.srt"
+  },
+  {
+    "name": "vine_wall_bot",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/creeper_vine/vine_wall_bot.srt"
+  },
+  {
+    "name": "vine_wall_hor",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/creeper_vine/vine_wall_hor.srt"
+  },
+  {
+    "name": "vine_wall_l",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/creeper_vine/vine_wall_l.srt"
+  },
+  {
+    "name": "vine_wall_r",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/creeper_vine/vine_wall_r.srt"
+  },
+  {
+    "name": "vine_wall_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/creeper_vine/vine_wall_slim.srt"
+  },
+  {
+    "name": "vine_wall_slim_l",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/creeper_vine/vine_wall_slim_l.srt"
+  },
+  {
+    "name": "vine_wall_slim_r",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/creeper_vine/vine_wall_slim_r.srt"
+  },
+  {
+    "name": "juniperus",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/cupressus/juniperus.srt"
+  },
+  {
+    "name": "juniperus_cluster",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/cupressus/juniperus_cluster.srt"
+  },
+  {
+    "name": "juniperus_cluster_line",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/cupressus/juniperus_cluster_line.srt"
+  },
+  {
+    "name": "juniperus_creeping",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/cupressus/juniperus_creeping.srt"
+  },
+  {
+    "name": "juniperus_ramified",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/cupressus/juniperus_ramified.srt"
+  },
+  {
+    "name": "juniperus_round",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/cupressus/juniperus_round.srt"
+  },
+  {
+    "name": "fern_big",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/fern_big/fern_big.srt"
+  },
+  {
+    "name": "olea_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/olea/olea_med.srt"
+  },
+  {
+    "name": "olea_med_short",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/olea/olea_med_short.srt"
+  },
+  {
+    "name": "olea_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/olea/olea_slim.srt"
+  },
+  {
+    "name": "olea_slim_low_wind",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/olea/olea_slim_low_wind.srt"
+  },
+  {
+    "name": "olea_wide",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/olea/olea_wide.srt"
+  },
+  {
+    "name": "Orange_Tree_Fruits",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/orange_tree/Orange_Tree_Fruits.srt"
+  },
+  {
+    "name": "pinea_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/pinea/pinea_low.srt"
+  },
+  {
+    "name": "pinea_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/pinea/pinea_med.srt"
+  },
+  {
+    "name": "pinea_med_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/pinea/pinea_med_slim.srt"
+  },
+  {
+    "name": "pinea_short_wide",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/pinea/pinea_short_wide.srt"
+  },
+  {
+    "name": "bleeding_tree",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/quest_trees/bleedeng_tree/bleeding_tree.srt"
+  },
+  {
+    "name": "bleeding_tree_blood",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/quest_trees/bleedeng_tree/bleeding_tree_blood.srt"
+  },
+  {
+    "name": "bleeding_tree_v2",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/quest_trees/bleedeng_tree/bleeding_tree_v2.srt"
+  },
+  {
+    "name": "giant_flower",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/quest_trees/giant_flower/giant_flower.srt"
+  },
+  {
+    "name": "rhododendron_big",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big.srt"
+  },
+  {
+    "name": "rhododendron_big_blue",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big_blue.srt"
+  },
+  {
+    "name": "rhododendron_big_pink",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big_pink.srt"
+  },
+  {
+    "name": "rhododendron_big_trunk_blue",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big_trunk_blue.srt"
+  },
+  {
+    "name": "rhododendron_big_trunk_b_blue",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big_trunk_b_blue.srt"
+  },
+  {
+    "name": "rhododendron_big_trunk_b_green",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big_trunk_b_green.srt"
+  },
+  {
+    "name": "rhododendron_big_trunk_b_pink",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big_trunk_b_pink.srt"
+  },
+  {
+    "name": "rhododendron_big_trunk_green",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big_trunk_green.srt"
+  },
+  {
+    "name": "rhododendron_big_trunk_pink",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big_trunk_pink.srt"
+  },
+  {
+    "name": "rhododendron_big_white",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_big_white.srt"
+  },
+  {
+    "name": "rhododendron_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_low.srt"
+  },
+  {
+    "name": "rhododendron_low_blue",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_low_blue.srt"
+  },
+  {
+    "name": "rhododendron_low_pink",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_low_pink.srt"
+  },
+  {
+    "name": "rhododendron_low_white",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_low_white.srt"
+  },
+  {
+    "name": "rhododendron_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_med.srt"
+  },
+  {
+    "name": "rhododendron_med_blue",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_med_blue.srt"
+  },
+  {
+    "name": "rhododendron_med_pink",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_med_pink.srt"
+  },
+  {
+    "name": "rhododendron_med_white",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rhododendron/rhododendron_med_white.srt"
+  },
+  {
+    "name": "rose_pink_bush_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_pink_bush_low.srt"
+  },
+  {
+    "name": "rose_pink_bush_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_pink_bush_med.srt"
+  },
+  {
+    "name": "rose_pink_wall_hor",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_pink_wall_hor.srt"
+  },
+  {
+    "name": "rose_pink_wall_l",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_pink_wall_l.srt"
+  },
+  {
+    "name": "rose_pink_wall_r",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_pink_wall_r.srt"
+  },
+  {
+    "name": "rose_pink_wall_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_pink_wall_slim.srt"
+  },
+  {
+    "name": "rose_pink_wall_slim_l",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_pink_wall_slim_l.srt"
+  },
+  {
+    "name": "rose_pink_wall_slim_r",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_pink_wall_slim_r.srt"
+  },
+  {
+    "name": "rose_red_bush_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_red_bush_low.srt"
+  },
+  {
+    "name": "rose_red_bush_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_red_bush_med.srt"
+  },
+  {
+    "name": "rose_red_wall_hor",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_red_wall_hor.srt"
+  },
+  {
+    "name": "rose_red_wall_l",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_red_wall_l.srt"
+  },
+  {
+    "name": "rose_red_wall_r",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_red_wall_r.srt"
+  },
+  {
+    "name": "rose_red_wall_slim",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_red_wall_slim.srt"
+  },
+  {
+    "name": "rose_red_wall_slim_l",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_red_wall_slim_l.srt"
+  },
+  {
+    "name": "rose_red_wall_slim_r",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/rose/rose_red_wall_slim_r.srt"
+  },
+  {
+    "name": "chara_big",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/underwater/chara_big.srt"
+  },
+  {
+    "name": "chara_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/underwater/chara_low.srt"
+  },
+  {
+    "name": "chara_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/underwater/chara_med.srt"
+  },
+  {
+    "name": "chara_med_thin",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/underwater/chara_med_thin.srt"
+  },
+  {
+    "name": "fucus_big",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/underwater/fucus_big.srt"
+  },
+  {
+    "name": "fucus_low",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/underwater/fucus_low.srt"
+  },
+  {
+    "name": "laminaria_big",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/underwater/laminaria_big.srt"
+  },
+  {
+    "name": "laminaria_med",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/underwater/laminaria_med.srt"
+  },
+  {
+    "name": "rhodophyta",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/underwater/rhodophyta.srt"
+  },
+  {
+    "name": "vineyard_blue",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/vineyard/vineyard_blue.srt"
+  },
+  {
+    "name": "vineyard_fall",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/vineyard/vineyard_fall.srt"
+  },
+  {
+    "name": "vineyard_fall_2",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/vineyard/vineyard_fall_2.srt"
+  },
+  {
+    "name": "vineyard_green",
+    "category": "SRT Trees",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/vineyard/vineyard_green.srt"
+  },
+  {
+    "name": "chara_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/vegetation/chara_big.srt"
+  },
+  {
+    "name": "chara_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/vegetation/chara_low.srt"
+  },
+  {
+    "name": "chara_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/vegetation/chara_med.srt"
+  },
+  {
+    "name": "dry_high",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/vegetation/dry_high.srt"
+  },
+  {
+    "name": "thumbnail_grass",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/thumbnails/thumbnail_grass.srt"
+  },
+  {
+    "name": "hedera_bot_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_bot_cluster.srt"
+  },
+  {
+    "name": "hedera_bot_under",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_bot_under.srt"
+  },
+  {
+    "name": "hedera_bot_upper",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_bot_upper.srt"
+  },
+  {
+    "name": "hedera_dry_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_dry_big.srt"
+  },
+  {
+    "name": "hedera_dry_hor",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_dry_hor.srt"
+  },
+  {
+    "name": "hedera_dry_long",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_dry_long.srt"
+  },
+  {
+    "name": "hedera_dry_wide",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_dry_wide.srt"
+  },
+  {
+    "name": "hedera_top_hor",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_top_hor.srt"
+  },
+  {
+    "name": "hedera_top_hor_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_top_hor_cluster.srt"
+  },
+  {
+    "name": "hedera_top_long",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_top_long.srt"
+  },
+  {
+    "name": "hedera_top_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_top_med.srt"
+  },
+  {
+    "name": "hedera_top_wide",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_top_wide.srt"
+  },
+  {
+    "name": "hedera_top_wide_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/creeper/hedera_top_wide_cluster.srt"
+  },
+  {
+    "name": "rock_big_set_a",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rock_big_set_a.srt"
+  },
+  {
+    "name": "rock_big_set_b",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rock_big_set_b.srt"
+  },
+  {
+    "name": "rock_big_set_c",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rock_big_set_c.srt"
+  },
+  {
+    "name": "rock_small_a",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rock_small_a.srt"
+  },
+  {
+    "name": "rock_small_b",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rock_small_b.srt"
+  },
+  {
+    "name": "rock_small_c",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rock_small_c.srt"
+  },
+  {
+    "name": "rock_small_d",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rock_small_d.srt"
+  },
+  {
+    "name": "rock_big_set_a_winter",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rocks_winter/rock_big_set_a_winter.srt"
+  },
+  {
+    "name": "rock_big_set_b_winter",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rocks_winter/rock_big_set_b_winter.srt"
+  },
+  {
+    "name": "rock_small_a_winter",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rocks_winter/rock_small_a_winter.srt"
+  },
+  {
+    "name": "rock_small_b_winter",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rocks_winter/rock_small_b_winter.srt"
+  },
+  {
+    "name": "rock_small_c_winter",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rocks_winter/rock_small_c_winter.srt"
+  },
+  {
+    "name": "rock_small_d_winter",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/rocks/rocks_winter/rock_small_d_winter.srt"
+  },
+  {
+    "name": "broken_pot_a",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/broken_pot_a.srt"
+  },
+  {
+    "name": "broken_pot_b",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/broken_pot_b.srt"
+  },
+  {
+    "name": "broken_pot_c",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/broken_pot_c.srt"
+  },
+  {
+    "name": "broken_pot_d",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/broken_pot_d.srt"
+  },
+  {
+    "name": "broken_pot_e",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/broken_pot_e.srt"
+  },
+  {
+    "name": "dead_rat_a",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/dead_rat_a.srt"
+  },
+  {
+    "name": "dead_rat_b",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/dead_rat_b.srt"
+  },
+  {
+    "name": "feces_dog_a",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/feces_dog_a.srt"
+  },
+  {
+    "name": "feces_dog_b",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/feces_dog_b.srt"
+  },
+  {
+    "name": "feces_horse_a",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/debris/street/feces_horse_a.srt"
+  },
+  {
+    "name": "alcea_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers/alcea_cluster.srt"
+  },
+  {
+    "name": "alcea_cluster_black",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers/alcea_cluster_black.srt"
+  },
+  {
+    "name": "alcea_cluster_slim_side",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers/alcea_cluster_slim_side.srt"
+  },
+  {
+    "name": "alcea_cluster_violet",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers/alcea_cluster_violet.srt"
+  },
+  {
+    "name": "alcea_cluster_white",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers/alcea_cluster_white.srt"
+  },
+  {
+    "name": "chamomile_small",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers_new/flowers_new/chamomile_small.srt"
+  },
+  {
+    "name": "clover",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers_new/flowers_new/clover.srt"
+  },
+  {
+    "name": "crownbeard",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers_new/flowers_new/crownbeard.srt"
+  },
+  {
+    "name": "grass4",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers_new/flowers_new/grass4.srt"
+  },
+  {
+    "name": "parsley_grass",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers_new/flowers_new/parsley_grass.srt"
+  },
+  {
+    "name": "red_flower",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers_new/flowers_new/red_flower.srt"
+  },
+  {
+    "name": "weed_red_high",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers_new/flowers_new/weed_red_high.srt"
+  },
+  {
+    "name": "wolfsbane_grass",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/flowers_new/flowers_new/wolfsbane_grass.srt"
+  },
+  {
+    "name": "artemisia",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/artemisia.srt"
+  },
+  {
+    "name": "birch_young",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/birch_young.srt"
+  },
+  {
+    "name": "birch_young_straight",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/birch_young_straight.srt"
+  },
+  {
+    "name": "blowbill_grass",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/blowbill_grass.srt"
+  },
+  {
+    "name": "blue_geranium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/blue_geranium.srt"
+  },
+  {
+    "name": "cattail",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/cattail.srt"
+  },
+  {
+    "name": "cattail_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/cattail_dry.srt"
+  },
+  {
+    "name": "cattail_fresh",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/cattail_fresh.srt"
+  },
+  {
+    "name": "cereal_avena",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/cereal_avena.srt"
+  },
+  {
+    "name": "chamomile",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/chamomile.srt"
+  },
+  {
+    "name": "chamomile_3",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/chamomile_3.srt"
+  },
+  {
+    "name": "common_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/common_low.srt"
+  },
+  {
+    "name": "common_lowest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/common_lowest.srt"
+  },
+  {
+    "name": "common_low_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/common_low_cluster.srt"
+  },
+  {
+    "name": "dry_high",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/dry_high.srt"
+  },
+  {
+    "name": "dry_thin",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/dry_thin.srt"
+  },
+  {
+    "name": "fern",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/fern.srt"
+  },
+  {
+    "name": "fern_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/fern_dry.srt"
+  },
+  {
+    "name": "fern_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/fern_low.srt"
+  },
+  {
+    "name": "flowers_anemone",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/flowers_anemone.srt"
+  },
+  {
+    "name": "flowers_white_high",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/flowers_white_high.srt"
+  },
+  {
+    "name": "flowers_white_little",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/flowers_white_little.srt"
+  },
+  {
+    "name": "flowers_yellow_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/flowers_yellow_medium.srt"
+  },
+  {
+    "name": "green_high",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/green_high.srt"
+  },
+  {
+    "name": "green_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/green_low.srt"
+  },
+  {
+    "name": "green_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/green_med.srt"
+  },
+  {
+    "name": "heather_bush",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/heather_bush.srt"
+  },
+  {
+    "name": "leaves_brown",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/leaves_brown.srt"
+  },
+  {
+    "name": "leaves_brown_scattered",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/leaves_brown_scattered.srt"
+  },
+  {
+    "name": "low_flowering",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/low_flowering.srt"
+  },
+  {
+    "name": "low_thick",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/low_thick.srt"
+  },
+  {
+    "name": "low_thick_b",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/low_thick_b.srt"
+  },
+  {
+    "name": "low_thick_b_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/low_thick_b_cluster.srt"
+  },
+  {
+    "name": "nettle_dark",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/nettle_dark.srt"
+  },
+  {
+    "name": "nettle_light",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/nettle_light.srt"
+  },
+  {
+    "name": "red_papaver",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/red_papaver.srt"
+  },
+  {
+    "name": "shrub_blue_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/shrub_blue_low.srt"
+  },
+  {
+    "name": "shrub_forest_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/shrub_forest_low.srt"
+  },
+  {
+    "name": "shrub_withered_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/shrub_withered_low.srt"
+  },
+  {
+    "name": "skelig",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/skelig.srt"
+  },
+  {
+    "name": "strands",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/strands.srt"
+  },
+  {
+    "name": "strands2",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/strands2.srt"
+  },
+  {
+    "name": "strands3",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/strands3.srt"
+  },
+  {
+    "name": "strands4",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/strands4.srt"
+  },
+  {
+    "name": "strands_center",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/strands_center.srt"
+  },
+  {
+    "name": "water_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/water_dry.srt"
+  },
+  {
+    "name": "water_dry_bend",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/water_dry_bend.srt"
+  },
+  {
+    "name": "water_dry_dead",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/water_dry_dead.srt"
+  },
+  {
+    "name": "water_furry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/water_furry.srt"
+  },
+  {
+    "name": "water_furry_bend",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/water_furry_bend.srt"
+  },
+  {
+    "name": "weed_dry_high",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/weed_dry_high.srt"
+  },
+  {
+    "name": "white_chamomilla",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/white_chamomilla.srt"
+  },
+  {
+    "name": "yellow_sinapis",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common/yellow_sinapis.srt"
+  },
+  {
+    "name": "blue_geranium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common_bob/blue_geranium.srt"
+  },
+  {
+    "name": "green_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common_bob/green_low.srt"
+  },
+  {
+    "name": "green_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_common_bob/green_med.srt"
+  },
+  {
+    "name": "marsh_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_big.srt"
+  },
+  {
+    "name": "marsh_big_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_big_slim.srt"
+  },
+  {
+    "name": "marsh_clump",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_clump.srt"
+  },
+  {
+    "name": "marsh_dry_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_dry_big.srt"
+  },
+  {
+    "name": "marsh_dry_brok",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_dry_brok.srt"
+  },
+  {
+    "name": "marsh_dry_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_dry_low.srt"
+  },
+  {
+    "name": "marsh_dry_lying",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_dry_lying.srt"
+  },
+  {
+    "name": "marsh_dry_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_dry_med.srt"
+  },
+  {
+    "name": "marsh_dry_tall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_dry_tall.srt"
+  },
+  {
+    "name": "marsh_dry_tall_bend",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_dry_tall_bend.srt"
+  },
+  {
+    "name": "marsh_dry_tall_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_dry_tall_big.srt"
+  },
+  {
+    "name": "marsh_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_low.srt"
+  },
+  {
+    "name": "marsh_lowest_cutscene",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_lowest_cutscene.srt"
+  },
+  {
+    "name": "marsh_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_med.srt"
+  },
+  {
+    "name": "marsh_side",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_side.srt"
+  },
+  {
+    "name": "marsh_tall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/grass/grass_marsh/marsh_tall.srt"
+  },
+  {
+    "name": "balisse",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/balisse.srt"
+  },
+  {
+    "name": "balisse_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/balisse_fall.srt"
+  },
+  {
+    "name": "berbercane",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/berbercane.srt"
+  },
+  {
+    "name": "berbercane_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/berbercane_fall.srt"
+  },
+  {
+    "name": "blowbill",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/blowbill.srt"
+  },
+  {
+    "name": "blowbill_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/blowbill_fall.srt"
+  },
+  {
+    "name": "bryonia",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/bryonia.srt"
+  },
+  {
+    "name": "bryonia_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/bryonia_fall.srt"
+  },
+  {
+    "name": "celandine",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/celandine.srt"
+  },
+  {
+    "name": "celandine_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/celandine_fall.srt"
+  },
+  {
+    "name": "cortinarius",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/cortinarius.srt"
+  },
+  {
+    "name": "cortinarius_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/cortinarius_fall.srt"
+  },
+  {
+    "name": "crows_eye",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/crows_eye.srt"
+  },
+  {
+    "name": "crows_eye_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/crows_eye_fall.srt"
+  },
+  {
+    "name": "fools_parsley",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/fools_parsley.srt"
+  },
+  {
+    "name": "fools_parsley_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/fools_parsley_fall.srt"
+  },
+  {
+    "name": "hellebore_petals",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/hellebore_petals.srt"
+  },
+  {
+    "name": "hellebore_petals_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/hellebore_petals_fall.srt"
+  },
+  {
+    "name": "honeysuckle",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/honeysuckle.srt"
+  },
+  {
+    "name": "honeysuckle_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/honeysuckle_fall.srt"
+  },
+  {
+    "name": "hop_umbels",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/hop_umbels.srt"
+  },
+  {
+    "name": "hop_umbels_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/hop_umbels_fall.srt"
+  },
+  {
+    "name": "mandrake",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/mandrake.srt"
+  },
+  {
+    "name": "mandrake_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/mandrake_fall.srt"
+  },
+  {
+    "name": "ribleaf",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/ribleaf.srt"
+  },
+  {
+    "name": "ribleaf_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/ribleaf_fall.srt"
+  },
+  {
+    "name": "verbena",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/verbena.srt"
+  },
+  {
+    "name": "verbena_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/verbena_fall.srt"
+  },
+  {
+    "name": "white_myrtle",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/white_myrtle.srt"
+  },
+  {
+    "name": "white_myrtle_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/white_myrtle_fall.srt"
+  },
+  {
+    "name": "wolfsbane",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/wolfsbane.srt"
+  },
+  {
+    "name": "wolfsbane_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_1/wolfsbane_fall.srt"
+  },
+  {
+    "name": "arenaria",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/arenaria.srt"
+  },
+  {
+    "name": "arenaria_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/arenaria_fall.srt"
+  },
+  {
+    "name": "beggartick",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/beggartick.srt"
+  },
+  {
+    "name": "beggartick_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/beggartick_fall.srt"
+  },
+  {
+    "name": "ginatia_pelats",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/ginatia_pelats.srt"
+  },
+  {
+    "name": "ginatia_pelats_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/ginatia_pelats_fall.srt"
+  },
+  {
+    "name": "greyleaf_buckthorn_underwater",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/greyleaf_buckthorn_underwater.srt"
+  },
+  {
+    "name": "greyleaf_buckthorn_underwater_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/greyleaf_buckthorn_underwater_fall.srt"
+  },
+  {
+    "name": "han",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/han.srt"
+  },
+  {
+    "name": "han_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/han_fall.srt"
+  },
+  {
+    "name": "han_interior",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/han_interior.srt"
+  },
+  {
+    "name": "han_interior_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/han_interior_fall.srt"
+  },
+  {
+    "name": "moleyarrow",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/moleyarrow.srt"
+  },
+  {
+    "name": "moleyarrow_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/moleyarrow_fall.srt"
+  },
+  {
+    "name": "moleyarrow_interior",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/moleyarrow_interior.srt"
+  },
+  {
+    "name": "moleyarrow_interior_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/moleyarrow_interior_fall.srt"
+  },
+  {
+    "name": "nostrix",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/nostrix.srt"
+  },
+  {
+    "name": "nostrix_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/nostrix_fall.srt"
+  },
+  {
+    "name": "pringrape",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/pringrape.srt"
+  },
+  {
+    "name": "pringrape_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/pringrape_fall.srt"
+  },
+  {
+    "name": "pringrape_interior",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/pringrape_interior.srt"
+  },
+  {
+    "name": "pringrape_interior_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/pringrape_interior_fall.srt"
+  },
+  {
+    "name": "ranogrin",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/ranogrin.srt"
+  },
+  {
+    "name": "ranogrin_fall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/lootable_herbs/herbs_set_2/ranogrin_fall.srt"
+  },
+  {
+    "name": "spiral_tall_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/spiral/spiral_tall_big.srt"
+  },
+  {
+    "name": "spiral_tall_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/spiral/spiral_tall_low.srt"
+  },
+  {
+    "name": "spiral_tall_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/spiral/spiral_tall_med.srt"
+  },
+  {
+    "name": "spiral_tall_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/spiral/spiral_tall_slim.srt"
+  },
+  {
+    "name": "abies_break_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_break_big.srt"
+  },
+  {
+    "name": "abies_break_lying",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_break_lying.srt"
+  },
+  {
+    "name": "abies_break_stump",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_break_stump.srt"
+  },
+  {
+    "name": "abies_break_stump_slope",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_break_stump_slope.srt"
+  },
+  {
+    "name": "abies_common_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_common_big.srt"
+  },
+  {
+    "name": "abies_common_bigest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_common_bigest.srt"
+  },
+  {
+    "name": "abies_common_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_common_low.srt"
+  },
+  {
+    "name": "abies_common_lowest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_common_lowest.srt"
+  },
+  {
+    "name": "abies_common_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_common_medium.srt"
+  },
+  {
+    "name": "abies_cut_lying",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_cut_lying.srt"
+  },
+  {
+    "name": "abies_cut_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_cut_med.srt"
+  },
+  {
+    "name": "abies_cut_stack",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_cut_stack.srt"
+  },
+  {
+    "name": "abies_cut_wide",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_cut_wide.srt"
+  },
+  {
+    "name": "abies_cut_wide2",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_cut_wide2.srt"
+  },
+  {
+    "name": "abies_dead_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_dead_big.srt"
+  },
+  {
+    "name": "abies_dead_bigest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_dead_bigest.srt"
+  },
+  {
+    "name": "abies_dead_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_dead_low.srt"
+  },
+  {
+    "name": "abies_dry_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_dry_medium.srt"
+  },
+  {
+    "name": "abies_part_branch",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/abies/abies_part_branch.srt"
+  },
+  {
+    "name": "alnus_cluster_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_cluster_big.srt"
+  },
+  {
+    "name": "alnus_common_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_common_big.srt"
+  },
+  {
+    "name": "alnus_common_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_common_low.srt"
+  },
+  {
+    "name": "alnus_common_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_common_medium.srt"
+  },
+  {
+    "name": "alnus_slim_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_slim_big.srt"
+  },
+  {
+    "name": "alnus_slim_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_slim_medium.srt"
+  },
+  {
+    "name": "alnus_sloping_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_sloping_low.srt"
+  },
+  {
+    "name": "alnus_cluster_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_dry/alnus_cluster_big_dry.srt"
+  },
+  {
+    "name": "alnus_common_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_dry/alnus_common_big_dry.srt"
+  },
+  {
+    "name": "alnus_common_low_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_dry/alnus_common_low_dry.srt"
+  },
+  {
+    "name": "alnus_common_medium_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_dry/alnus_common_medium_dry.srt"
+  },
+  {
+    "name": "alnus_slim_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_dry/alnus_slim_big_dry.srt"
+  },
+  {
+    "name": "alnus_slim_medium_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_dry/alnus_slim_medium_dry.srt"
+  },
+  {
+    "name": "alnus_sloping_low_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/alnus/alnus_dry/alnus_sloping_low_dry.srt"
+  },
+  {
+    "name": "betula_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_big.srt"
+  },
+  {
+    "name": "betula_cluster_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_cluster_slim.srt"
+  },
+  {
+    "name": "betula_dry_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry_medium.srt"
+  },
+  {
+    "name": "betula_dwarf_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dwarf_big.srt"
+  },
+  {
+    "name": "betula_dwarf_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dwarf_cluster.srt"
+  },
+  {
+    "name": "betula_dwarf_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dwarf_low.srt"
+  },
+  {
+    "name": "betula_dwarf_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dwarf_medium.srt"
+  },
+  {
+    "name": "betula_forest_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_forest_big.srt"
+  },
+  {
+    "name": "betula_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_medium.srt"
+  },
+  {
+    "name": "betula_slim_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_slim_big.srt"
+  },
+  {
+    "name": "betula_slim_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_slim_medium.srt"
+  },
+  {
+    "name": "betula_young_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_young_low.srt"
+  },
+  {
+    "name": "betula_young_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_young_medium.srt"
+  },
+  {
+    "name": "betula_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_big_dry.srt"
+  },
+  {
+    "name": "betula_cluster_slim_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_cluster_slim_dry.srt"
+  },
+  {
+    "name": "betula_dwarf_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_dwarf_big_dry.srt"
+  },
+  {
+    "name": "betula_dwarf_cluster_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_dwarf_cluster_dry.srt"
+  },
+  {
+    "name": "betula_dwarf_low_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_dwarf_low_dry.srt"
+  },
+  {
+    "name": "betula_dwarf_medium_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_dwarf_medium_dry.srt"
+  },
+  {
+    "name": "betula_forest_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_forest_big_dry.srt"
+  },
+  {
+    "name": "betula_medium_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_medium_dry.srt"
+  },
+  {
+    "name": "betula_slim_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_slim_big_dry.srt"
+  },
+  {
+    "name": "betula_slim_medium_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_slim_medium_dry.srt"
+  },
+  {
+    "name": "betula_young_low_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_young_low_dry.srt"
+  },
+  {
+    "name": "betula_young_medium_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/betula/betula_dry/betula_young_medium_dry.srt"
+  },
+  {
+    "name": "deform_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_big.srt"
+  },
+  {
+    "name": "deform_big_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_big_slim.srt"
+  },
+  {
+    "name": "deform_big_snake",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_big_snake.srt"
+  },
+  {
+    "name": "deform_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_low.srt"
+  },
+  {
+    "name": "deform_lowest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_lowest.srt"
+  },
+  {
+    "name": "deform_lowest_no_coll",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_lowest_no_coll.srt"
+  },
+  {
+    "name": "deform_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_med.srt"
+  },
+  {
+    "name": "deform_short",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_short.srt"
+  },
+  {
+    "name": "deform_short_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_short_low.srt"
+  },
+  {
+    "name": "deform_union_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_union_big.srt"
+  },
+  {
+    "name": "deform_union_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/deform/deform_union_low.srt"
+  },
+  {
+    "name": "dry_branch_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_branch_low.srt"
+  },
+  {
+    "name": "dry_bush_cluster_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_cluster_slim.srt"
+  },
+  {
+    "name": "dry_bush_cluster_v",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_cluster_v.srt"
+  },
+  {
+    "name": "dry_bush_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_low.srt"
+  },
+  {
+    "name": "dry_bush_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_med.srt"
+  },
+  {
+    "name": "dry_bush_round",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_round.srt"
+  },
+  {
+    "name": "dry_bush_tall",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_tall.srt"
+  },
+  {
+    "name": "dry_bush_tall_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_tall_slim.srt"
+  },
+  {
+    "name": "dry_bush_tall_v",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_tall_v.srt"
+  },
+  {
+    "name": "dry_bush_thick",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_thick.srt"
+  },
+  {
+    "name": "dry_bush_thick_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_thick_big.srt"
+  },
+  {
+    "name": "dry_bush_thick_wide",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_bush_thick_wide.srt"
+  },
+  {
+    "name": "dry_tree_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_big.srt"
+  },
+  {
+    "name": "dry_tree_bigest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_bigest.srt"
+  },
+  {
+    "name": "dry_tree_bigest_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_bigest_cluster.srt"
+  },
+  {
+    "name": "dry_tree_bigest_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_bigest_slim.srt"
+  },
+  {
+    "name": "dry_tree_big_break",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_big_break.srt"
+  },
+  {
+    "name": "dry_tree_big_slope",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_big_slope.srt"
+  },
+  {
+    "name": "dry_tree_branch",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_branch.srt"
+  },
+  {
+    "name": "dry_tree_branch_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_branch_big.srt"
+  },
+  {
+    "name": "dry_tree_branch_moss",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_branch_moss.srt"
+  },
+  {
+    "name": "dry_tree_branch_wide",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_branch_wide.srt"
+  },
+  {
+    "name": "dry_tree_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_med.srt"
+  },
+  {
+    "name": "dry_tree_med_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_med_slim.srt"
+  },
+  {
+    "name": "dry_tree_med_slim_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/dry_forest/dry_tree_med_slim_cluster.srt"
+  },
+  {
+    "name": "grape_vine_l",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/grape_vine/grape_vine_l.srt"
+  },
+  {
+    "name": "grape_vine_l_slope",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/grape_vine/grape_vine_l_slope.srt"
+  },
+  {
+    "name": "grape_vine_t",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/grape_vine/grape_vine_t.srt"
+  },
+  {
+    "name": "grape_vine_t_slope",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/grape_vine/grape_vine_t_slope.srt"
+  },
+  {
+    "name": "grape_vine_v",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/grape_vine/grape_vine_v.srt"
+  },
+  {
+    "name": "grape_vine_v_slope",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/grape_vine/grape_vine_v_slope.srt"
+  },
+  {
+    "name": "hedge_1",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/hedge/hedge_1.srt"
+  },
+  {
+    "name": "hedge_2",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/hedge/hedge_2.srt"
+  },
+  {
+    "name": "hedge_4",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/hedge/hedge_4.srt"
+  },
+  {
+    "name": "hedge_box",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/hedge/hedge_box.srt"
+  },
+  {
+    "name": "hedge_box_column",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/hedge/hedge_box_column.srt"
+  },
+  {
+    "name": "hedge_low_1",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/hedge/hedge_low_1.srt"
+  },
+  {
+    "name": "hedge_low_2",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/hedge/hedge_low_2.srt"
+  },
+  {
+    "name": "hedge_low_bend",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/hedge/hedge_low_bend.srt"
+  },
+  {
+    "name": "hedge_sphere",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/hedge/hedge_sphere.srt"
+  },
+  {
+    "name": "juniperus",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/juniperus/juniperus.srt"
+  },
+  {
+    "name": "juniperus_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/juniperus/juniperus_cluster.srt"
+  },
+  {
+    "name": "juniperus_cluster_line",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/juniperus/juniperus_cluster_line.srt"
+  },
+  {
+    "name": "juniperus_creeping",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/juniperus/juniperus_creeping.srt"
+  },
+  {
+    "name": "juniperus_round",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/juniperus/juniperus_round.srt"
+  },
+  {
+    "name": "malus",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus.srt"
+  },
+  {
+    "name": "malus_bush",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_bush.srt"
+  },
+  {
+    "name": "malus_bush_flower",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_bush_flower.srt"
+  },
+  {
+    "name": "malus_flower",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_flower.srt"
+  },
+  {
+    "name": "malus_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_low.srt"
+  },
+  {
+    "name": "malus_low_flower",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_low_flower.srt"
+  },
+  {
+    "name": "malus_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_slim.srt"
+  },
+  {
+    "name": "malus_slim_b",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_slim_b.srt"
+  },
+  {
+    "name": "malus_slim_b_flower",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_slim_b_flower.srt"
+  },
+  {
+    "name": "malus_slim_flower",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_slim_flower.srt"
+  },
+  {
+    "name": "malus_wide_short",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_wide_short.srt"
+  },
+  {
+    "name": "malus_wide_short_flower",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_wide_short_flower.srt"
+  },
+  {
+    "name": "malus_young",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_young.srt"
+  },
+  {
+    "name": "malus_young_flower",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_young_flower.srt"
+  },
+  {
+    "name": "malus_bush_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_dry/malus_bush_dry.srt"
+  },
+  {
+    "name": "malus_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_dry/malus_dry.srt"
+  },
+  {
+    "name": "malus_low_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_dry/malus_low_dry.srt"
+  },
+  {
+    "name": "malus_slim_b_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_dry/malus_slim_b_dry.srt"
+  },
+  {
+    "name": "malus_slim_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_dry/malus_slim_dry.srt"
+  },
+  {
+    "name": "malus_wide_short_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_dry/malus_wide_short_dry.srt"
+  },
+  {
+    "name": "malus_young_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/malus/malus_dry/malus_young_dry.srt"
+  },
+  {
+    "name": "pinus_branch_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_branch_big.srt"
+  },
+  {
+    "name": "pinus_branch_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_branch_low.srt"
+  },
+  {
+    "name": "pinus_branch_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_branch_med.srt"
+  },
+  {
+    "name": "pinus_dead_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_dead_big.srt"
+  },
+  {
+    "name": "pinus_dead_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_dead_low.srt"
+  },
+  {
+    "name": "pinus_dead_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_dead_med.srt"
+  },
+  {
+    "name": "pinus_forest_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_forest_big.srt"
+  },
+  {
+    "name": "pinus_mugo_common",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_mugo_common.srt"
+  },
+  {
+    "name": "pinus_mugo_dead",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_mugo_dead.srt"
+  },
+  {
+    "name": "pinus_slim_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_slim_big.srt"
+  },
+  {
+    "name": "pinus_slim_side",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_slim_side.srt"
+  },
+  {
+    "name": "pinus_twisted_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_twisted_big.srt"
+  },
+  {
+    "name": "pinus_twisted_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_twisted_medium.srt"
+  },
+  {
+    "name": "pinus_umbrella_branchy",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_umbrella_branchy.srt"
+  },
+  {
+    "name": "pinus_umbrella_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_umbrella_low.srt"
+  },
+  {
+    "name": "pinus_umbrella_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_umbrella_medium.srt"
+  },
+  {
+    "name": "pinus_umbrella_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_umbrella_slim.srt"
+  },
+  {
+    "name": "pinus_young_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_young_big.srt"
+  },
+  {
+    "name": "pinus_young_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_young_low.srt"
+  },
+  {
+    "name": "pinus_young_lowest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_young_lowest.srt"
+  },
+  {
+    "name": "pinus_young_medium",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/pinus/pinus_young_medium.srt"
+  },
+  {
+    "name": "quercus_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_big.srt"
+  },
+  {
+    "name": "quercus_big_dead",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_big_dead.srt"
+  },
+  {
+    "name": "quercus_big_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_big_slim.srt"
+  },
+  {
+    "name": "quercus_big_wide",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_big_wide.srt"
+  },
+  {
+    "name": "quercus_cutscene_kaer_morhen_only",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_cutscene_kaer_morhen_only.srt"
+  },
+  {
+    "name": "quercus_druids_2",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_druids_2.srt"
+  },
+  {
+    "name": "quercus_druids_dry_fronds",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_druids_dry_fronds.srt"
+  },
+  {
+    "name": "quercus_forest_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_forest_big.srt"
+  },
+  {
+    "name": "quercus_forest_hi_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_forest_hi_big.srt"
+  },
+  {
+    "name": "quercus_forest_hi_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_forest_hi_med.srt"
+  },
+  {
+    "name": "quercus_forest_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_forest_med.srt"
+  },
+  {
+    "name": "quercus_forest_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_forest_slim.srt"
+  },
+  {
+    "name": "quercus_log",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_log.srt"
+  },
+  {
+    "name": "quercus_med_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_med_slim.srt"
+  },
+  {
+    "name": "quercus_strange_wide",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_strange_wide.srt"
+  },
+  {
+    "name": "quercus_stump",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_stump.srt"
+  },
+  {
+    "name": "quercus_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_dry/quercus_big_dry.srt"
+  },
+  {
+    "name": "quercus_big_slim_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_dry/quercus_big_slim_dry.srt"
+  },
+  {
+    "name": "quercus_big_wide_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_dry/quercus_big_wide_dry.srt"
+  },
+  {
+    "name": "quercus_druids_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_dry/quercus_druids_dry.srt"
+  },
+  {
+    "name": "quercus_forest_med_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_dry/quercus_forest_med_dry.srt"
+  },
+  {
+    "name": "quercus_forest_slim_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_dry/quercus_forest_slim_dry.srt"
+  },
+  {
+    "name": "quercus_med_slim_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus/quercus_dry/quercus_med_slim_dry.srt"
+  },
+  {
+    "name": "querqus_deform",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus_deform/querqus_deform.srt"
+  },
+  {
+    "name": "querqus_deform_bald",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus_deform/querqus_deform_bald.srt"
+  },
+  {
+    "name": "querqus_deform_bald_dead",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus_deform/querqus_deform_bald_dead.srt"
+  },
+  {
+    "name": "querqus_deform_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus_deform/querqus_deform_dry.srt"
+  },
+  {
+    "name": "querqus_deform_lessun",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus_deform/querqus_deform_lessun.srt"
+  },
+  {
+    "name": "querqus_deform_lessun2",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/quercus_deform/querqus_deform_lessun2.srt"
+  },
+  {
+    "name": "salix_common_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_common_big.srt"
+  },
+  {
+    "name": "salix_common_bigest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_common_bigest.srt"
+  },
+  {
+    "name": "salix_common_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_common_low.srt"
+  },
+  {
+    "name": "salix_common_lowest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_common_lowest.srt"
+  },
+  {
+    "name": "salix_common_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_common_med.srt"
+  },
+  {
+    "name": "salix_slim_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_slim_big.srt"
+  },
+  {
+    "name": "salix_common_bigest_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_dry/salix_common_bigest_dry.srt"
+  },
+  {
+    "name": "salix_common_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_dry/salix_common_big_dry.srt"
+  },
+  {
+    "name": "salix_common_lowest_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_dry/salix_common_lowest_dry.srt"
+  },
+  {
+    "name": "salix_common_low_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_dry/salix_common_low_dry.srt"
+  },
+  {
+    "name": "salix_common_med_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_dry/salix_common_med_dry.srt"
+  },
+  {
+    "name": "salix_slim_big_dry",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix/salix_dry/salix_slim_big_dry.srt"
+  },
+  {
+    "name": "salix_alba",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix_alba/salix_alba.srt"
+  },
+  {
+    "name": "salix_alba_torn",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix_alba/salix_alba_torn.srt"
+  },
+  {
+    "name": "salix_alba_wide",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix_alba/salix_alba_wide.srt"
+  },
+  {
+    "name": "salix_alba_widest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/salix_alba/salix_alba_widest.srt"
+  },
+  {
+    "name": "sorbus_branch",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/sorbus/sorbus_branch.srt"
+  },
+  {
+    "name": "sorbus_bush",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/trees/sorbus/sorbus_bush.srt"
+  },
+  {
+    "name": "branch_underwater_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/branch_underwater_big.srt"
+  },
+  {
+    "name": "branch_underwater_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/branch_underwater_low.srt"
+  },
+  {
+    "name": "branch_underwater_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/branch_underwater_med.srt"
+  },
+  {
+    "name": "branch_underwater_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/branch_underwater_slim.srt"
+  },
+  {
+    "name": "chara_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/chara_big.srt"
+  },
+  {
+    "name": "chara_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/chara_low.srt"
+  },
+  {
+    "name": "chara_lowest",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/chara_lowest.srt"
+  },
+  {
+    "name": "chara_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/chara_med.srt"
+  },
+  {
+    "name": "chara_med_thin",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/chara_med_thin.srt"
+  },
+  {
+    "name": "fucus_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/fucus_big.srt"
+  },
+  {
+    "name": "fucus_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/fucus_low.srt"
+  },
+  {
+    "name": "laminaria_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/laminaria_big.srt"
+  },
+  {
+    "name": "laminaria_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/laminaria_med.srt"
+  },
+  {
+    "name": "rhodophyta",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/rhodophyta.srt"
+  },
+  {
+    "name": "rock_underwater_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/rock_underwater_big.srt"
+  },
+  {
+    "name": "rock_underwater_low_a",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/rock_underwater_low_a.srt"
+  },
+  {
+    "name": "rock_underwater_low_b",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/rock_underwater_low_b.srt"
+  },
+  {
+    "name": "rock_underwater_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/rock_underwater_med.srt"
+  },
+  {
+    "name": "underwater_short_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/underwater_short_big.srt"
+  },
+  {
+    "name": "underwater_short_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/underwater_short_low.srt"
+  },
+  {
+    "name": "underwater_short_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/underwater_short_med.srt"
+  },
+  {
+    "name": "underwater_tall_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/underwater_tall_big.srt"
+  },
+  {
+    "name": "underwater_tall_low",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/underwater_tall_low.srt"
+  },
+  {
+    "name": "underwater_tall_med",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/underwater_tall_med.srt"
+  },
+  {
+    "name": "underwater_tall_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/underwater/underwater_tall_slim.srt"
+  },
+  {
+    "name": "potato",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/vegetables/potato.srt"
+  },
+  {
+    "name": "potato_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/vegetables/potato_cluster.srt"
+  },
+  {
+    "name": "potato_cluster_big",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/vegetables/potato_cluster_big.srt"
+  },
+  {
+    "name": "potato_cluster_long",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/vegetables/potato_cluster_long.srt"
+  },
+  {
+    "name": "potato_dig",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/vegetables/potato_dig.srt"
+  },
+  {
+    "name": "sunflower_cluster",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/vegetables/sunflower_cluster.srt"
+  },
+  {
+    "name": "sunflower_cluster_long",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/vegetables/sunflower_cluster_long.srt"
+  },
+  {
+    "name": "sunflower_cluster_slim",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/vegetables/sunflower_cluster_slim.srt"
+  },
+  {
+    "name": "chamomilla",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation_ep1/herbs/chamomillla/chamomilla.srt"
+  },
+  {
+    "name": "sorbus_branch",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation_ep1/trees/sorbus/sorbus_branch.srt"
+  },
+  {
+    "name": "sorbus_bush",
+    "category": "SRT Trees",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation_ep1/trees/sorbus/sorbus_bush.srt"
+  }
+]

@@ -1,0 +1,4326 @@
+[
+  {
+    "name": "spiderweb_2",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/decals/spiderweb/textures/spiderweb_2.xbm"
+  },
+  {
+    "name": "explosionhighres",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/explosionhighres.xbm"
+  },
+  {
+    "name": "wnd__decal_d03_arachas",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_d03_arachas.xbm"
+  },
+  {
+    "name": "wnd__decal_n03",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_n03.xbm"
+  },
+  {
+    "name": "blood_f",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_f.xbm"
+  },
+  {
+    "name": "blood_g",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_g.xbm"
+  },
+  {
+    "name": "blood_splash_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_n.xbm"
+  },
+  {
+    "name": "blood_splash_spray_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_spray_small.xbm"
+  },
+  {
+    "name": "hay_road_spread",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/hay_road_spread.xbm"
+  },
+  {
+    "name": "blood_endriaga",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/blood_endriaga.xbm"
+  },
+  {
+    "name": "blood_splash_spray_medium_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_spray_medium_n.xbm"
+  },
+  {
+    "name": "blood_splash_spray_small_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_spray_small_n.xbm"
+  },
+  {
+    "name": "ground_decal1",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/ground_decal1.xbm"
+  },
+  {
+    "name": "scolopendmorph_blood_medium",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/scolopendmorph_blood_medium.xbm"
+  },
+  {
+    "name": "wnd__decal_d02_censored",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_d02_censored.xbm"
+  },
+  {
+    "name": "wnd__decal_d03_censored",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_d03_censored.xbm"
+  },
+  {
+    "name": "wnd__decal_d04_censored",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_d04_censored.xbm"
+  },
+  {
+    "name": "man_woman_wallpainting_a_censored",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/man_woman_wallpainting_a_censored.xbm"
+  },
+  {
+    "name": "woman_wallpainting_a_censored",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/woman_wallpainting_a_censored.xbm"
+  },
+  {
+    "name": "woman_wallpainting_b_censored",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/woman_wallpainting_b_censored.xbm"
+  },
+  {
+    "name": "woman_wallpainting_c_censored",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/woman_wallpainting_c_censored.xbm"
+  },
+  {
+    "name": "woman_wallpainting_d_censored",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/woman_wallpainting_d_censored.xbm"
+  },
+  {
+    "name": "footprints_common",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/footsteps/footprints_common.xbm"
+  },
+  {
+    "name": "footprints_common_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/footsteps/footprints_common_n.xbm"
+  },
+  {
+    "name": "footprints_mud",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/footsteps/footprints_mud.xbm"
+  },
+  {
+    "name": "footprints_snow",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/footsteps/footprints_snow.xbm"
+  },
+  {
+    "name": "footprints_snow_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/footsteps/footprints_snow_n.xbm"
+  },
+  {
+    "name": "blood_splash_spray_medium",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_spray_medium.xbm"
+  },
+  {
+    "name": "plain_wood_edge",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/plain_wood_edge.xbm"
+  },
+  {
+    "name": "plain_wood_edge_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/plain_wood_edge_n.xbm"
+  },
+  {
+    "name": "hay",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/decals/hay/textures/hay.xbm"
+  },
+  {
+    "name": "hay_m",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/decals/hay/textures/hay_m.xbm"
+  },
+  {
+    "name": "hay_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/decals/hay/textures/hay_n.xbm"
+  },
+  {
+    "name": "blood_splash_black",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_splash_black.xbm"
+  },
+  {
+    "name": "blood_splash_vbig_arachas",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_splash_vbig_arachas.xbm"
+  },
+  {
+    "name": "bird_painting",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/bird_painting.xbm"
+  },
+  {
+    "name": "burned_vertical",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/burned/burned_vertical.xbm"
+  },
+  {
+    "name": "dirt_big_soil",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_big_soil.xbm"
+  },
+  {
+    "name": "blood_c_blurry",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_c_blurry.xbm"
+  },
+  {
+    "name": "dirt_big_soil_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_big_soil_b.xbm"
+  },
+  {
+    "name": "wnd__decal_d01",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_d01.xbm"
+  },
+  {
+    "name": "wnd__decal_n01",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_n01.xbm"
+  },
+  {
+    "name": "wnd__decal_d01_censored",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_d01_censored.xbm"
+  },
+  {
+    "name": "oil_spill_s",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/decals/oil_spill/texture/oil_spill_s.xbm"
+  },
+  {
+    "name": "oil_splash_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/decals/oil_spill/texture/oil_splash_n.xbm"
+  },
+  {
+    "name": "plain_wood_edge_m",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/plain_wood_edge_m.xbm"
+  },
+  {
+    "name": "rich_brick_archway",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/rich_brick_archway.xbm"
+  },
+  {
+    "name": "rich_brick_archway_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/rich_brick_archway_n.xbm"
+  },
+  {
+    "name": "oil_spill",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/decals/oil_spill/texture/oil_spill.xbm"
+  },
+  {
+    "name": "oil_spill_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/decals/oil_spill/texture/oil_spill_n.xbm"
+  },
+  {
+    "name": "oil_splash",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/decals/oil_spill/texture/oil_splash.xbm"
+  },
+  {
+    "name": "bird_poop",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/bird_poop.xbm"
+  },
+  {
+    "name": "blood_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_a.xbm"
+  },
+  {
+    "name": "blood_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_c.xbm"
+  },
+  {
+    "name": "blood_d",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_d.xbm"
+  },
+  {
+    "name": "blood_i",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_i.xbm"
+  },
+  {
+    "name": "mossy_bottom_medium",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/bottom/mossy_bottom_medium.xbm"
+  },
+  {
+    "name": "burned_circular",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/burned/burned_circular.xbm"
+  },
+  {
+    "name": "burned_horizontal",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/burned/burned_horizontal.xbm"
+  },
+  {
+    "name": "smoke_stain",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/burned/smoke_stain.xbm"
+  },
+  {
+    "name": "wood_crack_termites",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_termites.xbm"
+  },
+  {
+    "name": "leaking_dirt_big",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_dirt_big.xbm"
+  },
+  {
+    "name": "leaking_dirt_medium",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_dirt_medium.xbm"
+  },
+  {
+    "name": "bies_scratch_stone",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/bies/bies_scratch_stone.xbm"
+  },
+  {
+    "name": "moss_large",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/moss_large.xbm"
+  },
+  {
+    "name": "moss_large_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/moss_large_n.xbm"
+  },
+  {
+    "name": "moss_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/moss_small.xbm"
+  },
+  {
+    "name": "seaweed_patch_small_red",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/red_moss/seaweed_patch_small_red.xbm"
+  },
+  {
+    "name": "slime_patch_red",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/red_moss/slime_patch_red.xbm"
+  },
+  {
+    "name": "salt_decal_veins_b_translucent",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_veins_b_translucent.xbm"
+  },
+  {
+    "name": "barnacles_large",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/underwater/barnacles_large.xbm"
+  },
+  {
+    "name": "barnacles_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/underwater/barnacles_small.xbm"
+  },
+  {
+    "name": "seaweed_patch_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/underwater/seaweed_patch_small.xbm"
+  },
+  {
+    "name": "slime_patch",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/underwater/slime_patch.xbm"
+  },
+  {
+    "name": "blood_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_b.xbm"
+  },
+  {
+    "name": "blood_e",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_e.xbm"
+  },
+  {
+    "name": "blood_g_large",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_g_large.xbm"
+  },
+  {
+    "name": "claw_slash_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/claw_slash_b.xbm"
+  },
+  {
+    "name": "blood_drag_big",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_drag_big.xbm"
+  },
+  {
+    "name": "blood_splash_spray_big",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_spray_big.xbm"
+  },
+  {
+    "name": "blood_splash_vbig",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_vbig.xbm"
+  },
+  {
+    "name": "mossy_bottom_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/bottom/mossy_bottom_small.xbm"
+  },
+  {
+    "name": "cave_decal_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/cave_decal_a.xbm"
+  },
+  {
+    "name": "plaster_damage",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/plaster_damage.xbm"
+  },
+  {
+    "name": "plaster_damage_patch",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/plaster_damage_patch.xbm"
+  },
+  {
+    "name": "rock_signs_igni",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/rock_signs_igni.xbm"
+  },
+  {
+    "name": "stone_crack_big_deep",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/stone_crack_big_deep.xbm"
+  },
+  {
+    "name": "stone_crack_big_shallow",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/stone_crack_big_shallow.xbm"
+  },
+  {
+    "name": "stone_crack_middle_deep",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/stone_crack_middle_deep.xbm"
+  },
+  {
+    "name": "wood_crack_huge_thin",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_huge_thin.xbm"
+  },
+  {
+    "name": "wood_crack_medium_long",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_medium_long.xbm"
+  },
+  {
+    "name": "wood_crack_medium_thin",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_medium_thin.xbm"
+  },
+  {
+    "name": "wood_letter_carving_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_letter_carving_a.xbm"
+  },
+  {
+    "name": "wood_letter_carving_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_letter_carving_c.xbm"
+  },
+  {
+    "name": "wood_letter_carving_d",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_letter_carving_d.xbm"
+  },
+  {
+    "name": "arch_dirt",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/arch_dirt.xbm"
+  },
+  {
+    "name": "damp_stains",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/damp_stains.xbm"
+  },
+  {
+    "name": "dark_rotten_stains",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dark_rotten_stains.xbm"
+  },
+  {
+    "name": "dirt_big",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_big.xbm"
+  },
+  {
+    "name": "dirt_big_round",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_big_round.xbm"
+  },
+  {
+    "name": "dirt_big_sand",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_big_sand.xbm"
+  },
+  {
+    "name": "dirt_big_soil_dark",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_big_soil_dark.xbm"
+  },
+  {
+    "name": "dirt_big_soil_dark_swamp",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_big_soil_dark_swamp.xbm"
+  },
+  {
+    "name": "dirt_cracks",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_cracks.xbm"
+  },
+  {
+    "name": "drag_corpse",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/drag_corpse.xbm"
+  },
+  {
+    "name": "dragging_track",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dragging_track.xbm"
+  },
+  {
+    "name": "leaves_only_w_alpha",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/flowers/leaves_only_w_alpha.xbm"
+  },
+  {
+    "name": "grain",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/grain.xbm"
+  },
+  {
+    "name": "grain_scattered",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/grain_scattered.xbm"
+  },
+  {
+    "name": "horseshoe_mud",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/human/horseshoe_mud.xbm"
+  },
+  {
+    "name": "human_footprint_shoe_left_mud",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/human/human_footprint_shoe_left_mud.xbm"
+  },
+  {
+    "name": "human_footprint_shoe_right_mud",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/human/human_footprint_shoe_right_mud.xbm"
+  },
+  {
+    "name": "ivy",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/ivy.xbm"
+  },
+  {
+    "name": "ivy_long",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/ivy_long.xbm"
+  },
+  {
+    "name": "cave_leaking_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/cave_leaking_a.xbm"
+  },
+  {
+    "name": "cave_leaking_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/cave_leaking_b.xbm"
+  },
+  {
+    "name": "leaking_dirt_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_dirt_small.xbm"
+  },
+  {
+    "name": "leaking_huge",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_huge.xbm"
+  },
+  {
+    "name": "leaking_long",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_long.xbm"
+  },
+  {
+    "name": "leaking_moss_big",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_moss_big.xbm"
+  },
+  {
+    "name": "leaking_moss_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_moss_small.xbm"
+  },
+  {
+    "name": "leaking_sewer_big",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_sewer_big.xbm"
+  },
+  {
+    "name": "leaking_sewer_big_2",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_sewer_big_2.xbm"
+  },
+  {
+    "name": "leaking_uber_long",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/leaking_uber_long.xbm"
+  },
+  {
+    "name": "moss_water_marked",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/moss_water_marked.xbm"
+  },
+  {
+    "name": "wine_stain",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/leaking/wine_stain.xbm"
+  },
+  {
+    "name": "limestone_rock_decal",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/limestone_rock_decal.xbm"
+  },
+  {
+    "name": "bies_hoof_decal",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/bies/bies_hoof_decal.xbm"
+  },
+  {
+    "name": "forktail_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/forktail/forktail_path.xbm"
+  },
+  {
+    "name": "cave_moss_decal_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/cave_moss_decal_a.xbm"
+  },
+  {
+    "name": "cave_moss_decal_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/cave_moss_decal_b.xbm"
+  },
+  {
+    "name": "cave_moss_decal_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/cave_moss_decal_c.xbm"
+  },
+  {
+    "name": "green_rotten_moss",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/green_rotten_moss.xbm"
+  },
+  {
+    "name": "moss_grassy",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/moss_grassy.xbm"
+  },
+  {
+    "name": "moss_large_dry",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/moss_large_dry.xbm"
+  },
+  {
+    "name": "sand_rim",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/sand_rim.xbm"
+  },
+  {
+    "name": "seaweed_rim",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/moss/seaweed_rim.xbm"
+  },
+  {
+    "name": "paint_white",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paint_white.xbm"
+  },
+  {
+    "name": "ritual_paintings",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/ritual_paintings.xbm"
+  },
+  {
+    "name": "ritual_paintings_hands",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/ritual_paintings_hands.xbm"
+  },
+  {
+    "name": "salt_decal_horizontal_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_horizontal_a.xbm"
+  },
+  {
+    "name": "salt_decal_horizontal_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_horizontal_b.xbm"
+  },
+  {
+    "name": "salt_decal_leak_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_leak_a.xbm"
+  },
+  {
+    "name": "salt_decal_vertical_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_vertical_b.xbm"
+  },
+  {
+    "name": "snow_big",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/snow/snow_big.xbm"
+  },
+  {
+    "name": "snow_medium",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/snow/snow_medium.xbm"
+  },
+  {
+    "name": "snow_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/snow/snow_small.xbm"
+  },
+  {
+    "name": "roadsign_text_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/text/roadsign_text_a.xbm"
+  },
+  {
+    "name": "weed_patch",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/underwater/weed_patch.xbm"
+  },
+  {
+    "name": "vomit_splatter_large",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/vomit/vomit_splatter_large.xbm"
+  },
+  {
+    "name": "vomit_splatter_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/vomit/vomit_splatter_small.xbm"
+  },
+  {
+    "name": "witch_graffiti_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_b.xbm"
+  },
+  {
+    "name": "wolf_carving",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/wolf_carving.xbm"
+  },
+  {
+    "name": "roadsign_text_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/text/roadsign_text_b.xbm"
+  },
+  {
+    "name": "roadsign_text_d",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/text/roadsign_text_d.xbm"
+  },
+  {
+    "name": "snow_patch_large",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/snow/snow_patch_large.xbm"
+  },
+  {
+    "name": "rock_signs_quen",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/rock_signs_quen.xbm"
+  },
+  {
+    "name": "chalk_cross",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/human/chalk_cross.xbm"
+  },
+  {
+    "name": "barnacles_small_red",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/red_moss/barnacles_small_red.xbm"
+  },
+  {
+    "name": "salt_decal_vertical_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_vertical_a.xbm"
+  },
+  {
+    "name": "seaweed_patch",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/underwater/seaweed_patch.xbm"
+  },
+  {
+    "name": "blood_ground_stain",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_ground_stain.xbm"
+  },
+  {
+    "name": "plain_wood_edge2",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/plain_wood_edge2.xbm"
+  },
+  {
+    "name": "plain_wood_edge_n2",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/plain_wood_edge_n2.xbm"
+  },
+  {
+    "name": "burned_vertical_dark",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/burned/burned_vertical_dark.xbm"
+  },
+  {
+    "name": "brick_decal_02",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/brick_decal_02.xbm"
+  },
+  {
+    "name": "dark_messy_brick_edge",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dark_messy_brick_edge.xbm"
+  },
+  {
+    "name": "dark_messy_brick_edge_mask",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dark_messy_brick_edge_mask.xbm"
+  },
+  {
+    "name": "dark_messy_brick_edge_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dark_messy_brick_edge_n.xbm"
+  },
+  {
+    "name": "wnd__decal_d02",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_d02.xbm"
+  },
+  {
+    "name": "wnd__decal_d04",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_d04.xbm"
+  },
+  {
+    "name": "wnd__decal_n02",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_n02.xbm"
+  },
+  {
+    "name": "blood_b_blurry",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_b_blurry.xbm"
+  },
+  {
+    "name": "blood_d_blurry",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_d_blurry.xbm"
+  },
+  {
+    "name": "blood_h",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_h.xbm"
+  },
+  {
+    "name": "blood_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_path.xbm"
+  },
+  {
+    "name": "blood_path_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_path_n.xbm"
+  },
+  {
+    "name": "bloody_handprint",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/bloody_handprint.xbm"
+  },
+  {
+    "name": "bloody_handprint_right",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/bloody_handprint_right.xbm"
+  },
+  {
+    "name": "claw_slash_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/claw_slash_a.xbm"
+  },
+  {
+    "name": "white",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/colours/white.xbm"
+  },
+  {
+    "name": "brick_decal",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/brick_decal.xbm"
+  },
+  {
+    "name": "wood_crack_cuts",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_cuts.xbm"
+  },
+  {
+    "name": "wood_crack_hit",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_hit.xbm"
+  },
+  {
+    "name": "wood_crack_huge",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_huge.xbm"
+  },
+  {
+    "name": "dirt_road_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_road_a.xbm"
+  },
+  {
+    "name": "dirt_road_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_road_b.xbm"
+  },
+  {
+    "name": "dirt_road_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/dirt_road_c.xbm"
+  },
+  {
+    "name": "human_handprint",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/human/human_handprint.xbm"
+  },
+  {
+    "name": "gryphon_footstep_left",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/gryphon/gryphon_footstep_left.xbm"
+  },
+  {
+    "name": "polish_pattern01",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/patterns/polish_pattern01.xbm"
+  },
+  {
+    "name": "polish_pattern02",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/patterns/polish_pattern02.xbm"
+  },
+  {
+    "name": "polish_pattern_strip_01",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/patterns/polish_pattern_strip_01.xbm"
+  },
+  {
+    "name": "spikeroog_clan_marking",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/patterns/spikeroog_clan_marking.xbm"
+  },
+  {
+    "name": "freshwater_weed",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/underwater/freshwater_weed.xbm"
+  },
+  {
+    "name": "witch_graffiti_g",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_g.xbm"
+  },
+  {
+    "name": "cloth_stain_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/cloth_stain_a.xbm"
+  },
+  {
+    "name": "rock_signs_yrden",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/rock_signs_yrden.xbm"
+  },
+  {
+    "name": "dog_painting",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dog_painting.xbm"
+  },
+  {
+    "name": "hay_road",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/hay_road.xbm"
+  },
+  {
+    "name": "blood_a_blurry",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_a_blurry.xbm"
+  },
+  {
+    "name": "blood_e_blurry",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_e_blurry.xbm"
+  },
+  {
+    "name": "blood_drag_big_old",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_old/blood_drag_big_old.xbm"
+  },
+  {
+    "name": "blood_drag_small_old",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_old/blood_drag_small_old.xbm"
+  },
+  {
+    "name": "blood_splatter_old",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_old/blood_splatter_old.xbm"
+  },
+  {
+    "name": "bloody_handprint_old",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_old/bloody_handprint_old.xbm"
+  },
+  {
+    "name": "bloody_handprint_right_old",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_old/bloody_handprint_right_old.xbm"
+  },
+  {
+    "name": "blood_drag_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_drag_small.xbm"
+  },
+  {
+    "name": "mossy_bottom_large",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/bottom/mossy_bottom_large.xbm"
+  },
+  {
+    "name": "smoke_stain_vertical",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/burned/smoke_stain_vertical.xbm"
+  },
+  {
+    "name": "destroyed_red_brick_decal",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/destroyed_red_brick_decal.xbm"
+  },
+  {
+    "name": "wood_letter_carving_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_letter_carving_b.xbm"
+  },
+  {
+    "name": "wood_letter_carving_e",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_letter_carving_e.xbm"
+  },
+  {
+    "name": "wood_letter_carving_glow",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_letter_carving_glow.xbm"
+  },
+  {
+    "name": "path_drag_corpse",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/path_drag_corpse.xbm"
+  },
+  {
+    "name": "human_footprint_bare_mud_left",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/human/human_footprint_bare_mud_left.xbm"
+  },
+  {
+    "name": "human_footprint_bare_mud_right",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/human/human_footprint_bare_mud_right.xbm"
+  },
+  {
+    "name": "bear_bloody_track",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/bear/bear_bloody_track.xbm"
+  },
+  {
+    "name": "drowner_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/drowner/drowner_path.xbm"
+  },
+  {
+    "name": "wolf_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/wolf/wolf_path.xbm"
+  },
+  {
+    "name": "witch_graffiti_e",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_e.xbm"
+  },
+  {
+    "name": "roadsign_text_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/text/roadsign_text_c.xbm"
+  },
+  {
+    "name": "roadsign_text_e",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/text/roadsign_text_e.xbm"
+  },
+  {
+    "name": "cracks_medium",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/cracks_medium.xbm"
+  },
+  {
+    "name": "blood_i_large",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_i_large.xbm"
+  },
+  {
+    "name": "black",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/colours/black.xbm"
+  },
+  {
+    "name": "horse_painting",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/horse_painting.xbm"
+  },
+  {
+    "name": "plain_wood_destroyed_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/plain_wood_destroyed_n.xbm"
+  },
+  {
+    "name": "seamonster_painting",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/seamonster_painting.xbm"
+  },
+  {
+    "name": "blood_footprint",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [
+      "Blood"
+    ],
+    "path": "environment/textures_tileable/decals/blood/blood_footprint.xbm"
+  },
+  {
+    "name": "blood_drag_big_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_drag_big_n.xbm"
+  },
+  {
+    "name": "blood_splash_big",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_big.xbm"
+  },
+  {
+    "name": "burned_vertical_dark_red",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/burned/burned_vertical_dark_red.xbm"
+  },
+  {
+    "name": "cave_art_battle",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/cave_art_battle.xbm"
+  },
+  {
+    "name": "blood_red",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/colours/blood_red.xbm"
+  },
+  {
+    "name": "blue",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/colours/blue.xbm"
+  },
+  {
+    "name": "brown",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/colours/brown.xbm"
+  },
+  {
+    "name": "green",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/colours/green.xbm"
+  },
+  {
+    "name": "light_blue",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/colours/light_blue.xbm"
+  },
+  {
+    "name": "orange",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/colours/orange.xbm"
+  },
+  {
+    "name": "red",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/colours/red.xbm"
+  },
+  {
+    "name": "cracks_small",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/cracks_small.xbm"
+  },
+  {
+    "name": "rock_signs_carving_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/rock_signs_carving_a.xbm"
+  },
+  {
+    "name": "rock_signs_carving_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/rock_signs_carving_b.xbm"
+  },
+  {
+    "name": "ruts_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/ruts_a.xbm"
+  },
+  {
+    "name": "stone_crack_middle_shallow",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/stone_crack_middle_shallow.xbm"
+  },
+  {
+    "name": "stone_crack_small_with_plant",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/stone_crack_small_with_plant.xbm"
+  },
+  {
+    "name": "wood_crack_hiting_cuts",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_hiting_cuts.xbm"
+  },
+  {
+    "name": "wood_crack_medium_wide_deep",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_medium_wide_deep.xbm"
+  },
+  {
+    "name": "wood_crack_medium_wide_shallow",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_medium_wide_shallow.xbm"
+  },
+  {
+    "name": "wood_crack_set_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_set_a.xbm"
+  },
+  {
+    "name": "wood_crack_termites_long",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_crack_termites_long.xbm"
+  },
+  {
+    "name": "wood_letter_carving",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/damage/wood_letter_carving.xbm"
+  },
+  {
+    "name": "cart_track",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/cart_track.xbm"
+  },
+  {
+    "name": "path_drag_corpse_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/dirt/path_drag_corpse_n.xbm"
+  },
+  {
+    "name": "novigrad_flag",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/flags/novigrad_flag.xbm"
+  },
+  {
+    "name": "oxenfurt_flag",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/flags/oxenfurt_flag.xbm"
+  },
+  {
+    "name": "flowers_decal",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/flowers/flowers_decal.xbm"
+  },
+  {
+    "name": "human_footprint_bare_mud",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/human/human_footprint_bare_mud.xbm"
+  },
+  {
+    "name": "university_monument_inscription",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/inscriptions/university_monument_inscription.xbm"
+  },
+  {
+    "name": "large_magic_circle",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/magic/large_magic_circle.xbm"
+  },
+  {
+    "name": "teleport_pentagram",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/magic/teleport_pentagram.xbm"
+  },
+  {
+    "name": "arachas_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/arachas/arachas_path.xbm"
+  },
+  {
+    "name": "bies_claw_decal",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/bies/bies_claw_decal.xbm"
+  },
+  {
+    "name": "bies_scratch_wood",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/bies/bies_scratch_wood.xbm"
+  },
+  {
+    "name": "fugas_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/fugas/fugas_path.xbm"
+  },
+  {
+    "name": "gryphon_footstep_right",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/gryphon/gryphon_footstep_right.xbm"
+  },
+  {
+    "name": "gryphon_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/gryphon/gryphon_path.xbm"
+  },
+  {
+    "name": "leshy_feet_left",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/leshy/leshy_feet_left.xbm"
+  },
+  {
+    "name": "leshy_feet_right",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/leshy/leshy_feet_right.xbm"
+  },
+  {
+    "name": "leshy_scratch_flesh",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/leshy/leshy_scratch_flesh.xbm"
+  },
+  {
+    "name": "leshy_scratch_wood",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/leshy/leshy_scratch_wood.xbm"
+  },
+  {
+    "name": "werewolf_footprint",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/werewolf/werewolf_footprint.xbm"
+  },
+  {
+    "name": "ornament_nml",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/ornaments/ornament_nml.xbm"
+  },
+  {
+    "name": "ornament_test",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/ornaments/ornament_test.xbm"
+  },
+  {
+    "name": "cdpr_needs_you",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/cdpr_needs_you.xbm"
+  },
+  {
+    "name": "man_woman_wallpainting_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/man_woman_wallpainting_a.xbm"
+  },
+  {
+    "name": "woman_wallpainting_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/woman_wallpainting_a.xbm"
+  },
+  {
+    "name": "woman_wallpainting_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/woman_wallpainting_b.xbm"
+  },
+  {
+    "name": "woman_wallpainting_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/woman_wallpainting_c.xbm"
+  },
+  {
+    "name": "woman_wallpainting_d",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/paintings/woman_wallpainting_d.xbm"
+  },
+  {
+    "name": "colour_splash_spray_big",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/patterns/colour_splash_spray_big.xbm"
+  },
+  {
+    "name": "colour_splash_spray_medium",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/patterns/colour_splash_spray_medium.xbm"
+  },
+  {
+    "name": "paint_line",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/patterns/paint_line.xbm"
+  },
+  {
+    "name": "skeletons",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/patterns/skeletons.xbm"
+  },
+  {
+    "name": "squeeze_painting",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/patterns/squeeze_painting.xbm"
+  },
+  {
+    "name": "salt_decal_leak_a_translucent",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_leak_a_translucent.xbm"
+  },
+  {
+    "name": "salt_decal_veins_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_veins_a.xbm"
+  },
+  {
+    "name": "salt_decal_veins_a_translucent",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_veins_a_translucent.xbm"
+  },
+  {
+    "name": "salt_decal_veins_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/salt/salt_decal_veins_b.xbm"
+  },
+  {
+    "name": "seagull_painting",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/seagull_painting.xbm"
+  },
+  {
+    "name": "shipping_company_logo",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/shipping_company_logo.xbm"
+  },
+  {
+    "name": "wine_house_emblem",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/wine_house_emblem.xbm"
+  },
+  {
+    "name": "witch_graffiti_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_a.xbm"
+  },
+  {
+    "name": "witch_graffiti_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_c.xbm"
+  },
+  {
+    "name": "witch_graffiti_d",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_d.xbm"
+  },
+  {
+    "name": "witch_graffiti_f",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_f.xbm"
+  },
+  {
+    "name": "witch_graffiti_h",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_h.xbm"
+  },
+  {
+    "name": "witch_graffiti_i",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_i.xbm"
+  },
+  {
+    "name": "witch_graffiti_j",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_graffiti_j.xbm"
+  },
+  {
+    "name": "witch_symbol_chalk",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witch_symbol_chalk.xbm"
+  },
+  {
+    "name": "witcher_schools_griffon",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witcher_schools_drawings/witcher_schools_griffon.xbm"
+  },
+  {
+    "name": "witcher_schools_lion",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witcher_schools_drawings/witcher_schools_lion.xbm"
+  },
+  {
+    "name": "witcher_schools_lynx",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witcher_schools_drawings/witcher_schools_lynx.xbm"
+  },
+  {
+    "name": "witcher_schools_wolf",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/witcher_schools_drawings/witcher_schools_wolf.xbm"
+  },
+  {
+    "name": "readanian_coat_of_arms_decal_gerald",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/mq1022_item__readanian_coat_of_arms_decals/readanian_coat_of_arms_decal_gerald.xbm"
+  },
+  {
+    "name": "readanian_coat_of_arms_decal_trol",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/mq1022_item__readanian_coat_of_arms_decals/readanian_coat_of_arms_decal_trol.xbm"
+  },
+  {
+    "name": "blood_splash_vbig_m",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_vbig_m.xbm"
+  },
+  {
+    "name": "blood_splash_vbig_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_vbig_n.xbm"
+  },
+  {
+    "name": "bies_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/bies/bies_path.xbm"
+  },
+  {
+    "name": "noonwraith_appear_swirl",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/noonwraith/noonwraith_appear_swirl.xbm"
+  },
+  {
+    "name": "red_cross_map",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/red_cross_map.xbm"
+  },
+  {
+    "name": "blood_splash_big_n",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_big_n.xbm"
+  },
+  {
+    "name": "footsteps_dry",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/footsteps_dry.xbm"
+  },
+  {
+    "name": "teleport_pentagram_incomplete",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/magic/teleport_pentagram_incomplete.xbm"
+  },
+  {
+    "name": "werewolf_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/werewolf/werewolf_path.xbm"
+  },
+  {
+    "name": "blood_splash_m",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/blood_splash_m.xbm"
+  },
+  {
+    "name": "wnd__decal_d03",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/common/textures/decals/wounds/wnd__decal_d03.xbm"
+  },
+  {
+    "name": "horse_painting_large",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/horse_painting_large.xbm"
+  },
+  {
+    "name": "bies_dung_decal",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/bies/bies_dung_decal.xbm"
+  },
+  {
+    "name": "plain_wood_destroyed_m",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/plain_wood_destroyed_m.xbm"
+  },
+  {
+    "name": "dog",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/dog.xbm"
+  },
+  {
+    "name": "fish",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/fish.xbm"
+  },
+  {
+    "name": "fox",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/fox.xbm"
+  },
+  {
+    "name": "goat",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/goat.xbm"
+  },
+  {
+    "name": "moose",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/moose.xbm"
+  },
+  {
+    "name": "ship_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/ship_a.xbm"
+  },
+  {
+    "name": "ship_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/ship_b.xbm"
+  },
+  {
+    "name": "warrior",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/warrior.xbm"
+  },
+  {
+    "name": "warrior_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/warrior_b.xbm"
+  },
+  {
+    "name": "warrior_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/warrior_c.xbm"
+  },
+  {
+    "name": "warrior_d",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/warrior_d.xbm"
+  },
+  {
+    "name": "warrior_e",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/warrior_e.xbm"
+  },
+  {
+    "name": "whale",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/skellige/whale.xbm"
+  },
+  {
+    "name": "sq209_cave_of_visons_decal_large_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/sq209/sq209_item__cave_of_visions_decals/sq209_cave_of_visons_decal_large_b.xbm"
+  },
+  {
+    "name": "sq209_cave_of_visons_decal_large_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/sq209/sq209_item__cave_of_visions_decals/sq209_cave_of_visons_decal_large_c.xbm"
+  },
+  {
+    "name": "sq209_cave_of_visons_decal_medium_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/sq209/sq209_item__cave_of_visions_decals/sq209_cave_of_visons_decal_medium_a.xbm"
+  },
+  {
+    "name": "sq209_cave_of_visons_decal_medium_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/sq209/sq209_item__cave_of_visions_decals/sq209_cave_of_visons_decal_medium_b.xbm"
+  },
+  {
+    "name": "sq209_cave_of_visons_decal_medium_c",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/sq209/sq209_item__cave_of_visions_decals/sq209_cave_of_visons_decal_medium_c.xbm"
+  },
+  {
+    "name": "sq209_cave_of_visons_decal_small_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/sq209/sq209_item__cave_of_visions_decals/sq209_cave_of_visons_decal_small_a.xbm"
+  },
+  {
+    "name": "sq209_cave_of_visons_decal_small_b",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/sq209/sq209_item__cave_of_visions_decals/sq209_cave_of_visons_decal_small_b.xbm"
+  },
+  {
+    "name": "ashen_symbols",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/ashen_symbols.xbm"
+  },
+  {
+    "name": "siren_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/siren/siren_path.xbm"
+  },
+  {
+    "name": "blood_decal_01",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/blood_decal_01.xbm"
+  },
+  {
+    "name": "sq209_cave_of_visons_decal_large_a",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/quest_items/sq209/sq209_item__cave_of_visions_decals/sq209_cave_of_visons_decal_large_a.xbm"
+  },
+  {
+    "name": "blood_splash_big",
+    "category": "Decals",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/textures_tileable/decals/blood_splash_big.xbm"
+  },
+  {
+    "name": "blood_splash_big_n",
+    "category": "Decals",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/textures_tileable/decals/blood_splash_big_n.xbm"
+  },
+  {
+    "name": "lake_painting",
+    "category": "Decals",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/textures_tileable/decals/lake_painting.xbm"
+  },
+  {
+    "name": "paint_patch",
+    "category": "Decals",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/textures_tileable/decals/paint_patch.xbm"
+  },
+  {
+    "name": "paint_spill",
+    "category": "Decals",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/textures_tileable/decals/paint_spill.xbm"
+  },
+  {
+    "name": "bob_cross_circles",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_cross_circles.xbm"
+  },
+  {
+    "name": "bob_damage",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_damage.xbm"
+  },
+  {
+    "name": "bob_damage_n",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_damage_n.xbm"
+  },
+  {
+    "name": "bob_decal_golden_grapes",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_golden_grapes.xbm"
+  },
+  {
+    "name": "bob_vine_fresk",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_vine_fresk.xbm"
+  },
+  {
+    "name": "bob_blood_g_large",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_g_large.xbm"
+  },
+  {
+    "name": "bob_blood_drag_big_old",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/old_blood/bob_blood_drag_big_old.xbm"
+  },
+  {
+    "name": "bob_blood_drag_small_old",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/old_blood/bob_blood_drag_small_old.xbm"
+  },
+  {
+    "name": "bob_blood_splatter_old",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/old_blood/bob_blood_splatter_old.xbm"
+  },
+  {
+    "name": "bob_colour_red",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_colour_red.xbm"
+  },
+  {
+    "name": "bob_white",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_white.xbm"
+  },
+  {
+    "name": "bob_big_mural",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_big_mural.xbm"
+  },
+  {
+    "name": "bob_decal_grapes_trim_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_grapes_trim_b.xbm"
+  },
+  {
+    "name": "bob_vertical_flower",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_vertical_flower.xbm"
+  },
+  {
+    "name": "kikimora_rock_cracks",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/rock/kikimora_rock_cracks.xbm"
+  },
+  {
+    "name": "ground_decal_01",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/textures/decals/ground_decal_01.xbm"
+  },
+  {
+    "name": "bob_blood_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_a.xbm"
+  },
+  {
+    "name": "bob_blood_a_blurry",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_a_blurry.xbm"
+  },
+  {
+    "name": "bob_blood_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_b.xbm"
+  },
+  {
+    "name": "bob_blood_c",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_c.xbm"
+  },
+  {
+    "name": "bob_blood_c_blurry",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_c_blurry.xbm"
+  },
+  {
+    "name": "bob_blood_d",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_d.xbm"
+  },
+  {
+    "name": "bob_blood_d_blurry",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_d_blurry.xbm"
+  },
+  {
+    "name": "bob_blood_drag_big",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_drag_big.xbm"
+  },
+  {
+    "name": "bob_blood_drag_small",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_drag_small.xbm"
+  },
+  {
+    "name": "bob_blood_e",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_e.xbm"
+  },
+  {
+    "name": "bob_blood_e_blurry",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_e_blurry.xbm"
+  },
+  {
+    "name": "bob_blood_f",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_f.xbm"
+  },
+  {
+    "name": "bob_blood_g",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_g.xbm"
+  },
+  {
+    "name": "bob_blood_ground_stain",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_ground_stain.xbm"
+  },
+  {
+    "name": "bob_blood_h",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_h.xbm"
+  },
+  {
+    "name": "bob_blood_i",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_i.xbm"
+  },
+  {
+    "name": "bob_blood_i_large",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_i_large.xbm"
+  },
+  {
+    "name": "bob_blood_j",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_j.xbm"
+  },
+  {
+    "name": "bob_blood_k",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_k.xbm"
+  },
+  {
+    "name": "bob_blood_path",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_path.xbm"
+  },
+  {
+    "name": "bob_blood_splash_big",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_splash_big.xbm"
+  },
+  {
+    "name": "bob_blood_splash_spray_big",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_splash_spray_big.xbm"
+  },
+  {
+    "name": "bob_blood_splash_spray_medium",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_splash_spray_medium.xbm"
+  },
+  {
+    "name": "bob_blood_splash_spray_small",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_splash_spray_small.xbm"
+  },
+  {
+    "name": "bob_blood_splash_vbig",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_splash_vbig.xbm"
+  },
+  {
+    "name": "bob_bloody_handprint",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_bloody_handprint.xbm"
+  },
+  {
+    "name": "bob_bloody_handprint_right",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_bloody_handprint_right.xbm"
+  },
+  {
+    "name": "bob_claw_slash_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_claw_slash_b.xbm"
+  },
+  {
+    "name": "bob_burned_circular",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/burned/bob_burned_circular.xbm"
+  },
+  {
+    "name": "bob_burned_horizontal",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/burned/bob_burned_horizontal.xbm"
+  },
+  {
+    "name": "bob_burned_vertical",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/burned/bob_burned_vertical.xbm"
+  },
+  {
+    "name": "bob_burned_vertical_dark",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/burned/bob_burned_vertical_dark.xbm"
+  },
+  {
+    "name": "bob_burned_vertical_dark_red",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/burned/bob_burned_vertical_dark_red.xbm"
+  },
+  {
+    "name": "bob_smoke_stain",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/burned/bob_smoke_stain.xbm"
+  },
+  {
+    "name": "bob_smoke_stain_vertical",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/burned/bob_smoke_stain_vertical.xbm"
+  },
+  {
+    "name": "bob_black",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_black.xbm"
+  },
+  {
+    "name": "bob_black_full",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_black_full.xbm"
+  },
+  {
+    "name": "bob_blood_red",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_blood_red.xbm"
+  },
+  {
+    "name": "bob_blue",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_blue.xbm"
+  },
+  {
+    "name": "bob_brown",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_brown.xbm"
+  },
+  {
+    "name": "bob_brown_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_brown_b.xbm"
+  },
+  {
+    "name": "bob_green",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_green.xbm"
+  },
+  {
+    "name": "bob_green_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_green_b.xbm"
+  },
+  {
+    "name": "bob_green_light",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_green_light.xbm"
+  },
+  {
+    "name": "bob_light_blue",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_light_blue.xbm"
+  },
+  {
+    "name": "bob_olive",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_olive.xbm"
+  },
+  {
+    "name": "bob_orange",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_orange.xbm"
+  },
+  {
+    "name": "bob_orange_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_orange_b.xbm"
+  },
+  {
+    "name": "bob_brick_decal_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_brick_decal_b.xbm"
+  },
+  {
+    "name": "bob_brick_exposed",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_brick_exposed.xbm"
+  },
+  {
+    "name": "bob_cloth_stain_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_cloth_stain_a.xbm"
+  },
+  {
+    "name": "bob_cracks_medium",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_cracks_medium.xbm"
+  },
+  {
+    "name": "bob_destroyed_red_brick_decal",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_destroyed_red_brick_decal.xbm"
+  },
+  {
+    "name": "bob_plaster_damage_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_plaster_damage_a.xbm"
+  },
+  {
+    "name": "bob_plaster_damage_patch",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_plaster_damage_patch.xbm"
+  },
+  {
+    "name": "bob_stone_crack_big_deep",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_stone_crack_big_deep.xbm"
+  },
+  {
+    "name": "bob_stone_crack_big_shallow",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_stone_crack_big_shallow.xbm"
+  },
+  {
+    "name": "bob_stone_crack_middle_deep",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_stone_crack_middle_deep.xbm"
+  },
+  {
+    "name": "bob_stone_crack_middle_shallow",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_stone_crack_middle_shallow.xbm"
+  },
+  {
+    "name": "bob_wall_crack",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_wall_crack.xbm"
+  },
+  {
+    "name": "bob_wood_crack_cuts",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_wood_crack_cuts.xbm"
+  },
+  {
+    "name": "bob_wood_crack_hit",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_wood_crack_hit.xbm"
+  },
+  {
+    "name": "bob_wood_crack_huge_thin",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_wood_crack_huge_thin.xbm"
+  },
+  {
+    "name": "bob_wood_crack_medium_long",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_wood_crack_medium_long.xbm"
+  },
+  {
+    "name": "bob_wood_crack_medium_wide_deep",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/damage/bob_wood_crack_medium_wide_deep.xbm"
+  },
+  {
+    "name": "bob_arch_dirt",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_arch_dirt.xbm"
+  },
+  {
+    "name": "bob_cart_track",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_cart_track.xbm"
+  },
+  {
+    "name": "bob_cave_decal_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_cave_decal_a.xbm"
+  },
+  {
+    "name": "bob_damp_stains",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_damp_stains.xbm"
+  },
+  {
+    "name": "bob_dark_rotten_stains",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dark_rotten_stains.xbm"
+  },
+  {
+    "name": "bob_dirt_big",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dirt_big.xbm"
+  },
+  {
+    "name": "bob_dirt_big_round",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dirt_big_round.xbm"
+  },
+  {
+    "name": "bob_dirt_big_sand",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dirt_big_sand.xbm"
+  },
+  {
+    "name": "bob_dirt_big_soil_dark",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dirt_big_soil_dark.xbm"
+  },
+  {
+    "name": "bob_dirt_big_soil_dark_swamp",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dirt_big_soil_dark_swamp.xbm"
+  },
+  {
+    "name": "bob_dirt_cracks",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dirt_cracks.xbm"
+  },
+  {
+    "name": "bob_dirt_road_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dirt_road_a.xbm"
+  },
+  {
+    "name": "bob_dirt_road_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dirt_road_b.xbm"
+  },
+  {
+    "name": "bob_dirt_road_c",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_dirt_road_c.xbm"
+  },
+  {
+    "name": "bob_drag_corpse",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_drag_corpse.xbm"
+  },
+  {
+    "name": "bob_path_drag_corpse",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_path_drag_corpse.xbm"
+  },
+  {
+    "name": "bob_plaster_dirt_01",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_plaster_dirt_01.xbm"
+  },
+  {
+    "name": "bob_plaster_dirt_02",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_plaster_dirt_02.xbm"
+  },
+  {
+    "name": "bob_spoons_mess",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_spoons_mess.xbm"
+  },
+  {
+    "name": "bob_wall_bottom",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_wall_bottom.xbm"
+  },
+  {
+    "name": "bob_wall_dirt",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_wall_dirt.xbm"
+  },
+  {
+    "name": "bob_white_plaster",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/bob_white_plaster.xbm"
+  },
+  {
+    "name": "dirt_big_soil",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/dirt_big_soil.xbm"
+  },
+  {
+    "name": "dirt_big_soil_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/dirt/dirt_big_soil_b.xbm"
+  },
+  {
+    "name": "bob_horseshoe_mud",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/human/bob_horseshoe_mud.xbm"
+  },
+  {
+    "name": "bob_human_footprint_shoe_left_mud",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/human/bob_human_footprint_shoe_left_mud.xbm"
+  },
+  {
+    "name": "bob_human_footprint_shoe_right_mud",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/human/bob_human_footprint_shoe_right_mud.xbm"
+  },
+  {
+    "name": "bob_4chunks_dirt_leaking",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_4chunks_dirt_leaking.xbm"
+  },
+  {
+    "name": "bob_cave_leaking_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_cave_leaking_a.xbm"
+  },
+  {
+    "name": "bob_cave_leaking_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_cave_leaking_b.xbm"
+  },
+  {
+    "name": "bob_decal_leaking_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_decal_leaking_a.xbm"
+  },
+  {
+    "name": "bob_decal_wine_splash",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_decal_wine_splash.xbm"
+  },
+  {
+    "name": "bob_leaking_dirt_big",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_dirt_big.xbm"
+  },
+  {
+    "name": "bob_leaking_dirt_medium",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_dirt_medium.xbm"
+  },
+  {
+    "name": "bob_leaking_dirt_small",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_dirt_small.xbm"
+  },
+  {
+    "name": "bob_leaking_huge",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_huge.xbm"
+  },
+  {
+    "name": "bob_leaking_long",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_long.xbm"
+  },
+  {
+    "name": "bob_leaking_moss_big",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_moss_big.xbm"
+  },
+  {
+    "name": "bob_leaking_moss_small",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_moss_small.xbm"
+  },
+  {
+    "name": "bob_leaking_sewer_big",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_sewer_big.xbm"
+  },
+  {
+    "name": "bob_leaking_sewer_big_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_sewer_big_b.xbm"
+  },
+  {
+    "name": "bob_leaking_uber_long",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_leaking_uber_long.xbm"
+  },
+  {
+    "name": "bob_moss_water_marked",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_moss_water_marked.xbm"
+  },
+  {
+    "name": "bob_mossy_bottom_large",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_mossy_bottom_large.xbm"
+  },
+  {
+    "name": "bob_mossy_bottom_medium",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_mossy_bottom_medium.xbm"
+  },
+  {
+    "name": "bob_mossy_bottom_small",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_mossy_bottom_small.xbm"
+  },
+  {
+    "name": "bob_wine_stain",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/leaking/bob_wine_stain.xbm"
+  },
+  {
+    "name": "bob_bird_poop",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/misc/bob_bird_poop.xbm"
+  },
+  {
+    "name": "bob_grain_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/misc/bob_grain_a.xbm"
+  },
+  {
+    "name": "bob_grain_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/misc/bob_grain_b.xbm"
+  },
+  {
+    "name": "bob_hay_road",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/misc/bob_hay_road.xbm"
+  },
+  {
+    "name": "bob_hay_road_spread",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/misc/bob_hay_road_spread.xbm"
+  },
+  {
+    "name": "bob_honey",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/misc/bob_honey.xbm"
+  },
+  {
+    "name": "bob_vomit_splatter_large",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/misc/bob_vomit_splatter_large.xbm"
+  },
+  {
+    "name": "bob_vomit_splatter_small",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/misc/bob_vomit_splatter_small.xbm"
+  },
+  {
+    "name": "bob_cave_moss_decal_c",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_cave_moss_decal_c.xbm"
+  },
+  {
+    "name": "bob_decal_leaking_moossy_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_decal_leaking_moossy_a.xbm"
+  },
+  {
+    "name": "bob_green_rotten_moss",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_green_rotten_moss.xbm"
+  },
+  {
+    "name": "bob_moss_decal_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_moss_decal_a.xbm"
+  },
+  {
+    "name": "bob_moss_decal_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_moss_decal_b.xbm"
+  },
+  {
+    "name": "bob_moss_grassy",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_moss_grassy.xbm"
+  },
+  {
+    "name": "bob_moss_large",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_moss_large.xbm"
+  },
+  {
+    "name": "bob_moss_large_dry",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_moss_large_dry.xbm"
+  },
+  {
+    "name": "bob_moss_small",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_moss_small.xbm"
+  },
+  {
+    "name": "bob_sand_rim",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_sand_rim.xbm"
+  },
+  {
+    "name": "bob_seaweed_rim",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Moss"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/moss/bob_seaweed_rim.xbm"
+  },
+  {
+    "name": "bob_bank_decal_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_bank_decal_a.xbm"
+  },
+  {
+    "name": "bob_bank_decal_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_bank_decal_b.xbm"
+  },
+  {
+    "name": "bob_bank_decal_c",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_bank_decal_c.xbm"
+  },
+  {
+    "name": "bob_bank_decal_d",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_bank_decal_d.xbm"
+  },
+  {
+    "name": "bob_buildings_ornament",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_buildings_ornament.xbm"
+  },
+  {
+    "name": "bob_buildings_ornament_long",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_buildings_ornament_long.xbm"
+  },
+  {
+    "name": "bob_cock",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_cock.xbm"
+  },
+  {
+    "name": "bob_couple_painting",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_couple_painting.xbm"
+  },
+  {
+    "name": "bob_decal_bird_scratched",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_bird_scratched.xbm"
+  },
+  {
+    "name": "bob_decal_chimera_scratched",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_chimera_scratched.xbm"
+  },
+  {
+    "name": "bob_decal_grape_long",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_grape_long.xbm"
+  },
+  {
+    "name": "bob_decal_grapes_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_grapes_a.xbm"
+  },
+  {
+    "name": "bob_decal_grapes_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_grapes_b.xbm"
+  },
+  {
+    "name": "bob_decal_grapes_d",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_grapes_d.xbm"
+  },
+  {
+    "name": "bob_decal_grapes_e",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_grapes_e.xbm"
+  },
+  {
+    "name": "bob_decal_grapes_f",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_grapes_f.xbm"
+  },
+  {
+    "name": "bob_decal_grapes_g",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_grapes_g.xbm"
+  },
+  {
+    "name": "bob_decal_grapes_trim_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_grapes_trim_a.xbm"
+  },
+  {
+    "name": "bob_decal_leaking_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_leaking_a.xbm"
+  },
+  {
+    "name": "bob_decal_ornament_flowers_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_ornament_flowers_a.xbm"
+  },
+  {
+    "name": "bob_decal_pillar",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_pillar.xbm"
+  },
+  {
+    "name": "bob_decal_roman",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_roman.xbm"
+  },
+  {
+    "name": "bob_decal_sash",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_decal_sash.xbm"
+  },
+  {
+    "name": "bob_flower_dec_01",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_flower_dec_01.xbm"
+  },
+  {
+    "name": "bob_flower_wall",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_flower_wall.xbm"
+  },
+  {
+    "name": "bob_fresk_big_01_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_fresk_big_01_b.xbm"
+  },
+  {
+    "name": "bob_fresk_big_02_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_fresk_big_02_b.xbm"
+  },
+  {
+    "name": "bob_fresk_big_03_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_fresk_big_03_b.xbm"
+  },
+  {
+    "name": "bob_fresk_big_04_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_fresk_big_04_b.xbm"
+  },
+  {
+    "name": "bob_fresk_big_05_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_fresk_big_05_b.xbm"
+  },
+  {
+    "name": "bob_large_magic_circle",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_large_magic_circle.xbm"
+  },
+  {
+    "name": "bob_man_woman_wallpainting_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_man_woman_wallpainting_a.xbm"
+  },
+  {
+    "name": "bob_middleclass_trim",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_middleclass_trim.xbm"
+  },
+  {
+    "name": "bob_text_wall_side",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_text_wall_side.xbm"
+  },
+  {
+    "name": "bob_woman_wallpainting_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_woman_wallpainting_a.xbm"
+  },
+  {
+    "name": "bob_woman_wallpainting_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_woman_wallpainting_b.xbm"
+  },
+  {
+    "name": "bob_woman_wallpainting_c",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_woman_wallpainting_c.xbm"
+  },
+  {
+    "name": "bob_woman_wallpainting_d",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_woman_wallpainting_d.xbm"
+  },
+  {
+    "name": "rock_cracks_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/rock/rock_cracks_a.xbm"
+  },
+  {
+    "name": "rock_cracks_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/rock/rock_cracks_b.xbm"
+  },
+  {
+    "name": "rock_cracks_c",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/rock/rock_cracks_c.xbm"
+  },
+  {
+    "name": "bob_salt_decal_horizontal_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/salt/bob_salt_decal_horizontal_a.xbm"
+  },
+  {
+    "name": "bob_salt_decal_horizontal_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/salt/bob_salt_decal_horizontal_b.xbm"
+  },
+  {
+    "name": "bob_salt_decal_leak_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/salt/bob_salt_decal_leak_a.xbm"
+  },
+  {
+    "name": "bob_salt_decal_leak_a_translucent",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/salt/bob_salt_decal_leak_a_translucent.xbm"
+  },
+  {
+    "name": "bob_salt_decal_veins_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/salt/bob_salt_decal_veins_a.xbm"
+  },
+  {
+    "name": "bob_salt_decal_veins_a_translucent",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/salt/bob_salt_decal_veins_a_translucent.xbm"
+  },
+  {
+    "name": "bob_salt_decal_vertical_a",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/salt/bob_salt_decal_vertical_a.xbm"
+  },
+  {
+    "name": "bob_salt_decal_vertical_b",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/salt/bob_salt_decal_vertical_b.xbm"
+  },
+  {
+    "name": "bob_red_text",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/text/bob_red_text.xbm"
+  },
+  {
+    "name": "bob_text_wall",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/text/bob_text_wall.xbm"
+  },
+  {
+    "name": "bob_text_wall_02",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/text/bob_text_wall_02.xbm"
+  },
+  {
+    "name": "bob_barnacles_large",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/unterwater/bob_barnacles_large.xbm"
+  },
+  {
+    "name": "bob_barnacles_small",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/unterwater/bob_barnacles_small.xbm"
+  },
+  {
+    "name": "bob_seaweed_patch",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/unterwater/bob_seaweed_patch.xbm"
+  },
+  {
+    "name": "bob_seaweed_patch_small",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/unterwater/bob_seaweed_patch_small.xbm"
+  },
+  {
+    "name": "bob_slime_patch",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/unterwater/bob_slime_patch.xbm"
+  },
+  {
+    "name": "bob_weed_patch",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/unterwater/bob_weed_patch.xbm"
+  },
+  {
+    "name": "vampire_decal_circle",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_decal_circle.xbm"
+  },
+  {
+    "name": "vampire_decal_figure",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_decal_figure.xbm"
+  },
+  {
+    "name": "vampire_decal_gate",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_decal_gate.xbm"
+  },
+  {
+    "name": "vampire_decal_goat",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_decal_goat.xbm"
+  },
+  {
+    "name": "vampire_decal_goatring",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_decal_goatring.xbm"
+  },
+  {
+    "name": "vampire_decal_winged",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_decal_winged.xbm"
+  },
+  {
+    "name": "vampire_hand_blood",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_hand_blood.xbm"
+  },
+  {
+    "name": "vampire_hand_blood_line",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_hand_blood_line.xbm"
+  },
+  {
+    "name": "vampire_hand_knife",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_hand_knife.xbm"
+  },
+  {
+    "name": "vampire_hand_knife_line",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_hand_knife_line.xbm"
+  },
+  {
+    "name": "vampire_hand_snake",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_hand_snake.xbm"
+  },
+  {
+    "name": "vampire_hand_snake_line",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_hand_snake_line.xbm"
+  },
+  {
+    "name": "rotfiend_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/rotfiend/rotfiend_path.xbm"
+  },
+  {
+    "name": "bob_blood_b_blurry",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_b_blurry.xbm"
+  },
+  {
+    "name": "bob_blood_splash_vbig_arachas",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [
+      "Blood"
+    ],
+    "path": "dlc/bob/data/environment/textures/decals/blood/bob_blood_splash_vbig_arachas.xbm"
+  },
+  {
+    "name": "bob_cyan",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/colours/bob_cyan.xbm"
+  },
+  {
+    "name": "spiderwebs_decal",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/misc/spiderwebs_decal.xbm"
+  },
+  {
+    "name": "bob_text_compassion",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/text/bob_text_compassion.xbm"
+  },
+  {
+    "name": "bob_text_courage",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/text/bob_text_courage.xbm"
+  },
+  {
+    "name": "bob_text_ft_entrance",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/text/bob_text_ft_entrance.xbm"
+  },
+  {
+    "name": "bob_text_generosity",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/text/bob_text_generosity.xbm"
+  },
+  {
+    "name": "bob_text_honor",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/text/bob_text_honor.xbm"
+  },
+  {
+    "name": "bob_text_wisdom",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/text/bob_text_wisdom.xbm"
+  },
+  {
+    "name": "vampire_decal_black_circle",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/vampiric/vampire_decal_black_circle.xbm"
+  },
+  {
+    "name": "anseis",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/anseis.xbm"
+  },
+  {
+    "name": "delwyn",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/delwyn.xbm"
+  },
+  {
+    "name": "donimir",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/donimir.xbm"
+  },
+  {
+    "name": "geralt",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/geralt.xbm"
+  },
+  {
+    "name": "guy",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/guy.xbm"
+  },
+  {
+    "name": "horm",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/horm.xbm"
+  },
+  {
+    "name": "llinos",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/llinos.xbm"
+  },
+  {
+    "name": "palmerin",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/palmerin.xbm"
+  },
+  {
+    "name": "rainfarn",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/rainfarn.xbm"
+  },
+  {
+    "name": "ravix",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/ravix.xbm"
+  },
+  {
+    "name": "tailles",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/decals/tailles.xbm"
+  },
+  {
+    "name": "ekima_path",
+    "category": "Decals",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/textures_tileable/decals/monsters/ekima/ekima_path.xbm"
+  },
+  {
+    "name": "bob_man_woman_wallpainting_a_censored",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_man_woman_wallpainting_a_censored.xbm"
+  },
+  {
+    "name": "bob_woman_wallpainting_a_censored",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_woman_wallpainting_a_censored.xbm"
+  },
+  {
+    "name": "bob_woman_wallpainting_b_censored",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_woman_wallpainting_b_censored.xbm"
+  },
+  {
+    "name": "bob_woman_wallpainting_c_censored",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_woman_wallpainting_c_censored.xbm"
+  },
+  {
+    "name": "bob_woman_wallpainting_d_censored",
+    "category": "Decals",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/decals/ornaments/bob_woman_wallpainting_d_censored.xbm"
+  }
+]
