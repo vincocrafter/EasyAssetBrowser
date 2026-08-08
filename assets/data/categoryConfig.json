@@ -1,0 +1,87 @@
+{
+  "categories": [
+    {
+      "name": "Meshes",
+      "file": "meshes.json",
+      "tags": [
+        "Basement",
+        "Bridge",
+        "Catacombs",
+        "Cave",
+        "Cellar",
+        "Corpses",
+        "Crypt",
+        "Decoration",
+        "DirtWall",
+        "Elven",
+        "Food",
+        "Ground",
+        "Harbour",
+        "Light",
+        "MrMirror",
+        "Palace",
+        "Palisade",
+        "Rocks",
+        "Ruin",
+        "Sewers",
+        "Tent",
+        "Water",
+        "Wunderland"
+      ]
+    },
+    {
+      "name": "Entities",
+      "file": "entities.json",
+      "tags": [
+        "Bridge",
+        "Cave",
+        "Corpses",
+        "Crypt",
+        "Decoration",
+        "Elven",
+        "Engine",
+        "Food",
+        "Harbour",
+        "Light",
+        "Monster",
+        "MrMirror",
+        "Palace",
+        "Palisade",
+        "Ruin",
+        "Tent",
+        "Water",
+        "Wunderland"
+      ]
+    },
+    {
+      "name": "Decals",
+      "file": "decals.json",
+      "tags": [
+        "Blood",
+        "Moss"
+      ]
+    },
+    {
+      "name": "Particles",
+      "file": "particles.json",
+      "tags": [
+        "Animals",
+        "Blood",
+        "Mage",
+        "Monster"
+      ]
+    },
+    {
+      "name": "Communities",
+      "file": "communities.json",
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "name": "SRT Trees",
+      "file": "srttrees.json",
+      "tags": []
+    }
+  ]
+}
