@@ -34,6 +34,7 @@
       "file": "entities.json",
       "tags": [
         "Bridge",
+		"Breakable",
         "Cave",
         "Corpses",
         "Crypt",
