@@ -5,6 +5,7 @@
       "file": "meshes.json",
       "tags": [
         "Basement",
+		"Banners",
         "Bridge",
         "Catacombs",
         "Cave",
@@ -37,6 +38,7 @@
       "name": "Entities",
       "file": "entities.json",
       "tags": [
+		"Banners",
         "Bridge",
 		"Breakable",
         "Cave",

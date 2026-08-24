@@ -151214,49 +151214,63 @@
     "name": "banners_medium_red_vertex_move",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/banners_medium_red_vertex_move.w2mesh"
   },
   {
     "name": "flag_banner_vertex_move",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_banner_vertex_move.w2mesh"
   },
   {
     "name": "flag_banner_vertex_move_long_distance",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_banner_vertex_move_long_distance.w2mesh"
   },
   {
     "name": "flag_banners_big_vertex_move",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_banners_big_vertex_move.w2mesh"
   },
   {
     "name": "flag_banners_big_vertex_move_long_distance",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_banners_big_vertex_move_long_distance.w2mesh"
   },
   {
     "name": "flag_racing_pole",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_racing_pole.w2mesh"
   },
   {
     "name": "rich_pole_horizontal",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/rich_pole_horizontal.w2mesh"
   },
   {
@@ -166946,161 +166960,207 @@
     "name": "bob_stone_borders_1",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_1.w2mesh"
   },
   {
     "name": "bob_stone_borders_1_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_1_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_2",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_2.w2mesh"
   },
   {
     "name": "bob_stone_borders_2_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_2_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_high",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_high.w2mesh"
   },
   {
     "name": "bob_stone_borders_long_1",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_long_1.w2mesh"
   },
   {
     "name": "bob_stone_borders_long_1_curve180",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_long_1_curve180.w2mesh"
   },
   {
     "name": "bob_stone_borders_long_1_curve180_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_long_1_curve180_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_long_1_curve45",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_long_1_curve45.w2mesh"
   },
   {
     "name": "bob_stone_borders_long_1_curve45_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_long_1_curve45_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_long_1_curve90",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_long_1_curve90.w2mesh"
   },
   {
     "name": "bob_stone_borders_long_1_curve90_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_long_1_curve90_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_long_1_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_long_1_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_pile_a",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pile_a.w2mesh"
   },
   {
     "name": "bob_stone_borders_pile_a_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pile_a_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_pile_b",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pile_b.w2mesh"
   },
   {
     "name": "bob_stone_borders_pile_b_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pile_b_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_pile_small_a",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pile_small_a.w2mesh"
   },
   {
     "name": "bob_stone_borders_pile_small_a_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pile_small_a_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_pillar_round_1",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pillar_round_1.w2mesh"
   },
   {
     "name": "bob_stone_borders_pillar_round_1_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pillar_round_1_mossy.w2mesh"
   },
   {
     "name": "bob_stone_borders_pillar_square_1",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pillar_square_1.w2mesh"
   },
   {
     "name": "bob_stone_borders_pillar_square_1_mossy",
     "category": "Meshes",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Stone Borders"
+    ],
     "path": "dlc/bob/data/environment/terrain_surroundings/stone_borders/bob_stone_borders_pillar_square_1_mossy.w2mesh"
   },
   {

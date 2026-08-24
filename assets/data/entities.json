@@ -37146,161 +37146,207 @@
     "name": "bob_to_knights_banners_anseis_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_anseis_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_belgard_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_belgard_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_coronata_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_coronata_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_creigiau_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_creigiau_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_donimir_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_donimir_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_dorndal_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_dorndal_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_fourhorn_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_fourhorn_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_fresnes_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_fresnes_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_geralt_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_geralt_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_launfal_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_launfal_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_maecht_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_maecht_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_malatesta_and_coronata_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_malatesta_and_coronata_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_malatesta_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_malatesta_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_mettina_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_mettina_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_peyran_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_peyran_px.w2ent"
   },
   {
     "name": "bob_to_knights_banners_van_attre_px",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knights_banners_van_attre_px.w2ent"
   },
   {
     "name": "bob_to_knight_banners_belgard_px_2",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knight_banners_belgard_px_2.w2ent"
   },
   {
     "name": "bob_to_knight_banners_coronata_no_pole_px_2",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knight_banners_coronata_no_pole_px_2.w2ent"
   },
   {
     "name": "bob_to_knight_banners_coronata_px_2",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knight_banners_coronata_px_2.w2ent"
   },
   {
     "name": "bob_to_knight_banners_malatesta_and_coronata_no_pole_px_2",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knight_banners_malatesta_and_coronata_no_pole_px_2.w2ent"
   },
   {
     "name": "bob_to_knight_banners_malatesta_and_coronata_px_2",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knight_banners_malatesta_and_coronata_px_2.w2ent"
   },
   {
     "name": "bob_to_knight_banners_malatesta_no_pole_px_2",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knight_banners_malatesta_no_pole_px_2.w2ent"
   },
   {
     "name": "bob_to_knight_banners_malatesta_px_2",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/architecture/tournament/entities/bob_tournament_knights_banners/bob_to_knight_banners_malatesta_px_2.w2ent"
   },
   {
@@ -38945,217 +38991,279 @@
     "name": "banner_flag_big_vertex_move",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/banner_flag_big_vertex_move.w2ent"
   },
   {
     "name": "banner_flag_big_vertex_move_long_distance",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/banner_flag_big_vertex_move_long_distance.w2ent"
   },
   {
     "name": "banner_flag_medium_red_vertex_move",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/banner_flag_medium_red_vertex_move.w2ent"
   },
   {
     "name": "banner_flag_medium_vertex_move",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/banner_flag_medium_vertex_move.w2ent"
   },
   {
     "name": "banner_flag_vertex_move",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/banner_flag_vertex_move.w2ent"
   },
   {
     "name": "banner_flag_vertex_move_long_distance",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/banner_flag_vertex_move_long_distance.w2ent"
   },
   {
     "name": "flag_racing_a",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_racing_a.w2ent"
   },
   {
     "name": "flag_racing_b",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_racing_b.w2ent"
   },
   {
     "name": "flag_racing_c",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_racing_c.w2ent"
   },
   {
     "name": "flag_racing_d",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_racing_d.w2ent"
   },
   {
     "name": "flag_racing_f",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_racing_f.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_red",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_vertical_px_red.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_red_broken",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_vertical_px_red_broken.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_red_broken_longshadow",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_vertical_px_red_broken_longshadow.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_red_longshadow",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_vertical_px_red_longshadow.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_red_no_support",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_vertical_px_red_no_support.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_red_vertical_support",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_vertical_px_red_vertical_support.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_yellow",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_vertical_px_yellow.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_yellow_broken",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_vertical_px_yellow_broken.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_yellow_longshadow",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_vertical_px_yellow_longshadow.w2ent"
   },
   {
     "name": "flag_strip_yellow_px_no_support",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/flag_strip_yellow_px_no_support.w2ent"
   },
   {
     "name": "generic_red_tall_flag",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/generic_red_tall_flag.w2ent"
   },
   {
     "name": "generic_yellow_tall_flag",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/generic_yellow_tall_flag.w2ent"
   },
   {
     "name": "rag_wawing_medium_long_dist",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/rag_wawing_medium_long_dist.w2ent"
   },
   {
     "name": "flag_strip_px_black_no_support",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/q705_flags/flag_strip_px_black_no_support.w2ent"
   },
   {
     "name": "flag_strip_vertical_px_black_no_support",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/q705_flags/flag_strip_vertical_px_black_no_support.w2ent"
   },
   {
     "name": "q705_flag_black_a",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/q705_flags/q705_flag_black_a.w2ent"
   },
   {
     "name": "q705_flag_black_a_tall",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/q705_flags/q705_flag_black_a_tall.w2ent"
   },
   {
     "name": "q705_flag_vertical_black_b",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/q705_flags/q705_flag_vertical_black_b.w2ent"
   },
   {
     "name": "q705_flag_vertical_black_c",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/q705_flags/q705_flag_vertical_black_c.w2ent"
   },
   {
     "name": "q705_generic_black_tall_flag",
     "category": "Entities",
     "origin": "BnW",
-    "tags": [],
+    "tags": [
+      "Banners"
+    ],
     "path": "dlc/bob/data/environment/decorations/gameplay/flags_banners/q705_flags/q705_generic_black_tall_flag.w2ent"
   },
   {
