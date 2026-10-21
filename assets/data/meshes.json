@@ -188682,5 +188682,3505 @@
     "origin": "BnW",
     "tags": [],
     "path": "dlc/bob/data/environment/helpers/abc/g.w2mesh"
+  },
+  {
+    "name": "place_of_power",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/place_of_power.w2mesh"
+  },
+  {
+    "name": "h",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/abc/h.w2mesh"
+  },
+  {
+    "name": "i",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/abc/i.w2mesh"
+  },
+  {
+    "name": "point",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/point.w2mesh"
+  },
+  {
+    "name": "point_qa",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/point_qa.w2mesh"
+  },
+  {
+    "name": "point_red",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/point_red.w2mesh"
+  },
+  {
+    "name": "point_yellow",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/point_yellow.w2mesh"
+  },
+  {
+    "name": "abandoned_settlement",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/abandoned_settlement.w2mesh"
+  },
+  {
+    "name": "bandit_campfire",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/bandit_campfire.w2mesh"
+  },
+  {
+    "name": "distress_signal",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/distress_signal.w2mesh"
+  },
+  {
+    "name": "guarded_treasure",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/guarded_treasure.w2mesh"
+  },
+  {
+    "name": "hansa_hideout",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/hansa_hideout.w2mesh"
+  },
+  {
+    "name": "hidden_treasure",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/hidden_treasure.w2mesh"
+  },
+  {
+    "name": "infested_vineyard",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/infested_vineyard.w2mesh"
+  },
+  {
+    "name": "knight_errant",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/knight_errant.w2mesh"
+  },
+  {
+    "name": "medic",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/medic.w2mesh"
+  },
+  {
+    "name": "monster_den",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/monster_den.w2mesh"
+  },
+  {
+    "name": "monster_nest",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/monster_nest.w2mesh"
+  },
+  {
+    "name": "person_in_distress",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/person_in_distress.w2mesh"
+  },
+  {
+    "name": "shadow_of_past",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/shadow_of_past.w2mesh"
+  },
+  {
+    "name": "smugglers_cache",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/smugglers_cache.w2mesh"
+  },
+  {
+    "name": "winemakers_contract",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/helpers/point/poi_markers/winemakers_contract.w2mesh"
+  },
+  {
+    "name": "bob_corner_palisade_proxy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/bob_corner_palisade_proxy.w2mesh"
+  },
+  {
+    "name": "bob_corner_two_sides_proxy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/bob_corner_two_sides_proxy.w2mesh"
+  },
+  {
+    "name": "bob_palisade_long_high_a_proxy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/bob_palisade_long_high_a_proxy.w2mesh"
+  },
+  {
+    "name": "bob_palisade_long_low_a_proxy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/bob_palisade_long_low_a_proxy.w2mesh"
+  },
+  {
+    "name": "bob_palisade_short_high_proxy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/bob_palisade_short_high_proxy.w2mesh"
+  },
+  {
+    "name": "bob_tower_base_proxy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/bob_tower_base_proxy.w2mesh"
+  },
+  {
+    "name": "bob_tower_explorable_top_proxy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/bob_tower_explorable_top_proxy.w2mesh"
+  },
+  {
+    "name": "proxy_blocker_box",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/proxy_blocker_box.w2mesh"
+  },
+  {
+    "name": "proxy_blocker_cylinder",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/proxy_blocker_cylinder.w2mesh"
+  },
+  {
+    "name": "proxy_blocker_pyramid",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/proxy_meshes_textures/proxy_blocker_pyramid.w2mesh"
+  },
+  {
+    "name": "background_merged_bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/background/background_merged_bob.w2mesh"
+  },
+  {
+    "name": "bob_background_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/background/bob_background_a.w2mesh"
+  },
+  {
+    "name": "bob_background_merged",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/background/bob_background_merged.w2mesh"
+  },
+  {
+    "name": "stone_borders_long_1_curve180_mossy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/bob_stone_borders/stone_borders_long_1_curve180_mossy.w2mesh"
+  },
+  {
+    "name": "stone_borders_long_1_curve45_mossy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/bob_stone_borders/stone_borders_long_1_curve45_mossy.w2mesh"
+  },
+  {
+    "name": "704_wall_curved",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/704_wall_curved.w2mesh"
+  },
+  {
+    "name": "bob_cave_ceiling_b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/bob_cave_ceiling_b.w2mesh"
+  },
+  {
+    "name": "bob_cave_terrain_circle_hole_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/bob_cave_terrain_circle_hole_a.w2mesh"
+  },
+  {
+    "name": "cave_stalagmite_chunk_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_stalagmite_chunk_a.w2mesh"
+  },
+  {
+    "name": "cave_stalagmite_chunk_b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_stalagmite_chunk_b.w2mesh"
+  },
+  {
+    "name": "cave_stalagmite_chunk_c",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_stalagmite_chunk_c.w2mesh"
+  },
+  {
+    "name": "cave_stalagmite_chunk_d",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_stalagmite_chunk_d.w2mesh"
+  },
+  {
+    "name": "cave_stalagmite_group_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_stalagmite_group_a.w2mesh"
+  },
+  {
+    "name": "cave_stalagmite_group_b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_stalagmite_group_b.w2mesh"
+  },
+  {
+    "name": "rocks_collapsed__broken_c",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/rocks_collapsed__broken_c.w2mesh"
+  },
+  {
+    "name": "rocks_collapsed__broken_left",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/rocks_collapsed__broken_left.w2mesh"
+  },
+  {
+    "name": "rocks_collapsed__broken_top_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/rocks_collapsed__broken_top_a.w2mesh"
+  },
+  {
+    "name": "cave_organic_icicles_lights_red",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/icicles_sanctum_cave/cave_organic_icicles_lights_red.w2mesh"
+  },
+  {
+    "name": "cave_organic_icicles_lights_small_red",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/icicles_sanctum_cave/cave_organic_icicles_lights_small_red.w2mesh"
+  },
+  {
+    "name": "bob_hook_triple",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/chains/bob_hook_triple.w2mesh"
+  },
+  {
+    "name": "bob_kaer_trolde_castle_chain",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/chains/bob_kaer_trolde_castle_chain.w2mesh"
+  },
+  {
+    "name": "bob_kaer_trolde_castle_chain_short",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/chains/bob_kaer_trolde_castle_chain_short.w2mesh"
+  },
+  {
+    "name": "bob_kaer_trolde_castle_chain_straight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/chains/bob_kaer_trolde_castle_chain_straight.w2mesh"
+  },
+  {
+    "name": "bob_kaer_trolde_castle_hook",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/chains/bob_kaer_trolde_castle_hook.w2mesh"
+  },
+  {
+    "name": "bob_kaer_trolde_castle_pulley",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/chains/bob_kaer_trolde_castle_pulley.w2mesh"
+  },
+  {
+    "name": "bob_sketch_fence_hor_broken_left_beams_smoked",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances/bob_sketch_fence_hor_broken_left_beams_smoked.w2mesh"
+  },
+  {
+    "name": "bob_sketch_fence_hor_broken_right_beams_burned_long",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances/bob_sketch_fence_hor_broken_right_beams_burned_long.w2mesh"
+  },
+  {
+    "name": "sketch_fence_hor_b_beams_support",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances/destructible/assets/sketch_fence_hor_b_beams_support.w2mesh"
+  },
+  {
+    "name": "crypt_railing",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances_metal/crypt_railing.w2mesh"
+  },
+  {
+    "name": "crypt_railing_whole_small_curved",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances_metal/crypt_railing_whole_small_curved.w2mesh"
+  },
+  {
+    "name": "crypt_railing_whole_small_curved_broken",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances_metal/crypt_railing_whole_small_curved_broken.w2mesh"
+  },
+  {
+    "name": "bob_sketch_gate",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/gates/bob_sketch_gate.w2mesh"
+  },
+  {
+    "name": "bob_sewers_door_bar",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/grates/bob_sewers_door_bar.w2mesh"
+  },
+  {
+    "name": "bob_sewers_door_frame",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/grates/bob_sewers_door_frame.w2mesh"
+  },
+  {
+    "name": "bob_sewers_wall_frame",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/grates/bob_sewers_wall_frame.w2mesh"
+  },
+  {
+    "name": "bob_sewer_hidden_door_grate",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/grates/bob_sewer_hidden_door_grate.w2mesh"
+  },
+  {
+    "name": "bob_trapdoor_bar",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/grates/bob_trapdoor_bar.w2mesh"
+  },
+  {
+    "name": "bob_plane_ground_brick_b_large",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ground_planes/bob_plane_ground_brick_b_large.w2mesh"
+  },
+  {
+    "name": "bob_plane_ground_brick_b_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ground_planes/bob_plane_ground_brick_b_small.w2mesh"
+  },
+  {
+    "name": "bob_plane_ground_brick_c_large",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ground_planes/bob_plane_ground_brick_c_large.w2mesh"
+  },
+  {
+    "name": "bob_plane_ground_dead_grass_stone_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ground_planes/bob_plane_ground_dead_grass_stone_small.w2mesh"
+  },
+  {
+    "name": "bob_plane_ground_grass_dead_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ground_planes/bob_plane_ground_grass_dead_small.w2mesh"
+  },
+  {
+    "name": "bob_plane_ground_grass_roots_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ground_planes/bob_plane_ground_grass_roots_small.w2mesh"
+  },
+  {
+    "name": "bob_plane_ground_leaves_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ground_planes/bob_plane_ground_leaves_small.w2mesh"
+  },
+  {
+    "name": "bob_mine_support_pale_bark",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/mines_supports/bob_mine_support_pale_bark.w2mesh"
+  },
+  {
+    "name": "bob_mine_support_pale_clean",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/mines_supports/bob_mine_support_pale_clean.w2mesh"
+  },
+  {
+    "name": "bob_mine_support_side",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/mines_supports/bob_mine_support_side.w2mesh"
+  },
+  {
+    "name": "bob_arena_wooden_stairs",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_arena_wooden_stairs.w2mesh"
+  },
+  {
+    "name": "bob_corner_four_sides",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_corner_four_sides.w2mesh"
+  },
+  {
+    "name": "bob_corner_palisade",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_corner_palisade.w2mesh"
+  },
+  {
+    "name": "bob_corner_two_sides",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_corner_two_sides.w2mesh"
+  },
+  {
+    "name": "bob_palisade_gate_left",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_gate_left.w2mesh"
+  },
+  {
+    "name": "bob_palisade_gate_right",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_gate_right.w2mesh"
+  },
+  {
+    "name": "bob_palisade_long_flat",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_long_flat.w2mesh"
+  },
+  {
+    "name": "bob_palisade_long_high_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_long_high_a.w2mesh"
+  },
+  {
+    "name": "bob_palisade_long_low_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_long_low_a.w2mesh"
+  },
+  {
+    "name": "bob_palisade_long_low_entrance",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_long_low_entrance.w2mesh"
+  },
+  {
+    "name": "bob_palisade_long_spiked",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_long_spiked.w2mesh"
+  },
+  {
+    "name": "bob_palisade_short_high",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_short_high.w2mesh"
+  },
+  {
+    "name": "bob_palisade_short_low_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_short_low_a.w2mesh"
+  },
+  {
+    "name": "bob_palisade_short_low_end",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_short_low_end.w2mesh"
+  },
+  {
+    "name": "bob_palisade_short_low_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_short_low_small.w2mesh"
+  },
+  {
+    "name": "bob_tower_base",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_tower_base.w2mesh"
+  },
+  {
+    "name": "bob_tower_explorable_base",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_tower_explorable_base.w2mesh"
+  },
+  {
+    "name": "bob_tower_explorable_base_spiral",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_tower_explorable_base_spiral.w2mesh"
+  },
+  {
+    "name": "bob_tower_top_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_tower_top_volume.w2mesh"
+  },
+  {
+    "name": "bob_line_hanging_end_longer_mesh",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ropes/bob_line_hanging_end_longer_mesh.w2mesh"
+  },
+  {
+    "name": "bob_line_hanging_end_short_mesh_long_distance",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ropes/bob_line_hanging_end_short_mesh_long_distance.w2mesh"
+  },
+  {
+    "name": "test_box",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/test_box.w2mesh"
+  },
+  {
+    "name": "bob_house_rich_04_box",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/blend_materials/bob_house_rich_04_box.w2mesh"
+  },
+  {
+    "name": "bob_copper_roof_box",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/roof/bob_copper_roof_box.w2mesh"
+  },
+  {
+    "name": "bob_roof_poor_ceramic_mossy_box",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/textures/roof/bob_roof_poor_ceramic_mossy_box.w2mesh"
+  },
+  {
+    "name": "rose_big_yellow",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mesh_foliage/rose/rose_big_yellow.w2mesh"
+  },
+  {
+    "name": "rose_low_red",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mesh_foliage/rose/rose_low_red.w2mesh"
+  },
+  {
+    "name": "rose_low_yellow",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/mesh_foliage/rose/rose_low_yellow.w2mesh"
+  },
+  {
+    "name": "giant_flower_empty_mesh",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/vegetation/trees/quest_trees/giant_flower_mesh/giant_flower_empty_mesh.w2mesh"
+  },
+  {
+    "name": "abandoned_prison_volume_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/abandoned_prison_volume_03.w2mesh"
+  },
+  {
+    "name": "bob_bank_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/bob_bank_volume.w2mesh"
+  },
+  {
+    "name": "bob_poor_bridge_big_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/bob_poor_bridge_big_volume.w2mesh"
+  },
+  {
+    "name": "cellar_barrens_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/cellar_barrens_volume.w2mesh"
+  },
+  {
+    "name": "cockatrice_inn_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/cockatrice_inn_volume.w2mesh"
+  },
+  {
+    "name": "house_poor_14_a_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/house_poor_14_a_volume.w2mesh"
+  },
+  {
+    "name": "poi_bar_b_05_shadowmesh",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/poi_bar_b_05_shadowmesh.w2mesh"
+  },
+  {
+    "name": "poi_gor_d_07_tent_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/poi_gor_d_07_tent_volume.w2mesh"
+  },
+  {
+    "name": "stall_tent_row_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/stall_tent_row_volume.w2mesh"
+  },
+  {
+    "name": "traders_tent_box_1m_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/traders_tent_box_1m_volume.w2mesh"
+  },
+  {
+    "name": "watermill_vineyard_08_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/weather_volume/watermill_vineyard_08_volume.w2mesh"
+  },
+  {
+    "name": "dust_cloud_1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/air/mesh/dust_cloud_1.w2mesh"
+  },
+  {
+    "name": "bob_waterfall_flat",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/bob_waterfall_flat.w2mesh"
+  },
+  {
+    "name": "waterfall_strips_2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/waterfall_strips_2.w2mesh"
+  },
+  {
+    "name": "waterfall_strips_3",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/waterfall_strips_3.w2mesh"
+  },
+  {
+    "name": "waterfall_strips_4",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/waterfall_strips_4.w2mesh"
+  },
+  {
+    "name": "bob_barrens_castle_river",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/bob_river_1/bob_barrens_castle_river.w2mesh"
+  },
+  {
+    "name": "bob_river12",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/bob_river_1/bob_river12.w2mesh"
+  },
+  {
+    "name": "bob_river_1_waterfall",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/bob_river_1/bob_river_1_waterfall.w2mesh"
+  },
+  {
+    "name": "bob_river_waterfall_2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/bob_river_1/bob_river_waterfall_2.w2mesh"
+  },
+  {
+    "name": "bob_river_waterfall_3",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/bob_river_1/bob_river_waterfall_3.w2mesh"
+  },
+  {
+    "name": "clouds_stripe_7",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/clouds/clouds_stripe_7.w2mesh"
+  },
+  {
+    "name": "clouds_stripe_8",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/clouds/clouds_stripe_8.w2mesh"
+  },
+  {
+    "name": "clouds_strip_heavy_4",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/clouds/clouds_strip_heavy_4.w2mesh"
+  },
+  {
+    "name": "clouds_strip_heavy_6",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/clouds/clouds_strip_heavy_6.w2mesh"
+  },
+  {
+    "name": "aerondlight_sword_glow",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/gameplay/magic_sword/aerondight/aerondlight_sword_glow.w2mesh"
+  },
+  {
+    "name": "electric_arc",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/cloud_giant/electric_arc.w2mesh"
+  },
+  {
+    "name": "electric_arc2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/cloud_giant/electric_arc2.w2mesh"
+  },
+  {
+    "name": "electric_arc_impact",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/cloud_giant/electric_arc_impact.w2mesh"
+  },
+  {
+    "name": "serpent_001",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/serpent_001.w2mesh"
+  },
+  {
+    "name": "tornado_001",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/tornado_001.w2mesh"
+  },
+  {
+    "name": "arena_collider",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/arena_collider.w2mesh"
+  },
+  {
+    "name": "arena_support",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/arena_support.w2mesh"
+  },
+  {
+    "name": "strip",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/strip.w2mesh"
+  },
+  {
+    "name": "strip_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/strip_02.w2mesh"
+  },
+  {
+    "name": "tornado_002",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/tornado_002.w2mesh"
+  },
+  {
+    "name": "arena_spiral",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/arena_spiral.w2mesh"
+  },
+  {
+    "name": "arena_support_collision",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/arena_support_collision.w2mesh"
+  },
+  {
+    "name": "arena_support_effect",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/arena_support_effect.w2mesh"
+  },
+  {
+    "name": "arena_support_melted",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/arena_support_melted.w2mesh"
+  },
+  {
+    "name": "creep_droopy_flesh",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/creep_droopy_flesh.w2mesh"
+  },
+  {
+    "name": "creep_pilar_flesh",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/creep_pilar_flesh.w2mesh"
+  },
+  {
+    "name": "creep_planar_flesh",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/creep_planar_flesh.w2mesh"
+  },
+  {
+    "name": "gotoplane_001",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/gotoplane_001.w2mesh"
+  },
+  {
+    "name": "gotoplane_002",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/gotoplane_002.w2mesh"
+  },
+  {
+    "name": "gotoplane_003",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/gotoplane_003.w2mesh"
+  },
+  {
+    "name": "kikimore_egg_bright",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/kikimore_egg_bright.w2mesh"
+  },
+  {
+    "name": "terraint_blood",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/terraint_blood.w2mesh"
+  },
+  {
+    "name": "test_obj",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/test_obj.w2mesh"
+  },
+  {
+    "name": "i_01_veins",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/model/i_01_veins.w2mesh"
+  },
+  {
+    "name": "i_02_veins",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/model/i_02_veins.w2mesh"
+  },
+  {
+    "name": "i_03_veins",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/model/i_03_veins.w2mesh"
+  },
+  {
+    "name": "i_04_veins",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/model/i_04_veins.w2mesh"
+  },
+  {
+    "name": "i_05_veins",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/model/i_05_veins.w2mesh"
+  },
+  {
+    "name": "t02_heart",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/tree_002/t02_heart.w2mesh"
+  },
+  {
+    "name": "t03_heart",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/tree_003/t03_heart.w2mesh"
+  },
+  {
+    "name": "t_01__cybex",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/tree_003/t_01__cybex.w2mesh"
+  },
+  {
+    "name": "gravier_fx",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/gravier/spikes/gravier_fx.w2mesh"
+  },
+  {
+    "name": "ground_mesh_rework",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/scolopendromorph/ground_mesh_rework.w2mesh"
+  },
+  {
+    "name": "smoke_test_mesh",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/scolopendromorph/smoke_test_mesh.w2mesh"
+  },
+  {
+    "name": "character_dummy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/sharley/detection/character_dummy.w2mesh"
+  },
+  {
+    "name": "rock_small_proj",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/sharley/dust/rock_small_proj.w2mesh"
+  },
+  {
+    "name": "dolphin",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q703/mandragora/dolphin.w2mesh"
+  },
+  {
+    "name": "cloud_bowl_2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/cloud_bowl_2.w2mesh"
+  },
+  {
+    "name": "cloud_bowl_over",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/cloud_bowl_over.w2mesh"
+  },
+  {
+    "name": "cloud_bowl_top1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/cloud_bowl_top1.w2mesh"
+  },
+  {
+    "name": "cloud_plane",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/cloud_plane.w2mesh"
+  },
+  {
+    "name": "cloud_plane_thick",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/cloud_plane_thick.w2mesh"
+  },
+  {
+    "name": "cave_waterfall_long",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/gravity_cave/cave_waterfall_long.w2mesh"
+  },
+  {
+    "name": "cave_waterfall_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/gravity_cave/cave_waterfall_small.w2mesh"
+  },
+  {
+    "name": "upwards_waterfall",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/gravity_cave/upwards_waterfall.w2mesh"
+  },
+  {
+    "name": "q705_bat_ribbon_1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q705/dettlaff_fight/q705_bat_ribbon_1.w2mesh"
+  },
+  {
+    "name": "q705_bat_ribbon_3",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q705/dettlaff_fight/q705_bat_ribbon_3.w2mesh"
+  },
+  {
+    "name": "q705_smoke_spiral_black",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q705/dettlaff_fight/q705_smoke_spiral_black.w2mesh"
+  },
+  {
+    "name": "i_02_hd__bob_witcher_lvl1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/horse_items/bardings/model/i_02_hd__bob_witcher_lvl1.w2mesh"
+  },
+  {
+    "name": "i_05_hd__geralt",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/horse_items/bardings/model/i_05_hd__geralt.w2mesh"
+  },
+  {
+    "name": "i_11_hd__bob_knight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/horse_items/bardings/model/i_11_hd__bob_knight.w2mesh"
+  },
+  {
+    "name": "i_11_hd__bob_witcher_lvl1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/horse_items/bardings/model/i_11_hd__bob_witcher_lvl1.w2mesh"
+  },
+  {
+    "name": "i_20_hd__bob_knight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/horse_items/bardings/model/i_20_hd__bob_knight.w2mesh"
+  },
+  {
+    "name": "i_23_hd__bob_knight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/horse_items/bardings/model/i_23_hd__bob_knight.w2mesh"
+  },
+  {
+    "name": "i_23_hd__geralt",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/horse_items/bardings/model/i_23_hd__geralt.w2mesh"
+  },
+  {
+    "name": "i_23_hd__ravix",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/horse_items/bardings/model/i_23_hd__ravix.w2mesh"
+  },
+  {
+    "name": "i_27_hd__bob_knight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/horse_items/bardings/model/i_27_hd__bob_knight.w2mesh"
+  },
+  {
+    "name": "bob_rotfiend_nest_base",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/monster_nest/rotfiend/bob_rotfiend_nest_base.w2mesh"
+  },
+  {
+    "name": "bob_rotfiend_nest_destroyed",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/monster_nest/rotfiend/bob_rotfiend_nest_destroyed.w2mesh"
+  },
+  {
+    "name": "bob_rotfiend_nest_destroyed_censored",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/monster_nest/rotfiend/bob_rotfiend_nest_destroyed_censored.w2mesh"
+  },
+  {
+    "name": "bob_rotfiend_nest_part1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/monster_nest/rotfiend/bob_rotfiend_nest_part1.w2mesh"
+  },
+  {
+    "name": "bob_rotfiend_nest_part2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/monster_nest/rotfiend/bob_rotfiend_nest_part2.w2mesh"
+  },
+  {
+    "name": "mq7003_magic_gem_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/mq7003/mq7003_magic_gems/mq7003_magic_gem_a.w2mesh"
+  },
+  {
+    "name": "mq7003_magic_gem_b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/mq7003/mq7003_magic_gems/mq7003_magic_gem_b.w2mesh"
+  },
+  {
+    "name": "mq7003_magic_gem_d",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/mq7003/mq7003_magic_gems/mq7003_magic_gem_d.w2mesh"
+  },
+  {
+    "name": "mq7011_item__notebook",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/mq7011/model/mq7011_item__notebook.w2mesh"
+  },
+  {
+    "name": "q701_item__floating_jacket",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/q701/q701_item__floating_jacket/q701_item__floating_jacket.w2mesh"
+  },
+  {
+    "name": "q703_item__shield_toussaint",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/q703/model/q703_item__shield_toussaint.w2mesh"
+  },
+  {
+    "name": "c_02_wa__rapunzel_corpse",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/q704/model/c_02_wa__rapunzel_corpse.w2mesh"
+  },
+  {
+    "name": "t_01_wa__rapunzel_corpse",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/q704/model/t_01_wa__rapunzel_corpse.w2mesh"
+  },
+  {
+    "name": "sq701_geralt_shield",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/sq701_geralt_shield.w2mesh"
+  },
+  {
+    "name": "sq701_item_shooting_target",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/sq701_item_shooting_target.w2mesh"
+  },
+  {
+    "name": "sq701_ravix_shield",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/sq701_ravix_shield.w2mesh"
+  },
+  {
+    "name": "sq001_item__dummy_no_head",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/sq701/model/sq001_item__dummy_no_head.w2mesh"
+  },
+  {
+    "name": "toussaint_shield_02_5_milton",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/weapons/shields/model/toussaint_shield_02_5_milton.w2mesh"
+  },
+  {
+    "name": "nilfgaardian_sword_lvl2__npc",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/weapons/swords/nilfgaardian_swords/model/nilfgaardian_sword_lvl2__npc.w2mesh"
+  },
+  {
+    "name": "witcher_silver_viper_v2_sword_lvl1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/weapons/swords/witcher_silver_swords/model/witcher_silver_viper_v2_sword_lvl1.w2mesh"
+  },
+  {
+    "name": "witcher_silver_viper_v2_sword_lvl2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/weapons/swords/witcher_silver_swords/model/witcher_silver_viper_v2_sword_lvl2.w2mesh"
+  },
+  {
+    "name": "witcher_silver_viper_v2_sword_lvl4",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/weapons/swords/witcher_silver_swords/model/witcher_silver_viper_v2_sword_lvl4.w2mesh"
+  },
+  {
+    "name": "witcher_steel_viper_v2_sword_lvl1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/weapons/swords/witcher_steel_swords/model/witcher_steel_viper_v2_sword_lvl1.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_105x91",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_105x91.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_106x81",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_106x81.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_107x81",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_107x81.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_40x51",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_40x51.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_41x51",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_41x51.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_42x49",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_42x49.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_42x50",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_42x50.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_42x51",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_42x51.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_42x55",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_42x55.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_43x51",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_43x51.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_43x55",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_43x55.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_44x56",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_44x56.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_46x36",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_46x36.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_46x38",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_46x38.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_46x40",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_46x40.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_46x41",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_46x41.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_46x42",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_46x42.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_46x57",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_46x57.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_47x37",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_47x37.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_47x39",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_47x39.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_47x40",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_47x40.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_47x41",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_47x41.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_47x53",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_47x53.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_48x36",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_48x36.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_48x37",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_48x37.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_48x39",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_48x39.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_49x35",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_49x35.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_49x39",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_49x39.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_49x51",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_49x51.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_49x52",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_49x52.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_49x55",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_49x55.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_50x47",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_50x47.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_50x55",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_50x55.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_51x31",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_51x31.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_51x32",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_51x32.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_51x46",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_51x46.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_51x47",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_51x47.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_52x52",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_52x52.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_52x60",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_52x60.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_54x51",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_54x51.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_55x54",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_55x54.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_55x58",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_55x58.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_55x68",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_55x68.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_56x55",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_56x55.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_56x57",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_56x57.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_56x59",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_56x59.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_56x69",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_56x69.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_57x68",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_57x68.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_57x69",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_57x69.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_58x36",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_58x36.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_58x69",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_58x69.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_59x36",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_59x36.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_59x55",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_59x55.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_59x59",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_59x59.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_59x60",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_59x60.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_59x63",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_59x63.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_60x59",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_60x59.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_60x60",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_60x60.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_60x61",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_60x61.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_60x63",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_60x63.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_60x64",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_60x64.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_61x49",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_61x49.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_61x55",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_61x55.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_61x63",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_61x63.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_61x64",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_61x64.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_61x65",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_61x65.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_62x49",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_62x49.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_62x50",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_62x50.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_62x59",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_62x59.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_62x63",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_62x63.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_62x64",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_62x64.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_62x65",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_62x65.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_63x62",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_63x62.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_64x46",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_64x46.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_64x53",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_64x53.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_65x54",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_65x54.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_65x63",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_65x63.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_66x39",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_66x39.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_66x40",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_66x40.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_66x53",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_66x53.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_67x28",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_67x28.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_67x29",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_67x29.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_67x31",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_67x31.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_67x40",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_67x40.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_68x54",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_68x54.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_69x54",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_69x54.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_69x60",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_69x60.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_70x54",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_70x54.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_70x61",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_70x61.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_72x51",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_72x51.w2mesh"
+  },
+  {
+    "name": "shadow_mesh_75x59",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/merged_content/bob/shadow_mesh_75x59.w2mesh"
+  },
+  {
+    "name": "q701_skellige_boat_long_autohide_dist",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/model/q701_skellige_boat_long_autohide_dist.w2mesh"
+  },
+  {
+    "name": "q703_dun_tynne_gate",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/deco_temp/q703_dun_tynne_gate.w2mesh"
+  },
+  {
+    "name": "q703_deco_canldeholder",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_deco_canldeholder.w2mesh"
+  },
+  {
+    "name": "gen_poor_candleholder_b_mesh_q703",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/mandragora_paiting_with_bombs/gen_poor_candleholder_b_mesh_q703.w2mesh"
+  },
+  {
+    "name": "q704_help_sphere",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_help_sphere.w2mesh"
+  },
+  {
+    "name": "i_03_bies_copy",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/components/i_03_bies_copy.w2mesh"
+  },
+  {
+    "name": "mq7011_key_box_mesh",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7011_wheres_my_money/entities/components/mq7011_key_box_mesh.w2mesh"
+  },
+  {
+    "name": "i_01_hd__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/horse_items/bags/model/i_01_hd__temerian.w2mesh"
+  },
+  {
+    "name": "c_01_hd__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/horse_items/champrons/model/c_01_hd__temerian.w2mesh"
+  },
+  {
+    "name": "s_01_hd__saddle_temeria",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/horse_items/saddles/model/s_01_hd__saddle_temeria.w2mesh"
+  },
+  {
+    "name": "d_01_mg__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/player/armor/armor__temerian/model/d_01_mg__temerian.w2mesh"
+  },
+  {
+    "name": "g_01a_mg__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/player/armor/armor__temerian/model/g_01a_mg__temerian.w2mesh"
+  },
+  {
+    "name": "g_01_mg__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/player/armor/armor__temerian/model/g_01_mg__temerian.w2mesh"
+  },
+  {
+    "name": "l_01a_mg__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/player/armor/armor__temerian/model/l_01a_mg__temerian.w2mesh"
+  },
+  {
+    "name": "l_01_mg__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/player/armor/armor__temerian/model/l_01_mg__temerian.w2mesh"
+  },
+  {
+    "name": "pendant_01_mg__armor_temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/player/armor/armor__temerian/model/pendant_01_mg__armor_temerian.w2mesh"
+  },
+  {
+    "name": "s_01_mg__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/player/armor/armor__temerian/model/s_01_mg__temerian.w2mesh"
+  },
+  {
+    "name": "t_01a_mg__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/player/armor/armor__temerian/model/t_01a_mg__temerian.w2mesh"
+  },
+  {
+    "name": "t_01_mg__temerian",
+    "category": "Meshes",
+    "origin": "dlc1",
+    "tags": [],
+    "path": "dlc/dlc1/data/player/armor/armor__temerian/model/t_01_mg__temerian.w2mesh"
+  },
+  {
+    "name": "teleport_vortex_th1009",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/fx/teleport_vortex_th1009.w2mesh"
+  },
+  {
+    "name": "witcher_silver_wolf_scabbard_01",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_silver_swords/model/witcher_silver_wolf_scabbard_01.w2mesh"
+  },
+  {
+    "name": "witcher_silver_wolf_sword_lvl1",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_silver_swords/model/witcher_silver_wolf_sword_lvl1.w2mesh"
+  },
+  {
+    "name": "witcher_silver_wolf_sword_lvl2",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_silver_swords/model/witcher_silver_wolf_sword_lvl2.w2mesh"
+  },
+  {
+    "name": "witcher_silver_wolf_sword_lvl3",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_silver_swords/model/witcher_silver_wolf_sword_lvl3.w2mesh"
+  },
+  {
+    "name": "witcher_silver_wolf_sword_lvl4",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_silver_swords/model/witcher_silver_wolf_sword_lvl4.w2mesh"
+  },
+  {
+    "name": "witcher_steel_wolf_scabbard_01",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_steel_swords/model/witcher_steel_wolf_scabbard_01.w2mesh"
+  },
+  {
+    "name": "witcher_steel_wolf_sword_lvl1",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_steel_swords/model/witcher_steel_wolf_sword_lvl1.w2mesh"
+  },
+  {
+    "name": "witcher_steel_wolf_sword_lvl2",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_steel_swords/model/witcher_steel_wolf_sword_lvl2.w2mesh"
+  },
+  {
+    "name": "witcher_steel_wolf_sword_lvl3",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_steel_swords/model/witcher_steel_wolf_sword_lvl3.w2mesh"
+  },
+  {
+    "name": "witcher_steel_wolf_sword_lvl4",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/items/weapons/swords/witcher_steel_swords/model/witcher_steel_wolf_sword_lvl4.w2mesh"
+  },
+  {
+    "name": "a_01_mg__body_wolf_lvl1",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/a_01_mg__body_wolf_lvl1.w2mesh"
+  },
+  {
+    "name": "g_01a_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/g_01a_mg__wolf.w2mesh"
+  },
+  {
+    "name": "g_01_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/g_01_mg__wolf.w2mesh"
+  },
+  {
+    "name": "g_02a_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/g_02a_mg__wolf.w2mesh"
+  },
+  {
+    "name": "g_02_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/g_02_mg__wolf.w2mesh"
+  },
+  {
+    "name": "l_01a_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/l_01a_mg__wolf.w2mesh"
+  },
+  {
+    "name": "l_01_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/l_01_mg__wolf.w2mesh"
+  },
+  {
+    "name": "l_02a_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/l_02a_mg__wolf.w2mesh"
+  },
+  {
+    "name": "l_02_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/l_02_mg__wolf.w2mesh"
+  },
+  {
+    "name": "pendant_01_mg__wolf_lvl_01",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/pendant_01_mg__wolf_lvl_01.w2mesh"
+  },
+  {
+    "name": "s_01_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/s_01_mg__wolf.w2mesh"
+  },
+  {
+    "name": "s_02_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/s_02_mg__wolf.w2mesh"
+  },
+  {
+    "name": "t_01_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/t_01_mg__wolf.w2mesh"
+  },
+  {
+    "name": "t_02a_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/t_02a_mg__wolf.w2mesh"
+  },
+  {
+    "name": "t_02_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/t_02_mg__wolf.w2mesh"
+  },
+  {
+    "name": "t_03a_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/t_03a_mg__wolf.w2mesh"
+  },
+  {
+    "name": "t_03_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/t_03_mg__wolf.w2mesh"
+  },
+  {
+    "name": "t_04a_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/t_04a_mg__wolf.w2mesh"
+  },
+  {
+    "name": "t_04_mg__wolf",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/player/armor/armor__wolf/model/t_04_mg__wolf.w2mesh"
+  },
+  {
+    "name": "elven_teleport_cristal_copy_th1009",
+    "category": "Meshes",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/elven_teleport_cristal_copy_th1009.w2mesh"
+  },
+  {
+    "name": "body_01_wa__ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/body_01_wa__ciri_dlc.w2mesh"
+  },
+  {
+    "name": "body_01_wa__ciri_dlc_dirty",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/body_01_wa__ciri_dlc_dirty.w2mesh"
+  },
+  {
+    "name": "body_01_wa__ciri_dlc_hooded",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/body_01_wa__ciri_dlc_hooded.w2mesh"
+  },
+  {
+    "name": "body_01_wa__ciri_dlc_wounded",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/body_01_wa__ciri_dlc_wounded.w2mesh"
+  },
+  {
+    "name": "cat_medallion_01_wa__ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/cat_medallion_01_wa__ciri_dlc.w2mesh"
+  },
+  {
+    "name": "collar_01_wa__ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/collar_01_wa__ciri_dlc.w2mesh"
+  },
+  {
+    "name": "fur_01_wa__ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/fur_01_wa__ciri_dlc.w2mesh"
+  },
+  {
+    "name": "item_01_wa__ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_01_wa__ciri_dlc.w2mesh"
+  },
+  {
+    "name": "item_01_wa__ciri_dlc_dirty",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_01_wa__ciri_dlc_dirty.w2mesh"
+  },
+  {
+    "name": "item_01_wa__ciri_dlc_wounded",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_01_wa__ciri_dlc_wounded.w2mesh"
+  },
+  {
+    "name": "item_02_wa__ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_02_wa__ciri_dlc.w2mesh"
+  },
+  {
+    "name": "item_02_wa__ciri_dlc_dirty",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_02_wa__ciri_dlc_dirty.w2mesh"
+  },
+  {
+    "name": "item_02_wa__ciri_dlc_hooded",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_02_wa__ciri_dlc_hooded.w2mesh"
+  },
+  {
+    "name": "item_02_wa__ciri_dlc_wounded",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_02_wa__ciri_dlc_wounded.w2mesh"
+  },
+  {
+    "name": "item_03_wa__ciri_dlc_px",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_03_wa__ciri_dlc_px.w2mesh"
+  },
+  {
+    "name": "item_03_wa__ciri_dlc_px_dirty",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_03_wa__ciri_dlc_px_dirty.w2mesh"
+  },
+  {
+    "name": "item_03_wa__ciri_dlc_px_wounded",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_03_wa__ciri_dlc_px_wounded.w2mesh"
+  },
+  {
+    "name": "item_10_wa__ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_10_wa__ciri_dlc.w2mesh"
+  },
+  {
+    "name": "item_11_wa__ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_11_wa__ciri_dlc.w2mesh"
+  },
+  {
+    "name": "item_13_wa__ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_13_wa__ciri_dlc.w2mesh"
+  },
+  {
+    "name": "item_14_wa__ciri_disguise_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/item_14_wa__ciri_disguise_dlc.w2mesh"
+  },
+  {
+    "name": "t_01_wa__body_ciri_dlc",
+    "category": "Meshes",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/models/main_npc/ciri/model/t_01_wa__body_ciri_dlc.w2mesh"
+  },
+  {
+    "name": "c_01__godling_dlc",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/characters/models/monsters/godling_dlc/model/c_01__godling_dlc.w2mesh"
+  },
+  {
+    "name": "t_03__godling_dlc",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/characters/models/monsters/godling_dlc/model/t_03__godling_dlc.w2mesh"
+  },
+  {
+    "name": "he_02__werewolf_nomansland_mimic",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/characters/models/monsters/werewolf/h_01__werewolf/he_02__werewolf_nomansland_mimic.w2mesh"
+  },
+  {
+    "name": "h_02__werewolf_nomansland_mimic",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/characters/models/monsters/werewolf/h_01__werewolf/h_02__werewolf_nomansland_mimic.w2mesh"
+  },
+  {
+    "name": "mq2052_characters_doppler_ma",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/characters/npc_entities/crowd_npc/model/mq2052_characters_doppler_ma.w2mesh"
+  },
+  {
+    "name": "mq2052_characters_doppler_mb",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/characters/npc_entities/crowd_npc/model/mq2052_characters_doppler_mb.w2mesh"
+  },
+  {
+    "name": "mq2052__werewolf_body_corpse",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/enviroment/decorations/corpses/monsters_corpses/werewolf/model/mq2052__werewolf_body_corpse.w2mesh"
+  },
+  {
+    "name": "mq2052__werewolf_items_corpse",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/enviroment/decorations/corpses/monsters_corpses/werewolf/model/mq2052__werewolf_items_corpse.w2mesh"
+  },
+  {
+    "name": "mq2052__werewolf_i_01_corpse",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/enviroment/decorations/corpses/monsters_corpses/werewolf/model/mq2052__werewolf_i_01_corpse.w2mesh"
+  },
+  {
+    "name": "mq2052_item__nekker_corpse_chopped_legs",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/items/models/mq2052_item__nekker_corpse_chopped_legs.w2mesh"
+  },
+  {
+    "name": "mq2052_item__nekker_shoe",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/items/models/mq2052_item__nekker_shoe.w2mesh"
+  },
+  {
+    "name": "mq2052_item__nekker_shoe_godling",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/items/models/mq2052_item__nekker_shoe_godling.w2mesh"
+  },
+  {
+    "name": "dlc12_item__monster_plan_poster_arachas",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/items/quest_items/monster_plan_poster/model/dlc12_item__monster_plan_poster_arachas.w2mesh"
+  },
+  {
+    "name": "dlc12_item__monster_plan_poster_geralt",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/items/quest_items/monster_plan_poster/model/dlc12_item__monster_plan_poster_geralt.w2mesh"
+  },
+  {
+    "name": "dlc12_item__monster_plan_poster_meating",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/items/quest_items/monster_plan_poster/model/dlc12_item__monster_plan_poster_meating.w2mesh"
+  },
+  {
+    "name": "dlc12_item__monster_plan_poster_nekker",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/items/quest_items/monster_plan_poster/model/dlc12_item__monster_plan_poster_nekker.w2mesh"
+  },
+  {
+    "name": "dlc12_item__monster_plan_poster_stone",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/items/quest_items/monster_plan_poster/model/dlc12_item__monster_plan_poster_stone.w2mesh"
+  },
+  {
+    "name": "s_01_mg__nekker_shoes",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/player/shoes/models/s_01_mg__nekker_shoes.w2mesh"
+  },
+  {
+    "name": "boulder_quest",
+    "category": "Meshes",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/quest/quest_files/entities/model/boulder_quest.w2mesh"
+  },
+  {
+    "name": "witcher_crossbow_elven",
+    "category": "Meshes",
+    "origin": "dlc13",
+    "tags": [],
+    "path": "dlc/dlc13/data/items/weapons/ranged/witcher_crossbow/model/witcher_crossbow_elven.w2mesh"
+  },
+  {
+    "name": "witcher_crossbow_nilfgaardian",
+    "category": "Meshes",
+    "origin": "dlc13",
+    "tags": [],
+    "path": "dlc/dlc13/data/items/weapons/ranged/witcher_crossbow/model/witcher_crossbow_nilfgaardian.w2mesh"
+  },
+  {
+    "name": "witcher_crossbow_skellige",
+    "category": "Meshes",
+    "origin": "dlc13",
+    "tags": [],
+    "path": "dlc/dlc13/data/items/weapons/ranged/witcher_crossbow/model/witcher_crossbow_skellige.w2mesh"
+  },
+  {
+    "name": "d_01_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/d_01_mg__skellige.w2mesh"
+  },
+  {
+    "name": "g_01a_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/g_01a_mg__skellige.w2mesh"
+  },
+  {
+    "name": "g_01_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/g_01_mg__skellige.w2mesh"
+  },
+  {
+    "name": "i_01_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/i_01_mg__skellige.w2mesh"
+  },
+  {
+    "name": "i_02_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/i_02_mg__skellige.w2mesh"
+  },
+  {
+    "name": "l_01a_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/l_01a_mg__skellige.w2mesh"
+  },
+  {
+    "name": "l_01_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/l_01_mg__skellige.w2mesh"
+  },
+  {
+    "name": "pendant_01_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/pendant_01_mg__skellige.w2mesh"
+  },
+  {
+    "name": "s_01_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/s_01_mg__skellige.w2mesh"
+  },
+  {
+    "name": "t_01a_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/t_01a_mg__skellige.w2mesh"
+  },
+  {
+    "name": "t_01_mg__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/characters/models/geralt/armor/armor__skellige/t_01_mg__skellige.w2mesh"
+  },
+  {
+    "name": "i_01_hd__skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/horse_items/bags/model/i_01_hd__skellige.w2mesh"
+  },
+  {
+    "name": "c_01_hd__saddle_skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/horse_items/champrons/model/c_01_hd__saddle_skellige.w2mesh"
+  },
+  {
+    "name": "h_01_hd__saddle_skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/horse_items/saddles/model/h_01_hd__saddle_skellige.w2mesh"
+  },
+  {
+    "name": "s_01_hd__saddle_skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/horse_items/saddles/model/s_01_hd__saddle_skellige.w2mesh"
+  },
+  {
+    "name": "s_02_hd__saddle_skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/horse_items/saddles/model/s_02_hd__saddle_skellige.w2mesh"
+  },
+  {
+    "name": "s_03_hd__saddle_skellige",
+    "category": "Meshes",
+    "origin": "dlc14",
+    "tags": [],
+    "path": "dlc/dlc14/data/horse_items/saddles/model/s_03_hd__saddle_skellige.w2mesh"
+  },
+  {
+    "name": "he_01_ma__gaetan",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/characters/models/secondary_npc/gaetan/h_01_ma__gaetan/he_01_ma__gaetan.w2mesh"
+  },
+  {
+    "name": "h_01_ma__gaetan",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/characters/models/secondary_npc/gaetan/h_01_ma__gaetan/h_01_ma__gaetan.w2mesh"
+  },
+  {
+    "name": "ag_01_ma__gaetan",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/characters/models/secondary_npc/gaetan/model/ag_01_ma__gaetan.w2mesh"
+  },
+  {
+    "name": "g_01_ma__gaetan",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/characters/models/secondary_npc/gaetan/model/g_01_ma__gaetan.w2mesh"
+  },
+  {
+    "name": "i_01_ma__gaetan",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/characters/models/secondary_npc/gaetan/model/i_01_ma__gaetan.w2mesh"
+  },
+  {
+    "name": "l_01a_ma__gaetan",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/characters/models/secondary_npc/gaetan/model/l_01a_ma__gaetan.w2mesh"
+  },
+  {
+    "name": "pendant_01_ma_gaetan",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/characters/models/secondary_npc/gaetan/model/pendant_01_ma_gaetan.w2mesh"
+  },
+  {
+    "name": "s_01_ma__gaetan",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/characters/models/secondary_npc/gaetan/model/s_01_ma__gaetan.w2mesh"
+  },
+  {
+    "name": "t_01_ma__gaetan",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/characters/models/secondary_npc/gaetan/model/t_01_ma__gaetan.w2mesh"
+  },
+  {
+    "name": "mq1058_item__cat_medalion",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__cat_medalion.w2mesh"
+  },
+  {
+    "name": "mq1058_item__doll_freckles",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__doll_freckles.w2mesh"
+  },
+  {
+    "name": "mq1058_item__door_beam_broken_piece_end_a",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__door_beam_broken_piece_end_a.w2mesh"
+  },
+  {
+    "name": "mq1058_item__door_beam_broken_piece_end_b",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__door_beam_broken_piece_end_b.w2mesh"
+  },
+  {
+    "name": "mq1058_item__door_beam_broken_piece_mid",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__door_beam_broken_piece_mid.w2mesh"
+  },
+  {
+    "name": "mq1058_item__monster_trophy_fogling",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__monster_trophy_fogling.w2mesh"
+  },
+  {
+    "name": "mq1058_item__monster_trophy_ghoul",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__monster_trophy_ghoul.w2mesh"
+  },
+  {
+    "name": "mq1058_item__monster_trophy_gravehag",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__monster_trophy_gravehag.w2mesh"
+  },
+  {
+    "name": "mq1058_item__monster_trophy_shield",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__monster_trophy_shield.w2mesh"
+  },
+  {
+    "name": "mq1058_item__nml_elderman_corpse",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__nml_elderman_corpse.w2mesh"
+  },
+  {
+    "name": "mq1058_item__nml_villager_corpse",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/model/mq1058_item__nml_villager_corpse.w2mesh"
+  },
+  {
+    "name": "cat_school_witcher_sword",
+    "category": "Meshes",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/items/weapons/unique/cat_school_witcher_sword/model/cat_school_witcher_sword.w2mesh"
+  },
+  {
+    "name": "w_ma__cut_torso03",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__cut_torso03.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutforearm1",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutforearm1.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutforearm1_fill",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutforearm1_fill.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutforearm2",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutforearm2.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutforearm2_fill",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutforearm2_fill.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutlegs1_fill",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutlegs1_fill.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutlegs1_l",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutlegs1_l.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutlegs1_r",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutlegs1_r.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutlegs2_fill",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutlegs2_fill.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutlegs2_l",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutlegs2_l.w2mesh"
+  },
+  {
+    "name": "w_ma__finisher_cutlegs2_r",
+    "category": "Meshes",
+    "origin": "dlc16",
+    "tags": [],
+    "path": "dlc/dlc16/data/characters/models/common/wounds/models/w_ma__finisher_cutlegs2_r.w2mesh"
+  },
+  {
+    "name": "c_01_ma__dandelion_dlc",
+    "category": "Meshes",
+    "origin": "dlc17",
+    "tags": [],
+    "path": "dlc/dlc17/data/characters/models/main_npc/dandelion/model/c_01_ma__dandelion_dlc.w2mesh"
+  },
+  {
+    "name": "c_01_ma__dandelion_hair_dlc",
+    "category": "Meshes",
+    "origin": "dlc17",
+    "tags": [],
+    "path": "dlc/dlc17/data/characters/models/main_npc/dandelion/model/c_01_ma__dandelion_hair_dlc.w2mesh"
+  },
+  {
+    "name": "dand_n2",
+    "category": "Meshes",
+    "origin": "dlc17",
+    "tags": [],
+    "path": "dlc/dlc17/data/characters/models/main_npc/dandelion/model/dand_n2.w2mesh"
+  },
+  {
+    "name": "i_01_ma__dandelion_dlc_gaged",
+    "category": "Meshes",
+    "origin": "dlc17",
+    "tags": [],
+    "path": "dlc/dlc17/data/characters/models/main_npc/dandelion/model/i_01_ma__dandelion_dlc_gaged.w2mesh"
+  },
+  {
+    "name": "n_01_ma__body",
+    "category": "Meshes",
+    "origin": "dlc17",
+    "tags": [],
+    "path": "dlc/dlc17/data/characters/models/main_npc/dandelion/model/n_01_ma__body.w2mesh"
+  },
+  {
+    "name": "c_05b_mg__mess",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/coif/model/c_05b_mg__mess.w2mesh"
+  },
+  {
+    "name": "c_05_mg__mess",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/coif/model/c_05_mg__mess.w2mesh"
+  },
+  {
+    "name": "c_05_mg__mess_br",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/coif/model/c_05_mg__mess_br.w2mesh"
+  },
+  {
+    "name": "c_06_mg__spiketail",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/coif/model/c_06_mg__spiketail.w2mesh"
+  },
+  {
+    "name": "c_06_mg__spiketail_tie",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/coif/model/c_06_mg__spiketail_tie.w2mesh"
+  },
+  {
+    "name": "c_07b_mg__slick",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/coif/model/c_07b_mg__slick.w2mesh"
+  },
+  {
+    "name": "c_07_mg__slick",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/coif/model/c_07_mg__slick.w2mesh"
+  },
+  {
+    "name": "c_07_mg__slick_br",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/coif/model/c_07_mg__slick_br.w2mesh"
+  },
+  {
+    "name": "hb_04_mg__geralt",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/head/model/hb_04_mg__geralt.w2mesh"
+  },
+  {
+    "name": "hb_05_mg__geralt",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/head/model/hb_05_mg__geralt.w2mesh"
+  },
+  {
+    "name": "hb_06_mg__geralt",
+    "category": "Meshes",
+    "origin": "dlc2",
+    "tags": [],
+    "path": "dlc/dlc2/data/characters/models/geralt/head/model/hb_06_mg__geralt.w2mesh"
+  },
+  {
+    "name": "nilfgaard_officer_netflix_nohat_sq108",
+    "category": "Meshes",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/models/crowd_npc/nilfgaard_squire/model/nilfgaard_officer_netflix_nohat_sq108.w2mesh"
+  },
+  {
+    "name": "c_01_mg__common_heavy_lv3_netflix",
+    "category": "Meshes",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/models/geralt/armor/armor_human__common/c_01_mg__common_heavy_lv3_netflix.w2mesh"
+  },
+  {
+    "name": "l_01a_mg__common_heavy_lvl3_netflix",
+    "category": "Meshes",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/models/geralt/armor/armor_human__common/l_01a_mg__common_heavy_lvl3_netflix.w2mesh"
+  },
+  {
+    "name": "l_01_mg__common_heavy_lvl3_netflix",
+    "category": "Meshes",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/models/geralt/armor/armor_human__common/l_01_mg__common_heavy_lvl3_netflix.w2mesh"
+  },
+  {
+    "name": "s_01_mg__common_heavy_lvl3_netflix",
+    "category": "Meshes",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/models/geralt/armor/armor_human__common/s_01_mg__common_heavy_lvl3_netflix.w2mesh"
+  },
+  {
+    "name": "sq108_item__armor_02",
+    "category": "Meshes",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/quest_items/sq108/sq108_item__armor/sq108_item__armor_02.w2mesh"
+  },
+  {
+    "name": "body_05_wa__yennefer",
+    "category": "Meshes",
+    "origin": "dlc4",
+    "tags": [],
+    "path": "dlc/dlc4/data/characters/models/main_npc/yennefer/model/body_05_wa__yennefer.w2mesh"
+  },
+  {
+    "name": "body_05_wa__yennefer_hooded",
+    "category": "Meshes",
+    "origin": "dlc4",
+    "tags": [],
+    "path": "dlc/dlc4/data/characters/models/main_npc/yennefer/model/body_05_wa__yennefer_hooded.w2mesh"
+  },
+  {
+    "name": "body_06_wa__yennefer",
+    "category": "Meshes",
+    "origin": "dlc4",
+    "tags": [],
+    "path": "dlc/dlc4/data/characters/models/main_npc/yennefer/model/body_06_wa__yennefer.w2mesh"
+  },
+  {
+    "name": "dress_05_wa__yennefer",
+    "category": "Meshes",
+    "origin": "dlc4",
+    "tags": [],
+    "path": "dlc/dlc4/data/characters/models/main_npc/yennefer/model/dress_05_wa__yennefer.w2mesh"
+  },
+  {
+    "name": "dress_06_wa__yennefer",
+    "category": "Meshes",
+    "origin": "dlc4",
+    "tags": [],
+    "path": "dlc/dlc4/data/characters/models/main_npc/yennefer/model/dress_06_wa__yennefer.w2mesh"
+  },
+  {
+    "name": "feathers_05_wa__yennefer",
+    "category": "Meshes",
+    "origin": "dlc4",
+    "tags": [],
+    "path": "dlc/dlc4/data/characters/models/main_npc/yennefer/model/feathers_05_wa__yennefer.w2mesh"
+  },
+  {
+    "name": "l_01_wa__lingerie_yennefer",
+    "category": "Meshes",
+    "origin": "dlc4",
+    "tags": [],
+    "path": "dlc/dlc4/data/characters/models/main_npc/yennefer/model/l_01_wa__lingerie_yennefer.w2mesh"
+  },
+  {
+    "name": "scarf_01_wa__yennefer",
+    "category": "Meshes",
+    "origin": "dlc4",
+    "tags": [],
+    "path": "dlc/dlc4/data/characters/models/main_npc/yennefer/model/scarf_01_wa__yennefer.w2mesh"
+  },
+  {
+    "name": "g_01_mg__nilfgardian",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/characters/models/geralt/armor/armor__nilfgaardian/g_01_mg__nilfgardian.w2mesh"
+  },
+  {
+    "name": "i_01_mg__nilfgardian",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/characters/models/geralt/armor/armor__nilfgaardian/i_01_mg__nilfgardian.w2mesh"
+  },
+  {
+    "name": "l_01a_mg__nilfgardian",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/characters/models/geralt/armor/armor__nilfgaardian/l_01a_mg__nilfgardian.w2mesh"
+  },
+  {
+    "name": "l_01_mg__nilfgardian",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/characters/models/geralt/armor/armor__nilfgaardian/l_01_mg__nilfgardian.w2mesh"
+  },
+  {
+    "name": "pendant_01_mg__nilfgardian",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/characters/models/geralt/armor/armor__nilfgaardian/pendant_01_mg__nilfgardian.w2mesh"
+  },
+  {
+    "name": "s_01_mg__nilfgardian",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/characters/models/geralt/armor/armor__nilfgaardian/s_01_mg__nilfgardian.w2mesh"
+  },
+  {
+    "name": "t_01a_mg__nilfgardian",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/characters/models/geralt/armor/armor__nilfgaardian/t_01a_mg__nilfgardian.w2mesh"
+  },
+  {
+    "name": "t_01_mg__nilfgardian",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/characters/models/geralt/armor/armor__nilfgaardian/t_01_mg__nilfgardian.w2mesh"
+  },
+  {
+    "name": "i_01_hd__nilfgaard",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/horse_items/bags/model/i_01_hd__nilfgaard.w2mesh"
+  },
+  {
+    "name": "c_01_hd__nilfgaard",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/horse_items/champrons/model/c_01_hd__nilfgaard.w2mesh"
+  },
+  {
+    "name": "h_01_hd__niflgaard",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/horse_items/saddles/model/h_01_hd__niflgaard.w2mesh"
+  },
+  {
+    "name": "s_01_hd__nilfgaard",
+    "category": "Meshes",
+    "origin": "dlc5",
+    "tags": [],
+    "path": "dlc/dlc5/data/horse_items/saddles/model/s_01_hd__nilfgaard.w2mesh"
+  },
+  {
+    "name": "c_01_wa__triss_dlc",
+    "category": "Meshes",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/models/main_npc/triss/h_01_wa__triss/c_01_wa__triss_dlc.w2mesh"
+  },
+  {
+    "name": "body_01_wa__triss_dlc",
+    "category": "Meshes",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/models/main_npc/triss/model/body_01_wa__triss_dlc.w2mesh"
+  },
+  {
+    "name": "body_02_wa__triss_dlc",
+    "category": "Meshes",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/models/main_npc/triss/model/body_02_wa__triss_dlc.w2mesh"
+  },
+  {
+    "name": "i_01_wa__triss_dlc",
+    "category": "Meshes",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/models/main_npc/triss/model/i_01_wa__triss_dlc.w2mesh"
+  },
+  {
+    "name": "i_03_wa__triss_dlc",
+    "category": "Meshes",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/models/main_npc/triss/model/i_03_wa__triss_dlc.w2mesh"
+  },
+  {
+    "name": "l_01_wa__triss_dlc",
+    "category": "Meshes",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/models/main_npc/triss/model/l_01_wa__triss_dlc.w2mesh"
+  },
+  {
+    "name": "twals_01_wa__body_triss",
+    "category": "Meshes",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/models/main_npc/triss/model/twals_01_wa__body_triss.w2mesh"
+  },
+  {
+    "name": "twals_02_wa__body_triss_tortured",
+    "category": "Meshes",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/models/main_npc/triss/model/twals_02_wa__body_triss_tortured.w2mesh"
+  },
+  {
+    "name": "bear_black_corpse_copy",
+    "category": "Meshes",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/bear_black_corpse_copy.w2mesh"
+  },
+  {
+    "name": "bear_black_corps_fur_copy",
+    "category": "Meshes",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/bear_black_corps_fur_copy.w2mesh"
   }
 ]

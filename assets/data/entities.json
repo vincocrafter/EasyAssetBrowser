@@ -189598,5 +189598,3505 @@
     "origin": "BnW",
     "tags": [],
     "path": "dlc/bob/data/environment/decorations/gameplay/generic/stone/stone_ornaments/gen_stone_planter_ground_a.w2ent"
+  },
+  {
+    "name": "gen_stone_planter_ground_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/generic/stone/stone_ornaments/gen_stone_planter_ground_b.w2ent"
+  },
+  {
+    "name": "stall_tent_single_c2_px_dynamic_volumetest",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/generic/tents/stall_tent_single_c2_px_dynamic_volumetest.w2ent"
+  },
+  {
+    "name": "mer_alchemy_distillery_medium_tank_px",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/alchemy/mer_alchemy_distillery_medium_tank_px.w2ent"
+  },
+  {
+    "name": "mer_container_glass_broken_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/alchemy/mer_container_glass_broken_a.w2ent"
+  },
+  {
+    "name": "mer_container_glass_broken_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/alchemy/mer_container_glass_broken_b.w2ent"
+  },
+  {
+    "name": "mer_container_glass_new",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/alchemy/mer_container_glass_new.w2ent"
+  },
+  {
+    "name": "mer_alchemist_box_a_dynamic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/alchemist/mer_alchemist_box_a_dynamic.w2ent"
+  },
+  {
+    "name": "deco_mer_weapons_stand_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/deco_mer_weapons_stand_c.w2ent"
+  },
+  {
+    "name": "deco_mer_weapons_wall_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/deco_mer_weapons_wall_e.w2ent"
+  },
+  {
+    "name": "deco_mer_weapons_wall_e_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/deco_mer_weapons_wall_e_rich.w2ent"
+  },
+  {
+    "name": "deco_mer_weapons_wall_k_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/deco_mer_weapons_wall_k_rich.w2ent"
+  },
+  {
+    "name": "deco_mer_weapons_wall_m",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/deco_mer_weapons_wall_m.w2ent"
+  },
+  {
+    "name": "deco_mer_weapon_chest_a_dynamic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/deco_mer_weapon_chest_a_dynamic.w2ent"
+  },
+  {
+    "name": "deco_mer_weapon_rack_floor_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/deco_mer_weapon_rack_floor_a.w2ent"
+  },
+  {
+    "name": "deco_mer_weapon_rack_floor_h_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/deco_mer_weapon_rack_floor_h_rich.w2ent"
+  },
+  {
+    "name": "deco_mer_weapon_rack_floor_j",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/deco_mer_weapon_rack_floor_j.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_armor_stand_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_armor_stand_a.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_armor_stand_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_armor_stand_b.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_armor_stand_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_armor_stand_c.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_armor_stand_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_armor_stand_e.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_armor_table_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_armor_table_a.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_armor_table_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_armor_table_b.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_armor_table_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_armor_table_c.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_shield_wall_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_shield_wall_c.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_shield_wall_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_shield_wall_d.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_shield_wall_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_shield_wall_f.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_shield_wall_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_shield_wall_g.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_shield_wall_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_shield_wall_h.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_shield_wall_i",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_shield_wall_i.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_shield_wall_j",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_shield_wall_j.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_skull_wall_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_skull_wall_a.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_skull_wall_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_skull_wall_b.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_skull_wall_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_skull_wall_c.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_skull_wall_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_skull_wall_d.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_shelf_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_shelf_a.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_a.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_a_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_a_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_b.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_b_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_b_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_c.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_c_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_c_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_d.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_e.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_f.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_g.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_stand_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_stand_h.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_a.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_b.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_c.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_c_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_c_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_d.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_d_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_d_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_e.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_e_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_e_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_f.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_f_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_f_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_g.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_g_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_g_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_h.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_h_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_h_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_i",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_i.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_i_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_i_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_j",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_j.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_k_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_k_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_l",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_l.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapons_wall_m",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapons_wall_m.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_chest_a.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_a.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_a_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_a_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_b.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_b_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_b_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_c.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_c_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_c_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_d.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_d_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_d_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_e.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_e_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_e_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_f.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_f_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_f_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_g.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_g_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_g_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_h.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_h_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_h_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_i",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_i.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_i_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_i_rich.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_j",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_j.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_weapon_rack_floor_j_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/backup_deco_mer_weapon_rack_floor_j_rich.w2ent"
+  },
+  {
+    "name": "deco_mer_shield_wall_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/deco_mer_shield_wall_h.w2ent"
+  },
+  {
+    "name": "deco_mer_shield_wall_i",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/armor/bakup/deco_mer_shield_wall_i.w2ent"
+  },
+  {
+    "name": "deco_mer_blacksmith_crate_a_dynamic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/containers/deco_mer_blacksmith_crate_a_dynamic.w2ent"
+  },
+  {
+    "name": "deco_mer_barrelsrack_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/innkeeper/deco_mer_barrelsrack_e.w2ent"
+  },
+  {
+    "name": "deco_set_painter_stand_d_long_distance",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/painter/deco_set_painter_stand_d_long_distance.w2ent"
+  },
+  {
+    "name": "deco_set_painter_stand_e_long_distance",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/painter/deco_set_painter_stand_e_long_distance.w2ent"
+  },
+  {
+    "name": "deco_mer_woodanvil_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/street_mer/deco_mer_woodanvil_b.w2ent"
+  },
+  {
+    "name": "deco_mer_bookseller_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/street_trader/deco_mer_bookseller_a.w2ent"
+  },
+  {
+    "name": "deco_mer_trader_marketplace_fisherman_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/street_trader/deco_mer_trader_marketplace_fisherman_d.w2ent"
+  },
+  {
+    "name": "deco_mer_trader_mix_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/street_trader/deco_mer_trader_mix_a.w2ent"
+  },
+  {
+    "name": "deco_mer_trader_mix_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/street_trader/deco_mer_trader_mix_e.w2ent"
+  },
+  {
+    "name": "deco_mer_trader_pots_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/street_trader/deco_mer_trader_pots_a.w2ent"
+  },
+  {
+    "name": "deco_mer_trader_shoes_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/street_trader/deco_mer_trader_shoes_a.w2ent"
+  },
+  {
+    "name": "backup_deco_mer_bookseller_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/street_trader/backup/backup_deco_mer_bookseller_a.w2ent"
+  },
+  {
+    "name": "deco_mer_barrelsrack_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/winery/deco_mer_barrelsrack_d.w2ent"
+  },
+  {
+    "name": "deco_mer_barrels_niche_b_dynamic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/winery/deco_mer_barrels_niche_b_dynamic.w2ent"
+  },
+  {
+    "name": "deco_mer_winebarrels_a_with_shadows",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/decoration_set/winery/deco_mer_winebarrels_a_with_shadows.w2ent"
+  },
+  {
+    "name": "mer_corentin_nursery",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/signboards/mer_corentin_nursery.w2ent"
+  },
+  {
+    "name": "mer_perfume_shop",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/signboards/mer_perfume_shop.w2ent"
+  },
+  {
+    "name": "mer_silver_salamander",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/signboards/mer_silver_salamander.w2ent"
+  },
+  {
+    "name": "mer_winery",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/signboards/mer_winery.w2ent"
+  },
+  {
+    "name": "poor_trader_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/traders/poor_trader_g.w2ent"
+  },
+  {
+    "name": "poor_trader_tent_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/merchant/traders/poor_trader_tent_c.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/chests/backup/backup_deco_poor_chest_a.w2ent"
+  },
+  {
+    "name": "deco_poor_cupboard_a_dynamic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cupboards/deco_poor_cupboard_a_dynamic.w2ent"
+  },
+  {
+    "name": "deco_poor_cupboard_d_backup",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cupboards/deco_poor_cupboard_d_backup.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_cupboard_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cupboards/backup/backup_deco_poor_cupboard_b.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_cupboard_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cupboards/backup/backup_deco_poor_cupboard_c.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_cupboard_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cupboards/backup/backup_deco_poor_cupboard_d.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_cupboard_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cupboards/backup/backup_deco_poor_cupboard_e.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_cupboard_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cupboards/backup/backup_deco_poor_cupboard_f.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_cupboard_jars_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cupboards/backup/backup_deco_poor_cupboard_jars_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_forks_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cutlery/backup/backup_deco_poor_forks_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_knives_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cutlery/backup/backup_deco_poor_knives_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_spoons_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/cutlery/backup/backup_deco_poor_spoons_a.w2ent"
+  },
+  {
+    "name": "deco_poor_foodplate_m",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/deco_poor_foodplate_m.w2ent"
+  },
+  {
+    "name": "deco_poor_pan_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/deco_poor_pan_c.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_bowl_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_bowl_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_bowl_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_bowl_b.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_cake_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_cake_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_dish_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_dish_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_foodplate_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_foodplate_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_foodplate_chicken",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_foodplate_chicken.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_foodplate_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_foodplate_e.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_foodplate_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_foodplate_f.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_foodplate_i",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_foodplate_i.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_foodplate_k",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_foodplate_k.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_foodplate_l",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/food/backup/backup_deco_poor_foodplate_l.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_herb_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/herbs/backup/backup_deco_poor_herb_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_herb_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/herbs/backup/backup_deco_poor_herb_b.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_pitcher_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/jugs/backup/backup_deco_poor_pitcher_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_junk_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/junk/backup/backup_deco_poor_junk_b.w2ent"
+  },
+  {
+    "name": "merge_deco_poor_cupboard_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/meshes/merge_deco_poor_cupboard_d.w2ent"
+  },
+  {
+    "name": "merge_deco_poor_table_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/meshes/merge_deco_poor_table_b.w2ent"
+  },
+  {
+    "name": "merge_deco_poor_table_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/meshes/merge_deco_poor_table_c.w2ent"
+  },
+  {
+    "name": "merge_deco_poor_table_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/meshes/merge_deco_poor_table_e.w2ent"
+  },
+  {
+    "name": "merge_deco_poor_table_j",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/meshes/merge_deco_poor_table_j.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_mug_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/mugs/backup/backup_deco_poor_mug_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_mug_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/mugs/backup/backup_deco_poor_mug_d.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_pots_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/pots/backup/backup_deco_poor_pots_a.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_pots_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/pots/backup/backup_deco_poor_pots_b.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_pots_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/pots/backup/backup_deco_poor_pots_c.w2ent"
+  },
+  {
+    "name": "deco_poor_bookshelf_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/shelves/deco_poor_bookshelf_a.w2ent"
+  },
+  {
+    "name": "deco_poor_bookshelf_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/shelves/deco_poor_bookshelf_b.w2ent"
+  },
+  {
+    "name": "deco_poor_bookshelf_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/shelves/deco_poor_bookshelf_d.w2ent"
+  },
+  {
+    "name": "deco_poor_shelf_wall_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/shelves/deco_poor_shelf_wall_g.w2ent"
+  },
+  {
+    "name": "deco_poor_shelf_wall_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/shelves/deco_poor_shelf_wall_h.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_bookshelf_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/shelves/backup/backup_deco_poor_bookshelf_e.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_shelf_kitchen",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/shelves/backup/backup_deco_poor_shelf_kitchen.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_shelf_wall_c_copy",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/shelves/backup/backup_deco_poor_shelf_wall_c_copy.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_shelf_wall_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/shelves/backup/backup_deco_poor_shelf_wall_d.w2ent"
+  },
+  {
+    "name": "deco_poor_table_l",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/tables/deco_poor_table_l.w2ent"
+  },
+  {
+    "name": "deco_poor_table_square_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/tables/deco_poor_table_square_a.w2ent"
+  },
+  {
+    "name": "deco_poor_table_square_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/tables/deco_poor_table_square_b.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_table_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/tables/backup/backup_deco_poor_table_b.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_table_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/tables/backup/backup_deco_poor_table_c.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_table_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/tables/backup/backup_deco_poor_table_d.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_table_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/tables/backup/backup_deco_poor_table_e.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_table_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/tables/backup/backup_deco_poor_table_g.w2ent"
+  },
+  {
+    "name": "backup_deco_poor_table_j",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/decoration_set/tables/backup/backup_deco_poor_table_j.w2ent"
+  },
+  {
+    "name": "poor_bench_c_px",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/furniture/benches/destruction/poor_bench_c_px.w2ent"
+  },
+  {
+    "name": "cont_poor_commode_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/furniture/cupboards/cont_poor_commode_a.w2ent"
+  },
+  {
+    "name": "cont_poor_commode_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/furniture/cupboards/cont_poor_commode_b.w2ent"
+  },
+  {
+    "name": "cont_poor_commode_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/furniture/cupboards/cont_poor_commode_c.w2ent"
+  },
+  {
+    "name": "cont_poor_commode_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/furniture/cupboards/cont_poor_commode_e.w2ent"
+  },
+  {
+    "name": "cont_poor_commode_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/furniture/cupboards/cont_poor_commode_f.w2ent"
+  },
+  {
+    "name": "poor_table_round_b_px",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/furniture/tables/destruction/poor_table_round_b_px.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_01_interior_1v_nonstatic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_01_interior_1v_nonstatic.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_01_interior_1v_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_01_interior_1v_static.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_01_interior_1v_structure",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_01_interior_1v_structure.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_01_interior_2v_nonstatic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_01_interior_2v_nonstatic.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_01_interior_2v_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_01_interior_2v_static.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_01_interior_2v_structure",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_01_interior_2v_structure.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_01_interior_3v_nonstatic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_01_interior_3v_nonstatic.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_01_interior_3v_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_01_interior_3v_static.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_01_interior_3v_structure",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_01_interior_3v_structure.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_11_interior_1v_nonstatic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_11_interior_1v_nonstatic.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_11_interior_1v_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_11_interior_1v_static.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_11_interior_1v_structure",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_11_interior_1v_structure.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_11_interior_2v_nonstatic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_11_interior_2v_nonstatic.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_11_interior_2v_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_11_interior_2v_static.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_11_interior_2v_structure",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_11_interior_2v_structure.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_11_interior_3v_nonstatic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_11_interior_3v_nonstatic.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_11_interior_3v_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_11_interior_3v_static.w2ent"
+  },
+  {
+    "name": "backup_bob_house_poor_11_interior_3v_structure",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/backup_bob_house_poor_11_interior_3v_structure.w2ent"
+  },
+  {
+    "name": "bakup_bob_house_poor_14_1v_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/bakup_bob_house_poor_14_1v_static.w2ent"
+  },
+  {
+    "name": "bakup_bob_house_poor_14_1v_structure",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/poor_district/poor_generic_interior_sets/backup/bakup_bob_house_poor_14_1v_structure.w2ent"
+  },
+  {
+    "name": "rich_curtains_blue_tied_loose_left",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_blue_tied_loose_left.w2ent"
+  },
+  {
+    "name": "rich_curtains_blue_tied_loose_right",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_blue_tied_loose_right.w2ent"
+  },
+  {
+    "name": "rich_curtains_blue_window_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_blue_window_c.w2ent"
+  },
+  {
+    "name": "rich_curtains_green_tied_loose_left",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_green_tied_loose_left.w2ent"
+  },
+  {
+    "name": "rich_curtains_green_tied_loose_right",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_green_tied_loose_right.w2ent"
+  },
+  {
+    "name": "rich_curtains_green_tied_tight_left",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_green_tied_tight_left.w2ent"
+  },
+  {
+    "name": "rich_curtains_green_tied_tight_right",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_green_tied_tight_right.w2ent"
+  },
+  {
+    "name": "rich_curtains_green_window_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_green_window_a.w2ent"
+  },
+  {
+    "name": "rich_curtains_green_window_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_green_window_c.w2ent"
+  },
+  {
+    "name": "rich_curtains_green_window_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/rich_curtains_green_window_d.w2ent"
+  },
+  {
+    "name": "backup_rich_curtains_blue_window_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/backup/backup_rich_curtains_blue_window_a.w2ent"
+  },
+  {
+    "name": "backup_rich_curtains_blue_window_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/backup/backup_rich_curtains_blue_window_b.w2ent"
+  },
+  {
+    "name": "backup_rich_curtains_blue_window_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/backup/backup_rich_curtains_blue_window_c.w2ent"
+  },
+  {
+    "name": "backup_rich_curtains_b_fancy_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/backup/backup_rich_curtains_b_fancy_a.w2ent"
+  },
+  {
+    "name": "backup_rich_curtains_green_window_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/backup/backup_rich_curtains_green_window_a.w2ent"
+  },
+  {
+    "name": "backup_rich_curtains_green_window_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/backup/backup_rich_curtains_green_window_b.w2ent"
+  },
+  {
+    "name": "backup_rich_curtains_green_window_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/backup/backup_rich_curtains_green_window_c.w2ent"
+  },
+  {
+    "name": "backup_rich_curtains_green_window_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/curtains/backup/backup_rich_curtains_green_window_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bed_a_with_curtains",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/beds/backup/backup_deco_rich_bed_a_with_curtains.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bed_b_with_curtains",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/beds/backup/backup_deco_rich_bed_b_with_curtains.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bed_c_with_curtains",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/beds/backup/backup_deco_rich_bed_c_with_curtains.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_box_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/chests/backup/backup_deco_rich_box_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/chests/backup/backup_deco_rich_chest_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_chest_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/chests/backup/backup_deco_rich_chest_b.w2ent"
+  },
+  {
+    "name": "backup_deco_gen_crate_jars_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/crates/backup/backup_deco_gen_crate_jars_b.w2ent"
+  },
+  {
+    "name": "deco_rich_bowl_water_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/misc/deco_rich_bowl_water_a.w2ent"
+  },
+  {
+    "name": "deco_rich_music_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/misc/deco_rich_music_a.w2ent"
+  },
+  {
+    "name": "deco_rich_plate_dish_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/deco_rich_plate_dish_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_board_meat_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_board_meat_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bowl_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_bowl_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bowl_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_bowl_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bowl_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_bowl_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bowl_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_bowl_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bowl_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_bowl_e.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bowl_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_bowl_f.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bowl_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_bowl_g.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plates_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plates_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plates_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plates_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plates_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plates_h.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plates_i",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plates_i.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plates_pile_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plates_pile_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plates_pile_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plates_pile_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_cake_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_cake_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_cake_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_cake_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_cake_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_cake_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_dish_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_dish_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_dish_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_dish_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_dish_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_dish_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_fruit_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_fruit_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_fruit_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_fruit_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_fruit_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_fruit_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_fruit_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_fruit_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_fruit_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_fruit_f.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_fruit_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_fruit_g.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_large_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_large_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_large_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_large_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_large_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_large_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_large_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_large_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_large_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_large_e.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_large_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_large_f.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_large_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_large_g.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_large_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_large_h.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_plate_large_i",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_plate_large_i.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_platter_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_platter_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_platter_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_platter_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_platter_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_platter_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_platter_fruit_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_platter_fruit_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_platter_fruit_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_platter_fruit_f.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_platter_fruit_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_platter_fruit_g.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_serving_plate_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_serving_plate_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_serving_plate_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_serving_plate_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_serving_plate_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_serving_plate_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_serving_plate_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_serving_plate_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_serving_plate_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_serving_plate_e.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_serving_plate_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_serving_plate_f.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_serving_plate_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_serving_plate_g.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_serving_plate_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_serving_plate_h.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_serving_plate_i",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_serving_plate_i.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_spices_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_spices_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_spices_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/backup_deco_rich_spices_b.w2ent"
+  },
+  {
+    "name": "bakup_deco_rich_platter_cake_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/bakup_deco_rich_platter_cake_a.w2ent"
+  },
+  {
+    "name": "bakup_deco_rich_platter_cake_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/bakup_deco_rich_platter_cake_b.w2ent"
+  },
+  {
+    "name": "bakup_deco_rich_platter_cake_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/bakup_deco_rich_platter_cake_c.w2ent"
+  },
+  {
+    "name": "bakup_deco_rich_platter_cake_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/bakup_deco_rich_platter_cake_d.w2ent"
+  },
+  {
+    "name": "bakup_deco_rich_platter_cake_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/bakup_deco_rich_platter_cake_e.w2ent"
+  },
+  {
+    "name": "bakup_deco_rich_platter_fruit_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/bakup_deco_rich_platter_fruit_a.w2ent"
+  },
+  {
+    "name": "buckup_deco_rich_platter_fruit_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/plates/backup/buckup_deco_rich_platter_fruit_e.w2ent"
+  },
+  {
+    "name": "deco_rich_shelf_kitchen_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/deco_rich_shelf_kitchen_b.w2ent"
+  },
+  {
+    "name": "deco_rich_shelf_plates_wall_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/deco_rich_shelf_plates_wall_a.w2ent"
+  },
+  {
+    "name": "deco_rich_shelf_plates_wall_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/deco_rich_shelf_plates_wall_b.w2ent"
+  },
+  {
+    "name": "deco_rich_shelf_plates_wall_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/deco_rich_shelf_plates_wall_f.w2ent"
+  },
+  {
+    "name": "deco_rich_wall_shelves_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/deco_rich_wall_shelves_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bookshelf_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/backup/backup_deco_rich_bookshelf_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bookshelf_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/backup/backup_deco_rich_bookshelf_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bookshelf_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/backup/backup_deco_rich_bookshelf_e.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bookshelf_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/backup/backup_deco_rich_bookshelf_f.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bookshelf_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/backup/backup_deco_rich_bookshelf_g.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_wall_shelves_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/backup/backup_deco_rich_wall_shelves_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_wall_shelves_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/backup/backup_deco_rich_wall_shelves_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_wall_shelves_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/backup/backup_deco_rich_wall_shelves_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_wall_shelves_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/shelves/backup/backup_deco_rich_wall_shelves_d.w2ent"
+  },
+  {
+    "name": "deco_rich_comode_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/deco_rich_comode_e.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_bed_table_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_bed_table_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_commode_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_commode_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_commode_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_commode_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_commode_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_commode_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_commode_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_commode_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_commode_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_commode_e.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_comode_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_comode_e.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_desk_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_desk_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_desk_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_desk_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_desk_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_desk_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_desk_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_desk_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_a.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_d.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_e.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_f.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_g.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_h.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_i",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_i.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_j",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables/backup/backup_deco_rich_table_j.w2ent"
+  },
+  {
+    "name": "deco_rich_dinning_table_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_dinning_table_b.w2ent"
+  },
+  {
+    "name": "deco_rich_dinning_table_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_dinning_table_c.w2ent"
+  },
+  {
+    "name": "deco_rich_dinning_table_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_dinning_table_d.w2ent"
+  },
+  {
+    "name": "deco_rich_table_food_large_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_table_food_large_a.w2ent"
+  },
+  {
+    "name": "deco_rich_table_food_large_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_table_food_large_b.w2ent"
+  },
+  {
+    "name": "deco_rich_table_food_large_b_dynamic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_table_food_large_b_dynamic.w2ent"
+  },
+  {
+    "name": "deco_rich_table_food_large_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_table_food_large_e.w2ent"
+  },
+  {
+    "name": "deco_rich_table_food_large_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_table_food_large_f.w2ent"
+  },
+  {
+    "name": "deco_rich_table_food_large_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_table_food_large_g.w2ent"
+  },
+  {
+    "name": "deco_rich_table_food_small_round_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/deco_rich_table_food_small_round_e.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_food_large_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/backup/backup_deco_rich_table_food_large_b.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_food_large_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/backup/backup_deco_rich_table_food_large_c.w2ent"
+  },
+  {
+    "name": "backup_deco_rich_table_food_large_round_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/decoration_set/tables_food/backup/backup_deco_rich_table_food_large_round_a.w2ent"
+  },
+  {
+    "name": "cont_rich_cupboard_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/furniture/cupboards/cont_rich_cupboard_a.w2ent"
+  },
+  {
+    "name": "cont_rich_cupboard_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/furniture/cupboards/cont_rich_cupboard_c.w2ent"
+  },
+  {
+    "name": "cont_rich_cupboard_hanging",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/furniture/cupboards/cont_rich_cupboard_hanging.w2ent"
+  },
+  {
+    "name": "cont_rich_desk_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/furniture/tables/cont_rich_desk_a.w2ent"
+  },
+  {
+    "name": "cont_rich_side_table_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/furniture/tables/cont_rich_side_table_e.w2ent"
+  },
+  {
+    "name": "chest_coin_pile",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_coin_pile/chest_coin_pile.w2ent"
+  },
+  {
+    "name": "bob_pot_junipiterus_hang_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/bob_pot_junipiterus_hang_d.w2ent"
+  },
+  {
+    "name": "bob_pot_roses_hang_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/bob_pot_roses_hang_a.w2ent"
+  },
+  {
+    "name": "chamomilla_bouquet_jug_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/chamomilla_bouquet_jug_d.w2ent"
+  },
+  {
+    "name": "backup_rose_dry_bouquet_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_dry_bouquet_a.w2ent"
+  },
+  {
+    "name": "backup_rose_dry_bouquet_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_dry_bouquet_b.w2ent"
+  },
+  {
+    "name": "backup_rose_pink_bouquet_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_pink_bouquet_a.w2ent"
+  },
+  {
+    "name": "backup_rose_red_bouquet_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_red_bouquet_a.w2ent"
+  },
+  {
+    "name": "backup_rose_red_bouquet_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_red_bouquet_b.w2ent"
+  },
+  {
+    "name": "backup_rose_red_bouquet_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_red_bouquet_c.w2ent"
+  },
+  {
+    "name": "backup_rose_white_bouquet_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_white_bouquet_a.w2ent"
+  },
+  {
+    "name": "backup_rose_white_bouquet_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_white_bouquet_c.w2ent"
+  },
+  {
+    "name": "backup_rose_white_bouquet_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_white_bouquet_d.w2ent"
+  },
+  {
+    "name": "backup_rose_yellow_bouquet_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_flowers/backup/backup_rose_yellow_bouquet_g.w2ent"
+  },
+  {
+    "name": "rich_silver_fork",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_silver_cultery/rich_silver_fork.w2ent"
+  },
+  {
+    "name": "rich_silver_knife",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_silver_cultery/rich_silver_knife.w2ent"
+  },
+  {
+    "name": "rich_silver_spoon",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/misc/rich_silver_cultery/rich_silver_spoon.w2ent"
+  },
+  {
+    "name": "backup_deco_int_rich_01_c_2v_1f_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/rich_generic_int_set/rich_01_c_2v/backup/backup_deco_int_rich_01_c_2v_1f_static.w2ent"
+  },
+  {
+    "name": "backup_deco_int_rich_01_c_2v_2f_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/rich_generic_int_set/rich_01_c_2v/backup/backup_deco_int_rich_01_c_2v_2f_static.w2ent"
+  },
+  {
+    "name": "backup_deco_int_rich_03a_c_1v_1f_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/rich_generic_int_set/rich_03_a_1v/backup/backup_deco_int_rich_03a_c_1v_1f_static.w2ent"
+  },
+  {
+    "name": "backup_deco_int_rich_03a_c_1v_1f_walls",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/rich_generic_int_set/rich_03_a_1v/backup/backup_deco_int_rich_03a_c_1v_1f_walls.w2ent"
+  },
+  {
+    "name": "backup_deco_int_rich_03a_c_1v_2f_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/rich_generic_int_set/rich_03_a_1v/backup/backup_deco_int_rich_03a_c_1v_2f_static.w2ent"
+  },
+  {
+    "name": "backup_deco_int_rich_03a_c_1v_2f_walls",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/rich_generic_int_set/rich_03_a_1v/backup/backup_deco_int_rich_03a_c_1v_2f_walls.w2ent"
+  },
+  {
+    "name": "backup_deco_int_rich_03a_c_1v_3f_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/rich_generic_int_set/rich_03_a_1v/backup/backup_deco_int_rich_03a_c_1v_3f_static.w2ent"
+  },
+  {
+    "name": "backup_deco_int_rich_03a_c_1v_3f_walls",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/rich_generic_int_set/rich_03_a_1v/backup/backup_deco_int_rich_03a_c_1v_3f_walls.w2ent"
+  },
+  {
+    "name": "anna_statue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/statues/anna_statue/anna_statue.w2ent"
+  },
+  {
+    "name": "horse_statue_solo",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/statues/horse_statue/horse_statue_solo.w2ent"
+  },
+  {
+    "name": "lebioda_statue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/decorations/gameplay/rich_district/statues/rich_lebioda_statue/model/lebioda_statue.w2ent"
+  },
+  {
+    "name": "orinas_house_fence",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/entity_proxy/orinas_house_fence.w2ent"
+  },
+  {
+    "name": "bcg_mountains",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/background/bcg_mountains.w2ent"
+  },
+  {
+    "name": "devils_gate_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/background/devils_gate/devils_gate_a.w2ent"
+  },
+  {
+    "name": "devils_gate_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/background/devils_gate/devils_gate_b.w2ent"
+  },
+  {
+    "name": "devils_gate_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/background/devils_gate/devils_gate_c.w2ent"
+  },
+  {
+    "name": "gate_l",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/background/devils_gate/gate_l.w2ent"
+  },
+  {
+    "name": "gate_r",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/background/devils_gate/gate_r.w2ent"
+  },
+  {
+    "name": "puzzle_chamber",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/704_puzzle_cave/puzzle_chamber.w2ent"
+  },
+  {
+    "name": "q704_destructible_column_top",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/704_puzzle_cave/destructibles/assets/q704_destructible_column_top.w2ent"
+  },
+  {
+    "name": "stalagmite_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/704_puzzle_cave/glowing_rocks/stalagmite_a.w2ent"
+  },
+  {
+    "name": "rocks_collapsed_3_px",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_destruction_assets/cave_wall/rocks_collapsed_3_px.w2ent"
+  },
+  {
+    "name": "rocks_collapsed_4_px",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_destruction_assets/cave_wall/rocks_collapsed_4_px.w2ent"
+  },
+  {
+    "name": "rocks_collapsed_5_px",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_destruction_assets/cave_wall/rocks_collapsed_5_px.w2ent"
+  },
+  {
+    "name": "cave_column_b_destruction",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_destruction_assets/q704/cave_column_b_destruction.w2ent"
+  },
+  {
+    "name": "cave_piramid_a_destruction",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/cave/cave_destruction_assets/q704/cave_piramid_a_destruction.w2ent"
+  },
+  {
+    "name": "bob_chain_150_hook",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/chains/bob_chain_150_hook.w2ent"
+  },
+  {
+    "name": "bob_chain_190_hook_triple",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/chains/bob_chain_190_hook_triple.w2ent"
+  },
+  {
+    "name": "bob_chain_190_rings",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/chains/bob_chain_190_rings.w2ent"
+  },
+  {
+    "name": "bob_sketch_fence_hor_broken_left_smoked",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances/bob_sketch_fence_hor_broken_left_smoked.w2ent"
+  },
+  {
+    "name": "bob_sketch_fence_hor_broken_right_burned",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances/bob_sketch_fence_hor_broken_right_burned.w2ent"
+  },
+  {
+    "name": "bob_sketch_fence_hor_broken_right_burned_long",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances/bob_sketch_fence_hor_broken_right_burned_long.w2ent"
+  },
+  {
+    "name": "bob_sketch_fence_hor_vaulting_smoked",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances/bob_sketch_fence_hor_vaulting_smoked.w2ent"
+  },
+  {
+    "name": "sketch_fence_hor_b_beams_px_giant_only",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/fances/destructible/sketch_fence_hor_b_beams_px_giant_only.w2ent"
+  },
+  {
+    "name": "bob_corner_palisade",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_corner_palisade.w2ent"
+  },
+  {
+    "name": "bob_corner_two_sides",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_corner_two_sides.w2ent"
+  },
+  {
+    "name": "bob_palisade_long_high_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_long_high_a.w2ent"
+  },
+  {
+    "name": "bob_palisade_long_low_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_long_low_a.w2ent"
+  },
+  {
+    "name": "bob_palisade_short_high",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_palisade_short_high.w2ent"
+  },
+  {
+    "name": "bob_tower_base",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_tower_base.w2ent"
+  },
+  {
+    "name": "bob_tower_explorable_base",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_tower_explorable_base.w2ent"
+  },
+  {
+    "name": "bob_tower_explorable_top",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/palisade/bob_tower_explorable_top.w2ent"
+  },
+  {
+    "name": "bob_ropes_line_hanging_long_a_static",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/terrain_surroundings/ropes/bob_ropes_line_hanging_long_a_static.w2ent"
+  },
+  {
+    "name": "bob_tournament_horse_race",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/tournament/entities/bob_tournament_horse_race.w2ent"
+  },
+  {
+    "name": "fugas_lvl1_copy",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/fugas_lvl1_copy.w2ent"
+  },
+  {
+    "name": "cs704_detlaff_force",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_detlaff_morphs/cs704_detlaff_force.w2ent"
+  },
+  {
+    "name": "blood_detlaff",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_detlaff_transforms/blood_detlaff.w2ent"
+  },
+  {
+    "name": "cs704_cloud_area",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_sex_with_syanna/cs704_cloud_area.w2ent"
+  },
+  {
+    "name": "cs704_cloud_area_2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_sex_with_syanna/cs704_cloud_area_2.w2ent"
+  },
+  {
+    "name": "cs704_smoke_moving_fx",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_sister_intro/cs704_smoke_moving_fx.w2ent"
+  },
+  {
+    "name": "aerondlight_enemy_hit",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/gameplay/magic_sword/aerondight/aerondlight_enemy_hit.w2ent"
+  },
+  {
+    "name": "blast",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/blast.w2ent"
+  },
+  {
+    "name": "dettlaff_monster_ground",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_monster_ground.w2ent"
+  },
+  {
+    "name": "dettlaff_swarm_dive_attack",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_swarm_dive_attack.w2ent"
+  },
+  {
+    "name": "construct_indicator",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/construct_indicator.w2ent"
+  },
+  {
+    "name": "dettlaff_arena_portal",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_arena_portal.w2ent"
+  },
+  {
+    "name": "dettlaff_arena_support",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_arena_support.w2ent"
+  },
+  {
+    "name": "dettlaff_arena_support_strong",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_arena_support_strong.w2ent"
+  },
+  {
+    "name": "dettlaff_cocoon",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_cocoon.w2ent"
+  },
+  {
+    "name": "dettlaff_gotoplane_001",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_gotoplane_001.w2ent"
+  },
+  {
+    "name": "dettlaff_gotoplane_002",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_gotoplane_002.w2ent"
+  },
+  {
+    "name": "dettlaff_gotoplane_003",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_gotoplane_003.w2ent"
+  },
+  {
+    "name": "cocoon",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/cocoon.w2ent"
+  },
+  {
+    "name": "i_01_veins",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/i_01_veins.w2ent"
+  },
+  {
+    "name": "i_02_veins",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/i_02_veins.w2ent"
+  },
+  {
+    "name": "i_03_veins",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/i_03_veins.w2ent"
+  },
+  {
+    "name": "i_04_veins",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/i_04_veins.w2ent"
+  },
+  {
+    "name": "i_05_veins",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/add_veins/i_05_veins.w2ent"
+  },
+  {
+    "name": "echinops_poison_area",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/echinops_poison_area.w2ent"
+  },
+  {
+    "name": "spriggan_special_attack",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/spriggan/spriggan_special_attack.w2ent"
+  },
+  {
+    "name": "zmora_trail_fx",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/mq7017/characters/zmora_trail_fx.w2ent"
+  },
+  {
+    "name": "hermit_fx2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/mq7017/meet_hermit/hermit_fx2.w2ent"
+  },
+  {
+    "name": "q703_dolphin",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q703/mandragora/q703_dolphin.w2ent"
+  },
+  {
+    "name": "sq701_magic",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/sq701/sq701_vivienne/sq701_magic.w2ent"
+  },
+  {
+    "name": "bruxa_sound_proj",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/abilities/bruxa/bruxa_sound_proj.w2ent"
+  },
+  {
+    "name": "test_trap_bob",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/abilities/water_mage/test_trap_bob.w2ent"
+  },
+  {
+    "name": "sit_2_mw_bench_stone_02_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/sit_2_mw_bench_stone_02_ap.w2ent"
+  },
+  {
+    "name": "sit_2_mw_bench_stone_02_ap_",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/sit_2_mw_bench_stone_02_ap_.w2ent"
+  },
+  {
+    "name": "panther_crouch_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/animal/panther/panther_crouch_ap.w2ent"
+  },
+  {
+    "name": "stand_c_catching_fish_dynamic_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/children_play/stand_c_catching_fish_dynamic_ap.w2ent"
+  },
+  {
+    "name": "sit_mw_devastated_bench_short_interactable_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/emotional/sit_mw_devastated_bench_short_interactable_ap.w2ent"
+  },
+  {
+    "name": "stand_mw_dancing_sexy_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/emotional/stand_mw_dancing_sexy_ap.w2ent"
+  },
+  {
+    "name": "stand_mw_talking_sad_voicesets_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/emotional/stand_mw_talking_sad_voicesets_ap.w2ent"
+  },
+  {
+    "name": "comm_chicken_plate",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/entietiesforactionpoints/comm_chicken_plate.w2ent"
+  },
+  {
+    "name": "comm_chicken_plate_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/entietiesforactionpoints/comm_chicken_plate_rich.w2ent"
+  },
+  {
+    "name": "comm_fish_plate",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/entietiesforactionpoints/comm_fish_plate.w2ent"
+  },
+  {
+    "name": "comm_fish_plate_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/entietiesforactionpoints/comm_fish_plate_rich.w2ent"
+  },
+  {
+    "name": "comm_meat_plate",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/entietiesforactionpoints/comm_meat_plate.w2ent"
+  },
+  {
+    "name": "comm_sausage_plate",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/entietiesforactionpoints/comm_sausage_plate.w2ent"
+  },
+  {
+    "name": "comm_soup_bowl",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/entietiesforactionpoints/comm_soup_bowl.w2ent"
+  },
+  {
+    "name": "comm_soup_bowl_rich",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/entietiesforactionpoints/comm_soup_bowl_rich.w2ent"
+  },
+  {
+    "name": "stand_mw_cooking_big_cauldron_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/household/stand_mw_cooking_big_cauldron_ap.w2ent"
+  },
+  {
+    "name": "stand_mw_cooking_roasted_pig_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/household/stand_mw_cooking_roasted_pig_ap.w2ent"
+  },
+  {
+    "name": "stand_w_looking_mirror_small_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/household/stand_w_looking_mirror_small_ap.w2ent"
+  },
+  {
+    "name": "kneel_m_pain_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/infested_vineyard/kneel_m_pain_ap.w2ent"
+  },
+  {
+    "name": "stand_m_cowering_01_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/infested_vineyard/stand_m_cowering_01_ap.w2ent"
+  },
+  {
+    "name": "stand_m_cowering_02_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/infested_vineyard/stand_m_cowering_02_ap.w2ent"
+  },
+  {
+    "name": "stand_m_cowering_03_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/infested_vineyard/stand_m_cowering_03_ap.w2ent"
+  },
+  {
+    "name": "kneel_m_pain_conscious_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/kneel_m_pain_conscious_ap.w2ent"
+  },
+  {
+    "name": "mq7007_sit_mw_devastated_nomesh_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/mq7007_sit_mw_devastated_nomesh_ap.w2ent"
+  },
+  {
+    "name": "mq7007_warrior_statue_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/mq7007_warrior_statue_ap.w2ent"
+  },
+  {
+    "name": "mq7008_chort_attack_well_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/mq7008_chort_attack_well_ap.w2ent"
+  },
+  {
+    "name": "mq7008_lean_mw_fence_on_arms_no_wave_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/mq7008_lean_mw_fence_on_arms_no_wave_ap.w2ent"
+  },
+  {
+    "name": "q701_man_angry_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/q701_man_angry_ap.w2ent"
+  },
+  {
+    "name": "q703_mandragora_sculpturer_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/q703_mandragora_sculpturer_ap.w2ent"
+  },
+  {
+    "name": "q703_waving_torch",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/q703_waving_torch.w2ent"
+  },
+  {
+    "name": "q704_kneel_m_cowering_conscious_02_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/q704_kneel_m_cowering_conscious_02_ap.w2ent"
+  },
+  {
+    "name": "q705_ap_chair_gwent_player",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/q705/q705_ap_chair_gwent_player.w2ent"
+  },
+  {
+    "name": "sq701_stand_m_wave_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/quest/sq701/sq701_stand_m_wave_ap.w2ent"
+  },
+  {
+    "name": "chair_sitting_woman",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/resting/chair_sitting_woman.w2ent"
+  },
+  {
+    "name": "sit_4_m_playing_knife_table_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/resting/sit_4_m_playing_knife_table_ap.w2ent"
+  },
+  {
+    "name": "sit_mwd_bench_rich_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/resting/sit_mwd_bench_rich_ap.w2ent"
+  },
+  {
+    "name": "sit_mwd_chair_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/resting/sit_mwd_chair_ap.w2ent"
+  },
+  {
+    "name": "sit_mwd_chair_rich_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/resting/sit_mwd_chair_rich_ap.w2ent"
+  },
+  {
+    "name": "sit_mw_sleep_chair_rich_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/resting/sit_mw_sleep_chair_rich_ap.w2ent"
+  },
+  {
+    "name": "sit_m_bandit_02_chair_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/resting/sit_m_bandit_02_chair_ap.w2ent"
+  },
+  {
+    "name": "fuckup",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/sleeping/fuckup.w2ent"
+  },
+  {
+    "name": "lie_mwdc_sleep_bed_l_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/sleeping/lie_mwdc_sleep_bed_l_ap.w2ent"
+  },
+  {
+    "name": "lie_mwdc_sleep_bed_l_new_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/sleeping/lie_mwdc_sleep_bed_l_new_ap.w2ent"
+  },
+  {
+    "name": "lie_mwdc_sleep_bed_r_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/sleeping/lie_mwdc_sleep_bed_r_ap.w2ent"
+  },
+  {
+    "name": "lie_mwdc_sleep_bed_r_new_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/sleeping/lie_mwdc_sleep_bed_r_new_ap.w2ent"
+  },
+  {
+    "name": "reading_book_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/reading_book_ap.w2ent"
+  },
+  {
+    "name": "sit_mw_milking_cow_stool_02_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/sit_mw_milking_cow_stool_02_ap.w2ent"
+  },
+  {
+    "name": "sit_mw_milking_cow_stool_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/sit_mw_milking_cow_stool_ap.w2ent"
+  },
+  {
+    "name": "sit_m_writing_desk_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/sit_m_writing_desk_ap.w2ent"
+  },
+  {
+    "name": "sit_w_plucking_chicken_nomesh_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/sit_w_plucking_chicken_nomesh_ap.w2ent"
+  },
+  {
+    "name": "sit_w_writing_desk_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/sit_w_writing_desk_ap.w2ent"
+  },
+  {
+    "name": "stand_mw_gutting_fish_table_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/stand_mw_gutting_fish_table_ap.w2ent"
+  },
+  {
+    "name": "stand_m_armorer_fixing_table_03_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/stand_m_armorer_fixing_table_03_ap.w2ent"
+  },
+  {
+    "name": "stand_m_armorer_fixing_table_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/stand_m_armorer_fixing_table_ap.w2ent"
+  },
+  {
+    "name": "stand_m_flirting_dynamic_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/stand_m_flirting_dynamic_ap.w2ent"
+  },
+  {
+    "name": "stand_m_knock_door_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/stand_m_knock_door_ap.w2ent"
+  },
+  {
+    "name": "stand_m_taking_bricks_out_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/stand_m_taking_bricks_out_ap.w2ent"
+  },
+  {
+    "name": "stand_m_taking_bricks_out_clumsy_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/actionpoints/work/stand_m_taking_bricks_out_clumsy_ap.w2ent"
+  },
+  {
+    "name": "thug_brothel_lvl1",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/bandits/thug_brothel_lvl1.w2ent"
+  },
+  {
+    "name": "noble_flute",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/citizens/noble_flute.w2ent"
+  },
+  {
+    "name": "noble_woman_happy",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/citizens/noble_woman_happy.w2ent"
+  },
+  {
+    "name": "noble_flute",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/citizens/beauclair/noble_flute.w2ent"
+  },
+  {
+    "name": "shepherd",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/craftsmen/shepherd.w2ent"
+  },
+  {
+    "name": "guard_lvl2_crossbow",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/guards/guard_lvl2_crossbow.w2ent"
+  },
+  {
+    "name": "guard_lvl2_shield",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/guards/guard_lvl2_shield.w2ent"
+  },
+  {
+    "name": "guard_lvl2_spear",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/guards/guard_lvl2_spear.w2ent"
+  },
+  {
+    "name": "guard_crossbow",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/guards/beauclair/guard_crossbow.w2ent"
+  },
+  {
+    "name": "nilfgaard_sailor",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/nilfgaardians/nilfgaard_sailor.w2ent"
+  },
+  {
+    "name": "nilfgaard_soldier",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/nilfgaardians/nilfgaard_soldier.w2ent"
+  },
+  {
+    "name": "nilfgaard_soldier_ranged",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/nilfgaardians/nilfgaard_soldier_ranged.w2ent"
+  },
+  {
+    "name": "nilfgaard_torch",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/nilfgaardians/nilfgaard_torch.w2ent"
+  },
+  {
+    "name": "toussaint_bard_woman",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/vineyard/toussaint_bard_woman.w2ent"
   }
 ]
