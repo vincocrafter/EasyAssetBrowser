@@ -196598,5 +196598,2427 @@
     "origin": "dlc12",
     "tags": [],
     "path": "dlc/dlc12/data/items/bodyparts/geralt_items/shoes/casual_non_combat/s_01_mg__nekker_shoes.w2ent"
+  },
+  {
+    "name": "mq2052_bear",
+    "category": "Entities",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/quest/quest_files/characters/mq2052_bear.w2ent"
+  },
+  {
+    "name": "q601_fc_sewer_pipe",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q601_intro/entities/q601_fc_sewer_pipe.w2ent"
+  },
+  {
+    "name": "q601_fc_powder",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q601_intro/entities/q601_fc_powder.w2ent"
+  },
+  {
+    "name": "q601_arena_block",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q601_intro/entities/q601_arena_block.w2ent"
+  },
+  {
+    "name": "q601_prisoner",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q601_intro/characters/q601_prisoner.w2ent"
+  },
+  {
+    "name": "mq6004_knight_note_mesh",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/mq6004_broken_rose/entities/clues/mq6004_knight_note_mesh.w2ent"
+  },
+  {
+    "name": "mq6004_insignia",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/mq6004_broken_rose/entities/clues/mq6004_insignia.w2ent"
+  },
+  {
+    "name": "mq6004_body_entity",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/mq6004_broken_rose/entities/clues/mq6004_body_entity.w2ent"
+  },
+  {
+    "name": "mq6002_leftover",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/mq6002_cannibals/entities/mq6002_leftover.w2ent"
+  },
+  {
+    "name": "mq6002_key",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/mq6002_cannibals/entities/mq6002_key.w2ent"
+  },
+  {
+    "name": "q206_full_wine_chalice",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "quests/part_2/quest_files/q206_berserkers/entities/q206_full_wine_chalice.w2ent"
+  },
+  {
+    "name": "ep1_poi_30_minor ",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/quests/ep1_poi_30/entities/ep1_poi_30_minor .w2ent"
+  },
+  {
+    "name": "q601_olgierd_statue",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q601_intro/entities/q601_olgierd_statue.w2ent"
+  },
+  {
+    "name": "ep1_poi_23_cont_bugfix",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/quests/ep1_poi_23/ep1_poi_23_cont_bugfix.w2ent"
+  },
+  {
+    "name": "ep1_poi_08_house_cont",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/quests/ep1_poi_08/entities/ep1_poi_08_house_cont.w2ent"
+  },
+  {
+    "name": "ep1_poi_04_minor_cont_copy",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/quests/ep1_poi_04/entities/ep1_poi_04_minor_cont_copy.w2ent"
+  },
+  {
+    "name": "ep1_poi_04_loot",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/quests/ep1_poi_04/entities/ep1_poi_04_loot.w2ent"
+  },
+  {
+    "name": "ep1_po03_q5__everywhere_copy",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/quests/ep1_poi_02/ep1_po03_q5__everywhere_copy.w2ent"
+  },
+  {
+    "name": "ep1_poi01_priest",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/quests/ep1_poi_01/ep1_poi01_priest.w2ent"
+  },
+  {
+    "name": "ep1_poi01_gold_casket__unique_runes_copy",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/quests/ep1_poi_01/ep1_poi01_gold_casket__unique_runes_copy.w2ent"
+  },
+  {
+    "name": "wraith_34_strong",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/enemy_templates/wraith_34_strong.w2ent"
+  },
+  {
+    "name": "wild_boar_ep1_small",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/enemy_templates/wild_boar_ep1_small.w2ent"
+  },
+  {
+    "name": "wild_boar_ep1_medium",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/enemy_templates/wild_boar_ep1_medium.w2ent"
+  },
+  {
+    "name": "wild_boar_ep1_large",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/enemy_templates/wild_boar_ep1_large.w2ent"
+  },
+  {
+    "name": "lessog_37_strong",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/enemy_templates/lessog_37_strong.w2ent"
+  },
+  {
+    "name": "__treasure__q5__novigrad",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/quests/ep1_poi_12/entities/__treasure__q5__novigrad.w2ent"
+  },
+  {
+    "name": "q601_sewer_pipe_interaction",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q601_intro/entities/q601_sewer_pipe_interaction.w2ent"
+  },
+  {
+    "name": "q602_fireeater_audience_girls",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q602_wedding/characters/q602_fireeater_audience_girls.w2ent"
+  },
+  {
+    "name": "q602_rhyme_boys",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q602_wedding/characters/q602_rhyme_boys.w2ent"
+  },
+  {
+    "name": "q604_painting_summer_no_iris",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_painting_summer_no_iris.w2ent"
+  },
+  {
+    "name": "q604_painting_dark_manor",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_painting_dark_manor.w2ent"
+  },
+  {
+    "name": "q604_olgierd_fruits_painting",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_olgierd_fruits_painting.w2ent"
+  },
+  {
+    "name": "q604_oillamp_clue",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_oillamp_clue.w2ent"
+  },
+  {
+    "name": "q604_mug",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_mug.w2ent"
+  },
+  {
+    "name": "q604_frozen_fountain_splash",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_frozen_fountain_splash.w2ent"
+  },
+  {
+    "name": "q604_chalk",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_chalk.w2ent"
+  },
+  {
+    "name": "q604_candles_study",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_candles_study.w2ent"
+  },
+  {
+    "name": "q604_ghoul",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/characters/q604_ghoul.w2ent"
+  },
+  {
+    "name": "q603_collision_torso",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/elf_collision_boxes/q603_collision_torso.w2ent"
+  },
+  {
+    "name": "q603_collision_planks",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/elf_collision_boxes/q603_collision_planks.w2ent"
+  },
+  {
+    "name": "q603_candle_small_group_melted_b_noshadow",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/candles/q603_candle_small_group_melted_b_noshadow.w2ent"
+  },
+  {
+    "name": "q603_candle_med_b_nobase_noshadow",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/candles/q603_candle_med_b_nobase_noshadow.w2ent"
+  },
+  {
+    "name": "q603_trap_door",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/q603_trap_door.w2ent"
+  },
+  {
+    "name": "q603_invisible_elf",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/q603_invisible_elf.w2ent"
+  },
+  {
+    "name": "q603_interactive_display",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/q603_interactive_display.w2ent"
+  },
+  {
+    "name": "q603_explosion",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/q603_explosion.w2ent"
+  },
+  {
+    "name": "q603_dwarf_explosion",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/q603_dwarf_explosion.w2ent"
+  },
+  {
+    "name": "q603_crossbow_npc_target",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/q603_crossbow_npc_target.w2ent"
+  },
+  {
+    "name": "q603_demo_dwarf_peasant_woman_bg",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/characters/q603_demo_dwarf_peasant_woman_bg.w2ent"
+  },
+  {
+    "name": "q602_coffin",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q602_wedding/entities/q602_coffin.w2ent"
+  },
+  {
+    "name": "q602_cap",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q602_wedding/entities/q602_cap.w2ent"
+  },
+  {
+    "name": "q602_basics_of_medicine",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q602_wedding/entities/q602_basics_of_medicine.w2ent"
+  },
+  {
+    "name": "crypt_loot",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q602_wedding/entities/crypt_loot.w2ent"
+  },
+  {
+    "name": "q602_rhyme_girls",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q602_wedding/characters/q602_rhyme_girls.w2ent"
+  },
+  {
+    "name": "harpy_erynia_34_normal",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/enemy_templates/harpy_erynia_34_normal.w2ent"
+  },
+  {
+    "name": "q604_place_object_blue",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_place_object_blue.w2ent"
+  },
+  {
+    "name": "harpy_34_normal",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/enemy_templates/harpy_34_normal.w2ent"
+  },
+  {
+    "name": "flaming_rose_guard_bow",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/enemy_templates/flaming_rose_guard_bow.w2ent"
+  },
+  {
+    "name": "q605_01_mirror_bleed",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/q605_01_mirror_in_oxenfurt/q605_01_mirror_bleed.w2ent"
+  },
+  {
+    "name": "candle_small_group_melted_c_complex_freeze",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/q605_01_mirror_in_oxenfurt/candle_small_group_melted_c_complex_freeze.w2ent"
+  },
+  {
+    "name": "candle_small_group_melted_b_complex_freeze",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/q605_01_mirror_in_oxenfurt/candle_small_group_melted_b_complex_freeze.w2ent"
+  },
+  {
+    "name": "cs604_candelabra_complex",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/cs604_unmasking/cs604_candelabra_complex.w2ent"
+  },
+  {
+    "name": "blood_sand_qust",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/hakland_mage/sand_qust/blood_sand_qust.w2ent"
+  },
+  {
+    "name": "caretaker_dismiss_yrden",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/caretaker/dismiss_yrden/caretaker_dismiss_yrden.w2ent"
+  },
+  {
+    "name": "decoration_set_trader_fish_table_b_ref",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/decorations/decoration_sets/traders/traders_parts/decoration_set_trader_fish_table_b_ref.w2ent"
+  },
+  {
+    "name": "decoration_set_trader_general_a_ref",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/decorations/decoration_sets/traders/decoration_set_trader_general_a_ref.w2ent"
+  },
+  {
+    "name": "ep1_spider_chamber",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/architecture/buildings/rich/auction_house/vault/ep1_spider_chamber.w2ent"
+  },
+  {
+    "name": "decoration_set_rich_vault_no_loot",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/architecture/buildings/rich/auction_house/vault/decoration_set_rich_vault_no_loot.w2ent"
+  },
+  {
+    "name": "q604_thief",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/secondary_npc/q604_thief.w2ent"
+  },
+  {
+    "name": "q605_freeze_cast",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/q605_01_mirror_in_oxenfurt/q605_freeze_cast.w2ent"
+  },
+  {
+    "name": "mq6004_dealer",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/secondary_npc/mq6004_dealer.w2ent"
+  },
+  {
+    "name": "werewolf_lvl5__lycan_ep1",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/monsters/werewolf_lvl5__lycan_ep1.w2ent"
+  },
+  {
+    "name": "nightwraith_lvl1_ep1",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/monsters/nightwraith_lvl1_ep1.w2ent"
+  },
+  {
+    "name": "lessog_lvl1_ep1",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/monsters/lessog_lvl1_ep1.w2ent"
+  },
+  {
+    "name": "fogling_lvl26_ep1",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/monsters/fogling_lvl26_ep1.w2ent"
+  },
+  {
+    "name": "ethernal_ghost",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/monsters/ethernal_ghost.w2ent"
+  },
+  {
+    "name": "alghoul_ghost",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/monsters/alghoul_ghost.w2ent"
+  },
+  {
+    "name": "wedding_band_dancers",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/crowd_npc/wedding_guests/wedding_band_dancers.w2ent"
+  },
+  {
+    "name": "wedding_band",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/crowd_npc/wedding_guests/wedding_band.w2ent"
+  },
+  {
+    "name": "ofir_merchant",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/crowd_npc/ofir_merchant/ofir_merchant.w2ent"
+  },
+  {
+    "name": "memory_villager_background",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/crowd_npc/memory_villager/memory_villager_background.w2ent"
+  },
+  {
+    "name": "iriss_family_servant",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/crowd_npc/iris_family_servants/iriss_family_servant.w2ent"
+  },
+  {
+    "name": "crewman_halfling_thief",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/secondary_npc/crewman_halfling_thief.w2ent"
+  },
+  {
+    "name": "q603_08_big_dancing_star",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q603/08_demo_dwarf/q603_08_big_dancing_star.w2ent"
+  },
+  {
+    "name": "q604_chandelier_dust",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q604/q604_chandelier_dust.w2ent"
+  },
+  {
+    "name": "q604_painting_effect",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q604/q604_painting_effect.w2ent"
+  },
+  {
+    "name": "trap_fire_place",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/traps/trap_fire_place.w2ent"
+  },
+  {
+    "name": "trap_book",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/traps/trap_book.w2ent"
+  },
+  {
+    "name": "nml_2h_axe_bandits_ep1_37",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/templates/characters/presets/nml/ep1_bandits/nml_2h_axe_bandits_ep1_37.w2ent"
+  },
+  {
+    "name": "nml_2h_axe_bandits_ep1_35",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/templates/characters/presets/nml/ep1_bandits/nml_2h_axe_bandits_ep1_35.w2ent"
+  },
+  {
+    "name": "nml_1h_mace_bandit_ep1_37",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/templates/characters/presets/nml/ep1_bandits/nml_1h_mace_bandit_ep1_37.w2ent"
+  },
+  {
+    "name": "nml_1h_mace_bandit_ep1_35",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/templates/characters/presets/nml/ep1_bandits/nml_1h_mace_bandit_ep1_35.w2ent"
+  },
+  {
+    "name": "nml_1h_club_bandit_ep1_37",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/templates/characters/presets/nml/ep1_bandits/nml_1h_club_bandit_ep1_37.w2ent"
+  },
+  {
+    "name": "nml_1h_club_bandit_ep1_35",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/templates/characters/presets/nml/ep1_bandits/nml_1h_club_bandit_ep1_35.w2ent"
+  },
+  {
+    "name": "ai_preset_twohandedstaff_wind_mage",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/templates/characters/ai_presets/ai_preset_twohandedstaff_wind_mage.w2ent"
+  },
+  {
+    "name": "book_01",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/items/weapons/projectiles/book_01.w2ent"
+  },
+  {
+    "name": "novi_very_rich_door_a",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/interactive_objects/doors/pushable_doors/novi_very_rich_door_a.w2ent"
+  },
+  {
+    "name": "auction_house_vault_door_r",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/interactive_objects/doors/animated_doors/auction_house_vault_door_r.w2ent"
+  },
+  {
+    "name": "auction_house_vault_door_l",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/interactive_objects/doors/animated_doors/auction_house_vault_door_l.w2ent"
+  },
+  {
+    "name": "drakkar_chest__weaponsmith_area__everywhere",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/container_definitions/autogen/drakkar_chest__weaponsmith_area__everywhere.w2ent"
+  },
+  {
+    "name": "crate_rope__dungeon__everywhere",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/container_definitions/autogen/crate_rope__dungeon__everywhere.w2ent"
+  },
+  {
+    "name": "crate_q603_thief_armor_master",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/container_definitions/autogen/crate_q603_thief_armor_master.w2ent"
+  },
+  {
+    "name": "chest_ep1_viper_steel_sword_schematic",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/container_definitions/autogen/chest_ep1_viper_steel_sword_schematic.w2ent"
+  },
+  {
+    "name": "bundle__q602_crypt_ofir_pants_master",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/container_definitions/autogen/bundle__q602_crypt_ofir_pants_master.w2ent"
+  },
+  {
+    "name": "barrel_closed_metal__q601_beach_ofir_boots_master",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/container_definitions/autogen/barrel_closed_metal__q601_beach_ofir_boots_master.w2ent"
+  },
+  {
+    "name": "barrel_closed_metal__armorsmith_area__skelige",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/container_definitions/autogen/barrel_closed_metal__armorsmith_area__skelige.w2ent"
+  },
+  {
+    "name": "q604_iris_sleep_bedroom",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/community/actionpoints/quest/q604_iris_sleep_bedroom.w2ent"
+  },
+  {
+    "name": "test_trap",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/gameplay/abilities/mage/test_trap.w2ent"
+  },
+  {
+    "name": "q605_waypoint_25m",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q605/waypoint/q605_waypoint_25m.w2ent"
+  },
+  {
+    "name": "q605_waypoint_130m",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q605/waypoint/q605_waypoint_130m.w2ent"
+  },
+  {
+    "name": "q605_hand_cut",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q605/06_olgierd_thanks/q605_hand_cut.w2ent"
+  },
+  {
+    "name": "gryphon_37_strong",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/living_world/enemy_templates/gryphon_37_strong.w2ent"
+  },
+  {
+    "name": "q604_place_object_omni_blue",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_place_object_omni_blue.w2ent"
+  },
+  {
+    "name": "q604_villager_bodies5",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/entites/q604_villager_bodies5.w2ent"
+  },
+  {
+    "name": "q605_invisible_mirror_man",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q605_finale/characters/q605_invisible_mirror_man.w2ent"
+  },
+  {
+    "name": "w3r_wolf_mask",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/w3r_wolf_mask.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_tattoo_beard",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_tattoo_beard.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_shave_03",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_shave_03.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_shave_02",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_shave_02.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_shave_01",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_shave_01.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_robbery_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_robbery_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_robbery",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_robbery.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_short_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_short_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_short",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_short.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_medium_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_medium_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_anchor_mark",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_anchor_mark.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_medium",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_medium.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_long",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_long.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_goatee_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_goatee_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_goatee",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_goatee.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_chops_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_chops_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_chops",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_chops.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_anchor_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_anchor_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_anchor",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_anchor.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt.w2ent"
+  },
+  {
+    "name": "g_01_mg__w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/gloves/scarlet/g_01_mg__w3r_fire.w2ent"
+  },
+  {
+    "name": "g_01a_mg__w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/gloves/scarlet/g_01a_mg__w3r_fire.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_long_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/h_08_mg__geralt_beard_long_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_anchor_mark_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_anchor_mark_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_chops_mark",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_chops_mark.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_chops_mark_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_chops_mark_tattoo.w2ent"
+  },
+  {
+    "name": "q206_dining_table_bench_four",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "quests/part_2/quest_files/q206_berserkers/actionpoints/q206_dining_table_bench_four.w2ent"
+  },
+  {
+    "name": "t_01_hd__tail_w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/tails/t_01_hd__tail_w3r_fire.w2ent"
+  },
+  {
+    "name": "s_01_hd__saddle_w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/saddles/s_01_hd__saddle_w3r_fire.w2ent"
+  },
+  {
+    "name": "h_02_hd__hair_w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/hair/h_02_hd__hair_w3r_fire.w2ent"
+  },
+  {
+    "name": "c_01_hd__champron_w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/champrons/c_01_hd__champron_w3r_fire.w2ent"
+  },
+  {
+    "name": "i_01_hd__bags_w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/bags/i_01_hd__bags_w3r_fire.w2ent"
+  },
+  {
+    "name": "t_01_mg__w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/trunk/scarlet/t_01_mg__w3r_fire.w2ent"
+  },
+  {
+    "name": "t_01a_mg__w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/trunk/scarlet/t_01a_mg__w3r_fire.w2ent"
+  },
+  {
+    "name": "s_01_mg__w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/shoes/scarlet/s_01_mg__w3r_fire.w2ent"
+  },
+  {
+    "name": "l_01_mg__w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/legs/scarlet/l_01_mg__w3r_fire.w2ent"
+  },
+  {
+    "name": "l_01a_mg__w3r_fire",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/legs/scarlet/l_01a_mg__w3r_fire.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_robbery_mark_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_robbery_mark_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_robbery_mark",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_robbery_mark.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_mark_tattoo_beard",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_mark_tattoo_beard.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_mark_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_mark_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_mark_beard",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_mark_beard.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_mark",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_mark.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_short_mark_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_short_mark_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_short_mark",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_short_mark.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_medium_mark_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_medium_mark_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_medium_mark",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_medium_mark.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_long_mark_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_long_mark_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_long_mark",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_long_mark.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_goatee_mark_tattoo",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_goatee_mark_tattoo.w2ent"
+  },
+  {
+    "name": "h_08_mg__geralt_beard_goatee_mark",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/heads/ep1_mark/h_08_mg__geralt_beard_goatee_mark.w2ent"
+  },
+  {
+    "name": "haircut_w3r_troublemaker_01",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/bodyparts/geralt_items/coif/haircut_w3r_troublemaker_01.w2ent"
+  },
+  {
+    "name": "pc_yrden_testentity_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/test_entity/pc_yrden_testentity_w3re.w2ent"
+  },
+  {
+    "name": "pc_yrden_testentity",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/test_entity/pc_yrden_testentity.w2ent"
+  },
+  {
+    "name": "pc_quen_testentity_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/test_entity/pc_quen_testentity_w3re.w2ent"
+  },
+  {
+    "name": "au_cabinet_small",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/furniture/auction_house/au_cabinet_small.w2ent"
+  },
+  {
+    "name": "au_cabinet_big",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/furniture/auction_house/au_cabinet_big.w2ent"
+  },
+  {
+    "name": "decoration_set_rich_table_c_static",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/decorations_sets/rich/tables/decoration_set_rich_table_c_static.w2ent"
+  },
+  {
+    "name": "decoration_set_rich_table_a_static",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/decorations_sets/rich/tables/decoration_set_rich_table_a_static.w2ent"
+  },
+  {
+    "name": "decoration_set_rich_chest_d_static__vault",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/decorations_sets/rich/chest/decoration_set_rich_chest_d_static__vault.w2ent"
+  },
+  {
+    "name": "decoration_set_thatched_medium_h_static",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/decorations_sets/houses/thatched_houses/decoration_set_thatched_medium_h/decoration_set_thatched_medium_h_static.w2ent"
+  },
+  {
+    "name": "ofir_worrior_corpse10",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/ofir_worrior_corpses/ofir_worrior_corpse10.w2ent"
+  },
+  {
+    "name": "ofir_worrior_corpse09",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/ofir_worrior_corpses/ofir_worrior_corpse09.w2ent"
+  },
+  {
+    "name": "ofir_worrior_corpse03",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/ofir_worrior_corpses/ofir_worrior_corpse03.w2ent"
+  },
+  {
+    "name": "auction_house_guards_corpse_02",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/auction_house_guards_corpse/auction_house_guards_corpse_02.w2ent"
+  },
+  {
+    "name": "auction_house_guards_corpse_01",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/auction_house_guards_corpse/auction_house_guards_corpse_01.w2ent"
+  },
+  {
+    "name": "q605_mirror_glass_px",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/q605_mirror_frame/q605_mirror_glass_px.w2ent"
+  },
+  {
+    "name": "605_fountain_blocker",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/605_fountain_blocker.w2ent"
+  },
+  {
+    "name": "asd",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/asd.w2ent"
+  },
+  {
+    "name": "nml_thatched_house_small_exterior_closed_painted",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/nomans_land/thatched_buildings/entities/nml_thatched_house_small_exterior_closed_painted.w2ent"
+  },
+  {
+    "name": "nml_thatched_house_medium_exterior_closed_painted",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/nomans_land/thatched_buildings/entities/nml_thatched_house_medium_exterior_closed_painted.w2ent"
+  },
+  {
+    "name": "nml_thatched_house_small_exterior_closed_painted",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/nomans_land/thatched_buildings/nml_thatched_house_small_exterior_closed_painted.w2ent"
+  },
+  {
+    "name": "fake_door_nov_rich_door_b",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/auction_house/fake_door_nov_rich_door_b.w2ent"
+  },
+  {
+    "name": "nov_very_rich_shani_interior_burned",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/novigrad/very_rich/nov_very_rich_shani_interior_burned.w2ent"
+  },
+  {
+    "name": "nov_very_rich_shani_exterior_burned",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/novigrad/very_rich/nov_very_rich_shani_exterior_burned.w2ent"
+  },
+  {
+    "name": "tent_round_cas_dynamic",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/common/tents/tent_round_cas_dynamic.w2ent"
+  },
+  {
+    "name": "mansion_staircase",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/mansion_staircase.w2ent"
+  },
+  {
+    "name": "th1010_secret_entrance",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/th1010_ofir_th/entities/th1010_secret_entrance.w2ent"
+  },
+  {
+    "name": "q605_shani_illusion",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q605_finale/characters/q605_shani_illusion.w2ent"
+  },
+  {
+    "name": "q605_shadow_harpy",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q605_finale/characters/q605_shadow_harpy.w2ent"
+  },
+  {
+    "name": "au_cabinet_small_1",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/furniture/auction_house/au_cabinet_small_1.w2ent"
+  },
+  {
+    "name": "player_horse",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/animals/horse/player_horse.w2ent"
+  },
+  {
+    "name": "candlestick_small_noshadow",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/light_sources/candlestick_small_noshadow.w2ent"
+  },
+  {
+    "name": "candle_holder_wall_complex",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/light_sources/candle_holder_wall_complex.w2ent"
+  },
+  {
+    "name": "pc_quen_testentity",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/test_entity/pc_quen_testentity.w2ent"
+  },
+  {
+    "name": "pc_igni_testentity_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/test_entity/pc_igni_testentity_w3re.w2ent"
+  },
+  {
+    "name": "pc_igni_testentity",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/test_entity/pc_igni_testentity.w2ent"
+  },
+  {
+    "name": "pc_aard_testentity_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/test_entity/pc_aard_testentity_w3re.w2ent"
+  },
+  {
+    "name": "pc_aard_testentity",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/test_entity/pc_aard_testentity.w2ent"
+  },
+  {
+    "name": "fogling_testentity_for_old_axii",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/test_entity/fogling_testentity_for_old_axii.w2ent"
+  },
+  {
+    "name": "pc_yrden_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/pc_yrden_w3re.w2ent"
+  },
+  {
+    "name": "pc_yrden_streak_short_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/pc_yrden_streak_short_w3re.w2ent"
+  },
+  {
+    "name": "pc_yrden_streak_long_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/pc_yrden_streak_long_w3re.w2ent"
+  },
+  {
+    "name": "pc_yrden_streak_center_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/pc_yrden_streak_center_w3re.w2ent"
+  },
+  {
+    "name": "pc_quen_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/pc_quen_w3re.w2ent"
+  },
+  {
+    "name": "pc_igni_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/pc_igni_w3re.w2ent"
+  },
+  {
+    "name": "pc_axii_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/pc_axii_w3re.w2ent"
+  },
+  {
+    "name": "pc_aard_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/signs/pc_aard_w3re.w2ent"
+  },
+  {
+    "name": "nov_bow",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/characters/presets/novigrad/nov_bow.w2ent"
+  },
+  {
+    "name": "nov_2h_sword_t1",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "gameplay/templates/characters/presets/novigrad/nov_2h_sword_t1.w2ent"
+  },
+  {
+    "name": "cont_corpse_nml_villager08",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "gameplay/containers/_container_definitions/_mesh_entities/cont_corpse_nml_villager08.w2ent"
+  },
+  {
+    "name": "witch_pot_px",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/decorations/votive/witches/witch_pot_px.w2ent"
+  },
+  {
+    "name": "novigrad_guard_corpse_04",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "environment/decorations/corpses/human_corpses/novigrad_guard/model/novigrad_guard_corpse_04.w2ent"
+  },
+  {
+    "name": "player_w3re",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/entities/player_w3re.w2ent"
+  },
+  {
+    "name": "pacifist_drowner_reference_level",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/entities/pacifist_drowner_reference_level.w2ent"
+  },
+  {
+    "name": "cave_water_puddle_mud",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/water/cave_water_puddle_mud.w2ent"
+  },
+  {
+    "name": "decoration_set_rock_cluster",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/terrain_surroundings/decoration_sets/decoration_set_rock_cluster.w2ent"
+  },
+  {
+    "name": "hanging_lamp_holder_complex_q605_hell_standing",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/light_sources/hanging_lamp_holder_complex_q605_hell_standing.w2ent"
+  },
+  {
+    "name": "hanging_lamp_holder_complex_q605_hell",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/light_sources/hanging_lamp_holder_complex_q605_hell.w2ent"
+  },
+  {
+    "name": "candle_holder_wall",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/light_sources/candle_holder_wall.w2ent"
+  },
+  {
+    "name": "demonic_horse",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/npc_entities/animals/horse/demonic_horse.w2ent"
+  },
+  {
+    "name": "mq6001_wagon_driver",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/mq6001_ofir_merchant/characters/mq6001_wagon_driver.w2ent"
+  },
+  {
+    "name": "dudu_geralt",
+    "category": "Entities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "quests/secondary_npcs/dudu_geralt.w2ent"
+  },
+  {
+    "name": "evelyne_gallo_body_arms",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/eveline_gallo/evelyne_gallo_body_arms.w2ent"
+  },
+  {
+    "name": "i_03_ma__horst_borsody",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/horst_borsody/i_03_ma__horst_borsody.w2ent"
+  },
+  {
+    "name": "h_01_ma__memory_villager_npc_ghost",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/h_01_ma__memory_villager_npc_ghost.w2ent"
+  },
+  {
+    "name": "t2_01_ma__memory_villager_ghost",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/t2_01_ma__memory_villager_ghost.w2ent"
+  },
+  {
+    "name": "sq107_villager_tracks_no_interaction",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_villager_tracks_no_interaction.w2ent"
+  },
+  {
+    "name": "sq107_vault_wall",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_vault_wall.w2ent"
+  },
+  {
+    "name": "sq107_treasure",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_treasure.w2ent"
+  },
+  {
+    "name": "sq107_temp_rock",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_temp_rock.w2ent"
+  },
+  {
+    "name": "sq107_real_fake_pig",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_real_fake_pig.w2ent"
+  },
+  {
+    "name": "sq107_notice_board",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_notice_board.w2ent"
+  },
+  {
+    "name": "sq107_hanged_fool",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_hanged_fool.w2ent"
+  },
+  {
+    "name": "sq107_gold_sack",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_gold_sack.w2ent"
+  },
+  {
+    "name": "sq107_fake_pig",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_fake_pig.w2ent"
+  },
+  {
+    "name": "i_04_da__casimir_bassi",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/casimir_bassi/i_04_da__casimir_bassi.w2ent"
+  },
+  {
+    "name": "sq107_drag_tracks_no_interaction",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_drag_tracks_no_interaction.w2ent"
+  },
+  {
+    "name": "sq107_campfire",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_campfire.w2ent"
+  },
+  {
+    "name": "sq107_button",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_button.w2ent"
+  },
+  {
+    "name": "sq107_uncursed_villager_beater",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/characters/sq107_uncursed_villager_beater.w2ent"
+  },
+  {
+    "name": "i_01_ma__ofir_merchant",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/ofir_merchant/i_01_ma__ofir_merchant.w2ent"
+  },
+  {
+    "name": "t2_01_ma__ofir_merchant",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/ofir_merchant/t2_01_ma__ofir_merchant.w2ent"
+  },
+  {
+    "name": "sq107_bandit_lvl2_mortal",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/characters/sq107_bandit_lvl2_mortal.w2ent"
+  },
+  {
+    "name": "sq107_bandit_lvl1_axe",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/characters/sq107_bandit_lvl1_axe.w2ent"
+  },
+  {
+    "name": "triss_dlc",
+    "category": "Entities",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/npc_entities/main_npc/triss_dlc.w2ent"
+  },
+  {
+    "name": "body_01_wa__triss_dlc",
+    "category": "Entities",
+    "origin": "dlc6",
+    "tags": [],
+    "path": "dlc/dlc6/data/characters/models/main_npc/triss/body_01_wa__triss_dlc.w2ent"
+  },
+  {
+    "name": "yennefer_dlc",
+    "category": "Entities",
+    "origin": "dlc4",
+    "tags": [],
+    "path": "dlc/dlc4/data/characters/npc_entities/main_npc/yennefer_dlc.w2ent"
+  },
+  {
+    "name": "q604_memory_villager_ghost_04",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/q604_memory_villager_ghost_04.w2ent"
+  },
+  {
+    "name": "q604_memory_villager_ghost_04_head",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/q604_memory_villager_ghost_04_head.w2ent"
+  },
+  {
+    "name": "q604_memory_villager_ghost_12",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/q604_memory_villager_ghost_12.w2ent"
+  },
+  {
+    "name": "sq107_crystal_marker",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_crystal_marker.w2ent"
+  },
+  {
+    "name": "q604_memory_villager_ghost_12_head",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/q604_memory_villager_ghost_12_head.w2ent"
+  },
+  {
+    "name": "sq107_loot",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/gameplay/containers/inventories/unique/sq107_loot.w2ent"
+  },
+  {
+    "name": "t_01__toad_morph",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/toad/t_01__toad_morph.w2ent"
+  },
+  {
+    "name": "ghost_effects",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/base_entities/ghost_base/ghost_effects.w2ent"
+  },
+  {
+    "name": "menu_ep1_traj",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/animations/cutscenes/additional/menu_ep1/menu_ep1_traj.w2ent"
+  },
+  {
+    "name": "h_03_ma__dlc",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_03_ma__dlc.w2ent"
+  },
+  {
+    "name": "h_05_ma__dlc",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_05_ma__dlc.w2ent"
+  },
+  {
+    "name": "h_09_ma__dlc",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_09_ma__dlc.w2ent"
+  },
+  {
+    "name": "h_11_ma__dlc",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_11_ma__dlc.w2ent"
+  },
+  {
+    "name": "c2_sword_through_chest_trajectory",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/animations/cutscenes/additional/marketing/hos_trailer/c2_sword_through_chest/c2_sword_through_chest_trajectory.w2ent"
+  },
+  {
+    "name": "oxenfurt_doctor",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/community/community_npcs/oxenfurt_doctor.w2ent"
+  },
+  {
+    "name": "novigrad_artist_woman",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/community/community_npcs/novigrad_artist_woman.w2ent"
+  },
+  {
+    "name": "novigrad_artist",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/community/community_npcs/novigrad_artist.w2ent"
+  },
+  {
+    "name": "h_01_mb__dlc",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_big/heads/h_01_mb__dlc.w2ent"
+  },
+  {
+    "name": "c_01_wa__hair_olgierd_02",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/woman_average/hair/c_01_wa__hair_olgierd_02.w2ent"
+  },
+  {
+    "name": "c_01_wa__hair_olgierd_03",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/woman_average/hair/c_01_wa__hair_olgierd_03.w2ent"
+  },
+  {
+    "name": "sq107_loot",
+    "category": "Entities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/gameplay/containers/new_locations/gameplay/unique/sq107_loot.w2ent"
+  },
+  {
+    "name": "h_01_wa__dlc",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/woman_average/heads/h_01_wa__dlc.w2ent"
+  },
+  {
+    "name": "c_01_mb__flaming_rose_guard",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/flaming_rose_guard/caps/c_01_mb__flaming_rose_guard.w2ent"
+  },
+  {
+    "name": "memory_villager_background_01",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/memory_villager/memory_villager_background_01.w2ent"
+  },
+  {
+    "name": "memory_villager_background_02",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/memory_villager/memory_villager_background_02.w2ent"
+  },
+  {
+    "name": "memory_villager_background_03",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/memory_villager/memory_villager_background_03.w2ent"
+  },
+  {
+    "name": "memory_villager_background_04",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/memory_villager/memory_villager_background_04.w2ent"
+  },
+  {
+    "name": "memory_villager_background_05",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/memory_villager/memory_villager_background_05.w2ent"
+  },
+  {
+    "name": "body_05_wa__iris",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/main_npc/iris/body_05_wa__iris.w2ent"
+  },
+  {
+    "name": "h_03_wa__iris",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/main_npc/iris/h_03_wa__iris.w2ent"
+  },
+  {
+    "name": "t_02__alghoul_ghost",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_alghoul/t_02__alghoul_ghost.w2ent"
+  },
+  {
+    "name": "h_02_ma__ethernal_ghost",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/h_02_ma__ethernal_ghost.w2ent"
+  },
+  {
+    "name": "t_01__ethernal_ghost",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/t_01__ethernal_ghost.w2ent"
+  },
+  {
+    "name": "ghost_effects_woman",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/base_entities/ghost_base/ghost_effects_woman.w2ent"
+  },
+  {
+    "name": "t_01__toad",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/toad/t_01__toad.w2ent"
+  },
+  {
+    "name": "h_02_wa__dlc",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/woman_average/heads/h_02_wa__dlc.w2ent"
+  },
+  {
+    "name": "q604_memory_villager_ghost_16",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/q604_memory_villager_ghost_16.w2ent"
+  },
+  {
+    "name": "b_01_hd__demonic_no_harness",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/animals/demonic_horse/b_01_hd__demonic_no_harness.w2ent"
+  },
+  {
+    "name": "mh201_troll_tracks",
+    "category": "Entities",
+    "origin": "dlc3",
+    "tags": [],
+    "path": "dlc/dlc3/data/entities/mh201_troll_tracks.w2ent"
+  },
+  {
+    "name": "mq2052_meat",
+    "category": "Entities",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/quest/quest_files/entities/mq2052_meat.w2ent"
+  },
+  {
+    "name": "corpse_07_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_07_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "corpse_06_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_06_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "mq1058_clue_witcher_blood",
+    "category": "Entities",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/quests/quest_files/entities/mq1058_clue_witcher_blood.w2ent"
+  },
+  {
+    "name": "c_05_mb__nilfgaard_knight_for_appear_dlc",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/models/crowd_npc/nilfgaard_squire/c_05_mb__nilfgaard_knight_for_appear_dlc.w2ent"
+  },
+  {
+    "name": "corpse_05_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_05_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "corpse_04_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_04_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "corpse_03_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_03_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "corpse_02_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_02_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "corpse_01_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_01_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "corpse_04_nilfgaard_knight_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_knight_netflix/corpse_04_nilfgaard_knight_netflix.w2ent"
+  },
+  {
+    "name": "corpse_03_nilfgaard_knight_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_knight_netflix/corpse_03_nilfgaard_knight_netflix.w2ent"
+  },
+  {
+    "name": "mq1058_bush",
+    "category": "Entities",
+    "origin": "dlc15",
+    "tags": [],
+    "path": "dlc/dlc15/data/quests/quest_files/entities/mq1058_bush.w2ent"
+  },
+  {
+    "name": "corpse_02_nilfgaard_knight_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_knight_netflix/corpse_02_nilfgaard_knight_netflix.w2ent"
+  },
+  {
+    "name": "c_01_ma__dandelion_dlc",
+    "category": "Entities",
+    "origin": "dlc17",
+    "tags": [],
+    "path": "dlc/dlc17/data/characters/models/main_npc/dandelion/c_01_ma__dandelion_dlc.w2ent"
+  },
+  {
+    "name": "corpse_01_nilfgaard_knight_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_knight_netflix/corpse_01_nilfgaard_knight_netflix.w2ent"
+  },
+  {
+    "name": "nilfgaard_squire_lvl2",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/npc_entities/crowd_npc/nilfgaard_soldier/nilfgaard_squire_lvl2.w2ent"
+  },
+  {
+    "name": "q604_memory_villager_ghost_16_head",
+    "category": "Entities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/q604_memory_villager_ghost_16_head.w2ent"
+  },
+  {
+    "name": "c_02_ma__dandelion_hair_dlc",
+    "category": "Entities",
+    "origin": "dlc17",
+    "tags": [],
+    "path": "dlc/dlc17/data/characters/models/main_npc/dandelion/c_02_ma__dandelion_hair_dlc.w2ent"
+  },
+  {
+    "name": "nilfgaard_ranged",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/npc_entities/crowd_npc/nilfgaard_soldier/nilfgaard_ranged.w2ent"
+  },
+  {
+    "name": "nilfgaard_knight_lvl3",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/npc_entities/crowd_npc/nilfgaard_soldier/nilfgaard_knight_lvl3.w2ent"
+  },
+  {
+    "name": "martin_soldier_lvl2",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/npc_entities/crowd_npc/nilfgaard_soldier/martin_soldier_lvl2.w2ent"
+  },
+  {
+    "name": "dandelion",
+    "category": "Entities",
+    "origin": "dlc17",
+    "tags": [],
+    "path": "dlc/dlc17/data/characters/npc_entities/main_npc/dandelion.w2ent"
+  },
+  {
+    "name": "nilfgaard_knight_background_man_01_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/models/background_npc/nilfgaard_knight/nilfgaard_knight_background_man_01_netflix.w2ent"
+  },
+  {
+    "name": "nilfgaard_knight_background_man_02_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/models/background_npc/nilfgaard_knight/nilfgaard_knight_background_man_02_netflix.w2ent"
+  },
+  {
+    "name": "mq2052_bear_marks",
+    "category": "Entities",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/quest/quest_files/entities/mq2052_bear_marks.w2ent"
+  },
+  {
+    "name": "corpse_08_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_08_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "nilfgaard_squire_netflix_nohat_sq108",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/characters/models/crowd_npc/nilfgaard_squire/nilfgaard_squire_netflix_nohat_sq108.w2ent"
+  },
+  {
+    "name": "corpse_09_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_09_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "mh201_decal_01",
+    "category": "Entities",
+    "origin": "dlc3",
+    "tags": [],
+    "path": "dlc/dlc3/data/entities/mh201_decal_01.w2ent"
+  },
+  {
+    "name": "mh201_clue_dead_miner_b",
+    "category": "Entities",
+    "origin": "dlc3",
+    "tags": [],
+    "path": "dlc/dlc3/data/entities/mh201_clue_dead_miner_b.w2ent"
+  },
+  {
+    "name": "mh201_clue_dead_miner",
+    "category": "Entities",
+    "origin": "dlc3",
+    "tags": [],
+    "path": "dlc/dlc3/data/entities/mh201_clue_dead_miner.w2ent"
+  },
+  {
+    "name": "nilfgaardian_sword_lvl2__netflix_npc_app",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/swords/nilfgaardian_sword_lvl2__netflix_npc_app.w2ent"
+  },
+  {
+    "name": "sq108_item__armor_02_for_app_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/quest_items/sq108/sq108_item__armor/sq108_item__armor_02_for_app_netflix.w2ent"
+  },
+  {
+    "name": "mq1055_item__nilfgaardian_deserter_netflix_app",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/quest_items/mq1055/mq1055_item__nilfgaardian_deserter_netflix_app.w2ent"
+  },
+  {
+    "name": "cs_man_background_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/cutscenes/cs_man_background_base/cs_man_background_netflix.w2ent"
+  },
+  {
+    "name": "t_01_mg__common_heavy_lvl3_netflix_armor_stand",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/trunk/common_heavy/armor_stand/t_01_mg__common_heavy_lvl3_netflix_armor_stand.w2ent"
+  },
+  {
+    "name": "t_01a_mg__common_heavy_lvl3_netflix_armor_stand",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/trunk/common_heavy/armor_stand/t_01a_mg__common_heavy_lvl3_netflix_armor_stand.w2ent"
+  },
+  {
+    "name": "t_01_mg__common_heavy_lvl3_netflix_app",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/trunk/common_heavy/t_01_mg__common_heavy_lvl3_netflix_app.w2ent"
+  },
+  {
+    "name": "t_01a_mg__common_heavy_lvl3_netflix_app",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/trunk/common_heavy/t_01a_mg__common_heavy_lvl3_netflix_app.w2ent"
+  },
+  {
+    "name": "mask_01_mg__common_heavy_lvl3_netflix_app",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/trunk/common_heavy/mask_01_mg__common_heavy_lvl3_netflix_app.w2ent"
+  },
+  {
+    "name": "s_01_mg__common_heavy_lvl3_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/shoes/common_heavy/s_01_mg__common_heavy_lvl3_netflix.w2ent"
+  },
+  {
+    "name": "l_01_mg__common_heavy_lvl3_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/legs/common_heavy/l_01_mg__common_heavy_lvl3_netflix.w2ent"
+  },
+  {
+    "name": "c_01_mg__common_heavy_lvl3_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/trunk/common_heavy/c_01_mg__common_heavy_lvl3_netflix.w2ent"
+  },
+  {
+    "name": "nilfgaardian_soldier_sword",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/gameplay/commutity/community_npcs/nml/regular/nilfgaardian_soldier_sword.w2ent"
+  },
+  {
+    "name": "g_01_mg__common_heavy_lvl3_netflix_app",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/gloves/common_heavy/g_01_mg__common_heavy_lvl3_netflix_app.w2ent"
+  },
+  {
+    "name": "corpse_10_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_10_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "corpse_11_nilfgaard_netflix_soldier",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/environment/decoration/corpses/human_corpses/nilfgaard_soldiers_netflix/corpse_11_nilfgaard_netflix_soldier.w2ent"
+  },
+  {
+    "name": "mq2052_bear_lure",
+    "category": "Entities",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/quest/quest_files/entities/mq2052_bear_lure.w2ent"
+  },
+  {
+    "name": "g_01a_mg__common_heavy_lvl3_netflix_app",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/gloves/common_heavy/g_01a_mg__common_heavy_lvl3_netflix_app.w2ent"
+  },
+  {
+    "name": "nilfgaardian_soldier_ranged_bow",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/gameplay/commutity/community_npcs/nml/regular/nilfgaardian_soldier_ranged_bow.w2ent"
+  },
+  {
+    "name": "l_01a_mg__common_heavy_lvl3_netflix",
+    "category": "Entities",
+    "origin": "dlc20",
+    "tags": [],
+    "path": "dlc/dlc20/data/items/bodyparts/geralt_items/legs/common_heavy/l_01a_mg__common_heavy_lvl3_netflix.w2ent"
   }
 ]

@@ -195682,5 +195682,2259 @@
     "origin": "dlc7",
     "tags": [],
     "path": "dlc/dlc7/data/entities/bear_black_corps_fur_copy.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_storage_chimney_old_interior_ref",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/rendering/env_probe_update_test/meshes/broken_kaertro_house_storage_chimney_old_interior_ref.w2mesh"
+  },
+  {
+    "name": "large_platform",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/rendering/distant_test/large_platform.w2mesh"
+  },
+  {
+    "name": "sphere",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/materials/sphere.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_med_old_interior_volume_umbra4",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_med_old_interior_volume_umbra4.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_med_old_umbra4",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_med_old_umbra4.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_med_side_old_interior_umbra2",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_med_side_old_interior_umbra2.w2mesh"
+  },
+  {
+    "name": "box",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/postprocess/assets/box.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_med_side_old_interior_volume_umbra2",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_med_side_old_interior_volume_umbra2.w2mesh"
+  },
+  {
+    "name": "frame",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/apex/resources/frame.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_med_side_old_umbra2",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_med_side_old_umbra2.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_storage_chimney_old_interior_umbra",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_storage_chimney_old_interior_umbra.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_storage_chimney_old_interior_umbra_volume",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_storage_chimney_old_interior_umbra_volume.w2mesh"
+  },
+  {
+    "name": "c_01_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/champrons/model/c_01_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_storage_chimney_old_umbra",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_storage_chimney_old_umbra.w2mesh"
+  },
+  {
+    "name": "pole",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/apex/resources/pole.w2mesh"
+  },
+  {
+    "name": "env_probe_house_int_vol",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/rendering/env_probe_update_test/meshes/env_probe_house_int_vol.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_tall_old_interior_umbra3",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_tall_old_interior_umbra3.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_tall_old_interior_volume_umbra3",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_tall_old_interior_volume_umbra3.w2mesh"
+  },
+  {
+    "name": "furrysphere",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/apex/resources/furrysphere.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_tall_old_umbra3",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_tall_old_umbra3.w2mesh"
+  },
+  {
+    "name": "bloom",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/bloom.w2mesh"
+  },
+  {
+    "name": "ref_engine_test_level_slot_big",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/level_blockout/ref_engine_test_level_slot_big.w2mesh"
+  },
+  {
+    "name": "ref_engine_test_level_slot_small",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/level_blockout/ref_engine_test_level_slot_small.w2mesh"
+  },
+  {
+    "name": "moon",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/environment/skyboxes/moon.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_big_porch_old_umbra5",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_big_porch_old_umbra5.w2mesh"
+  },
+  {
+    "name": "hanging_lamp",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/light_sources/hanging_lamp.w2mesh"
+  },
+  {
+    "name": "t_01_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/tails/model/t_01_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "skellige_totem_gold",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/vault_decorations/skellige_totem_gold.w2mesh"
+  },
+  {
+    "name": "s_01_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/saddles/model/s_01_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "dyng_s_02_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/saddles/model/dyng_s_02_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "stables_divider_short_wide_a_painted",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/wedding/stables_divider_short_wide_a_painted.w2mesh"
+  },
+  {
+    "name": "r_03_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/reins/model/r_03_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "602_forest_river_copy",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/terrain_surroundings/water/602_forest_river_copy.w2mesh"
+  },
+  {
+    "name": "ep1_valley_river_blockout",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/terrain_surroundings/water/ep1_valley_river_blockout.w2mesh"
+  },
+  {
+    "name": "lake",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/terrain_surroundings/water/lake.w2mesh"
+  },
+  {
+    "name": "waterfall_2_two_sided",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/terrain_surroundings/water/waterfall_2_two_sided.w2mesh"
+  },
+  {
+    "name": "r_02_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/reins/model/r_02_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "cave_water_puddle_mud",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/water/cave_water_puddle_mud.w2mesh"
+  },
+  {
+    "name": "volume",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/meshes/editor/volume.w2mesh"
+  },
+  {
+    "name": "h_02_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/hair/model/h_02_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "boat",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/boat.w2mesh"
+  },
+  {
+    "name": "skybox_2",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/environment/skyboxes/skybox_2.w2mesh"
+  },
+  {
+    "name": "sun",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/environment/skyboxes/sun.w2mesh"
+  },
+  {
+    "name": "c_01_wa__bruxa",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/bruxa/h_01__bruxa/c_01_wa__bruxa.w2mesh"
+  },
+  {
+    "name": "he_01__bruxa_morph",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/bruxa/h_01__bruxa/he_01__bruxa_morph.w2mesh"
+  },
+  {
+    "name": "he_02__bruxa_morph",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/bruxa/h_01__bruxa/he_02__bruxa_morph.w2mesh"
+  },
+  {
+    "name": "h_01__bruxa_morph",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/bruxa/h_01__bruxa/h_01__bruxa_morph.w2mesh"
+  },
+  {
+    "name": "h_02__bruxa_morph",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/bruxa/h_01__bruxa/h_02__bruxa_morph.w2mesh"
+  },
+  {
+    "name": "i_01__bruxa",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/bruxa/model/i_01__bruxa.w2mesh"
+  },
+  {
+    "name": "i_02__bruxa",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/bruxa/model/i_02__bruxa.w2mesh"
+  },
+  {
+    "name": "t_01_bruxa_morph",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/bruxa/model/t_01_bruxa_morph.w2mesh"
+  },
+  {
+    "name": "t_02_bruxa_morph",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/bruxa/model/t_02_bruxa_morph.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_big_porch_old_interior_umbra5",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_big_porch_old_interior_umbra5.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_big_porch_old_interior_volume_umbra5",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_big_porch_old_interior_volume_umbra5.w2mesh"
+  },
+  {
+    "name": "broken_kaertro_house_med_old_interior_umbra4",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/additional_dependencies/umbra/broken_kaertro_house_med_old_interior_umbra4.w2mesh"
+  },
+  {
+    "name": "cloth",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/cloth.w2mesh"
+  },
+  {
+    "name": "pbr",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/pbr.w2mesh"
+  },
+  {
+    "name": "colorbalance",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/colorbalance.w2mesh"
+  },
+  {
+    "name": "pbr_eye2",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/temporary/pbr/pbr_eye2.w2mesh"
+  },
+  {
+    "name": "sphere_pbr_hair",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/temporary/pbr/sphere_pbr_hair.w2mesh"
+  },
+  {
+    "name": "sphere_pbr_skin",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/temporary/pbr/sphere_pbr_skin.w2mesh"
+  },
+  {
+    "name": "sphere_pbr_transparent",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/temporary/pbr/sphere_pbr_transparent.w2mesh"
+  },
+  {
+    "name": "water_platform",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/water_test/meshes/water_platform.w2mesh"
+  },
+  {
+    "name": "hanging_platform",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/weather_test/clouds_shadow/hanging_platform.w2mesh"
+  },
+  {
+    "name": "shack_w_coll",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/weather_test/interior_volume/meshes/shack_w_coll.w2mesh"
+  },
+  {
+    "name": "volume",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/weather_test/interior_volume/meshes/volume.w2mesh"
+  },
+  {
+    "name": "blizzard",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/weather_test/weather_blending/meshes/blizzard.w2mesh"
+  },
+  {
+    "name": "clear",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/weather_test/weather_blending/meshes/clear.w2mesh"
+  },
+  {
+    "name": "cloud_mid_fog",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/weather_test/weather_blending/meshes/cloud_mid_fog.w2mesh"
+  },
+  {
+    "name": "rain_storm",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/weather_test/weather_blending/meshes/rain_storm.w2mesh"
+  },
+  {
+    "name": "novigrad_guard_corpse_04",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "environment/decorations/corpses/human_corpses/novigrad_guard/model/novigrad_guard_corpse_04.w2mesh"
+  },
+  {
+    "name": "fake_mutant_tree",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "environment/vegetation/fake_tree/fake_mutant_tree.w2mesh"
+  },
+  {
+    "name": "cone_nocap",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/mesh_particle/basic_meshes/cone_nocap.w2mesh"
+  },
+  {
+    "name": "cylinder_nocap",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/mesh_particle/basic_meshes/cylinder_nocap.w2mesh"
+  },
+  {
+    "name": "funnel",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/mesh_particle/basic_meshes/funnel.w2mesh"
+  },
+  {
+    "name": "shield",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/mesh_particle/basic_meshes/shield.w2mesh"
+  },
+  {
+    "name": "sphere_double_sided_hp",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/mesh_particle/basic_meshes/sphere_double_sided_hp.w2mesh"
+  },
+  {
+    "name": "triangle",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/mesh_particle/basic_meshes/triangle.w2mesh"
+  },
+  {
+    "name": "quen_sphere1_w3re",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/quen/ver1/quen_sphere1_w3re.w2mesh"
+  },
+  {
+    "name": "quen_sphere2_w3re",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/quen/ver1/quen_sphere2_w3re.w2mesh"
+  },
+  {
+    "name": "quen_sphere3_w3re",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/quen/ver1/quen_sphere3_w3re.w2mesh"
+  },
+  {
+    "name": "lever",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "gameplay/switch_mechanism/templates/interaction_switches/lever.w2mesh"
+  },
+  {
+    "name": "sq107_tunnel_hole",
+    "category": "Meshes",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_tunnel_hole.w2mesh"
+  },
+  {
+    "name": "sq107_rock_cliff_f",
+    "category": "Meshes",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_rock_cliff_f.w2mesh"
+  },
+  {
+    "name": "sq107_elven_wall_short",
+    "category": "Meshes",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/entities/sq107_elven_wall_short.w2mesh"
+  },
+  {
+    "name": "wetness",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/wetness.w2mesh"
+  },
+  {
+    "name": "weather_blend",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/weather_blend.w2mesh"
+  },
+  {
+    "name": "water_distortion",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/water_distortion.w2mesh"
+  },
+  {
+    "name": "waterflow",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/waterflow.w2mesh"
+  },
+  {
+    "name": "destruction",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/destruction.w2mesh"
+  },
+  {
+    "name": "dismember",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/dismember.w2mesh"
+  },
+  {
+    "name": "distant_lights",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/distant_lights.w2mesh"
+  },
+  {
+    "name": "drawing_distance",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/drawing_distance.w2mesh"
+  },
+  {
+    "name": "dynamicdecals",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/dynamicdecals.w2mesh"
+  },
+  {
+    "name": "effects_water_spawner",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/effects_water_spawner.w2mesh"
+  },
+  {
+    "name": "i_02_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/bags/model/i_02_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "env_probe_update",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/env_probe_update.w2mesh"
+  },
+  {
+    "name": "focus_clues",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/focus_clues.w2mesh"
+  },
+  {
+    "name": "fur",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/fur.w2mesh"
+  },
+  {
+    "name": "fxaa",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/fxaa.w2mesh"
+  },
+  {
+    "name": "gameplay_dof",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/gameplay_dof.w2mesh"
+  },
+  {
+    "name": "global_fog",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/global_fog.w2mesh"
+  },
+  {
+    "name": "clouds_shadows",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/clouds_shadows.w2mesh"
+  },
+  {
+    "name": "grass_bending",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/grass_bending.w2mesh"
+  },
+  {
+    "name": "igni_freezing",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/igni_freezing.w2mesh"
+  },
+  {
+    "name": "interiorvolume",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/interiorvolume.w2mesh"
+  },
+  {
+    "name": "local_lights_shadows",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/local_lights_shadows.w2mesh"
+  },
+  {
+    "name": "off",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/off.w2mesh"
+  },
+  {
+    "name": "on",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/on.w2mesh"
+  },
+  {
+    "name": "ragdoll_dangles",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/ragdoll_dangles.w2mesh"
+  },
+  {
+    "name": "scene",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/scene.w2mesh"
+  },
+  {
+    "name": "ssao",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/ssao.w2mesh"
+  },
+  {
+    "name": "static_decals",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/static_decals.w2mesh"
+  },
+  {
+    "name": "temporalaa",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/temporalaa.w2mesh"
+  },
+  {
+    "name": "umbra",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/umbra.w2mesh"
+  },
+  {
+    "name": "vertex_light",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/vertex_light.w2mesh"
+  },
+  {
+    "name": "vignette",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/tags/meshes/vignette.w2mesh"
+  },
+  {
+    "name": "i_01_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "items/horse_items/bags/model/i_01_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "flowbox",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/level_assets/weather_test/water_flow/flowbox.w2mesh"
+  },
+  {
+    "name": "h_07_ma__6005",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_07_ma__6005/h_07_ma__6005.w2mesh"
+  },
+  {
+    "name": "q604_painting_mansion_sunny",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/furniture/q604_paintings/q604_painting_mansion_sunny.w2mesh"
+  },
+  {
+    "name": "t2_01_ma__dirty_warrior",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/items/cutscenes/cs601_bloody_warrior/model/t2_01_ma__dirty_warrior.w2mesh"
+  },
+  {
+    "name": "n_01_ma__memory_villager_npc_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/n_01_ma__memory_villager_npc_under.w2mesh"
+  },
+  {
+    "name": "s_01_ma__memory_villager_npc_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/s_01_ma__memory_villager_npc_over.w2mesh"
+  },
+  {
+    "name": "s_01_ma__memory_villager_npc_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/s_01_ma__memory_villager_npc_under.w2mesh"
+  },
+  {
+    "name": "t2_01_ma__memory_villager_npc_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/t2_01_ma__memory_villager_npc_over.w2mesh"
+  },
+  {
+    "name": "t2_01_ma__memory_villager_npc_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/t2_01_ma__memory_villager_npc_under.w2mesh"
+  },
+  {
+    "name": "i_01_ma__ofir_merchant",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/ofir_merchant/model/i_01_ma__ofir_merchant.w2mesh"
+  },
+  {
+    "name": "t2_01_ma__ofir_merchant",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/ofir_merchant/model/t2_01_ma__ofir_merchant.w2mesh"
+  },
+  {
+    "name": "he_01_wa__olgierds_aunt",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/olgierds_aunt/h_01_wa__olgierds_aunt/he_01_wa__olgierds_aunt.w2mesh"
+  },
+  {
+    "name": "h_01_wa__olgierds_aunt",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/olgierds_aunt/h_01_wa__olgierds_aunt/h_01_wa__olgierds_aunt.w2mesh"
+  },
+  {
+    "name": "g_01_wa__olgierds_aunt",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/olgierds_grandma/model/g_01_wa__olgierds_aunt.w2mesh"
+  },
+  {
+    "name": "a_03_ma__novigrad_citizen_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/a_03_ma__novigrad_citizen_over.w2mesh"
+  },
+  {
+    "name": "a_03_ma__novigrad_citizen_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/a_03_ma__novigrad_citizen_under.w2mesh"
+  },
+  {
+    "name": "a_05_ma__novigrad_citizen_p03_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/a_05_ma__novigrad_citizen_p03_over.w2mesh"
+  },
+  {
+    "name": "a_05_ma__novigrad_citizen_p03_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/a_05_ma__novigrad_citizen_p03_under.w2mesh"
+  },
+  {
+    "name": "waterfall_strips",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/water/waterfall/waterfall_strips.w2mesh"
+  },
+  {
+    "name": "a_11_ma__novigrad_citizen_p03_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/a_11_ma__novigrad_citizen_p03_over.w2mesh"
+  },
+  {
+    "name": "a_11_ma__novigrad_citizen_p03_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/a_11_ma__novigrad_citizen_p03_under.w2mesh"
+  },
+  {
+    "name": "c_12_ma__hair_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/c_12_ma__hair_over.w2mesh"
+  },
+  {
+    "name": "magic_barrier_mesh",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q604/magic_barrier/magic_barrier_mesh.w2mesh"
+  },
+  {
+    "name": "q604_painting_mansion_sunny_disappear",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q604/disappear_painting/q604_painting_mansion_sunny_disappear.w2mesh"
+  },
+  {
+    "name": "cs601_hair",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/items/cutscenes/cs601_frog_intro_corpse/model/cs601_hair.w2mesh"
+  },
+  {
+    "name": "c_12_ma__hair_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/c_12_ma__hair_under.w2mesh"
+  },
+  {
+    "name": "c_04_mw__druid_cs",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/items/cutscenes/cs604_caretaker_hood/model/c_04_mw__druid_cs.w2mesh"
+  },
+  {
+    "name": "q604_item__lockpicking_set",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/items/quest_items/q604/model/q604_item__lockpicking_set.w2mesh"
+  },
+  {
+    "name": "t_01__toad_morph",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/toad/model/t_01__toad_morph.w2mesh"
+  },
+  {
+    "name": "t_02__toad_vert_sss2",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/toad/model/t_02__toad_vert_sss2.w2mesh"
+  },
+  {
+    "name": "c_01_ma__abner_de_navarette",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/abner_de_navarette/h_01_ma__abner_de_navarette/c_01_ma__abner_de_navarette.w2mesh"
+  },
+  {
+    "name": "t2d_02_mw__nml_villager",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/caretaker/model/t2d_02_mw__nml_villager.w2mesh"
+  },
+  {
+    "name": "i_04_da__casimir_bassi",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/casimir_bassi/model/i_04_da__casimir_bassi.w2mesh"
+  },
+  {
+    "name": "c_01_wa__iriss_mother",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/iris's_mother/h_01_wa__iris's_mother/c_01_wa__iriss_mother.w2mesh"
+  },
+  {
+    "name": "he_01_wa__iris's_mother",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/iris's_mother/h_01_wa__iris's_mother/he_01_wa__iris's_mother.w2mesh"
+  },
+  {
+    "name": "h_01_wa__iris's_mother",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/iris's_mother/h_01_wa__iris's_mother/h_01_wa__iris's_mother.w2mesh"
+  },
+  {
+    "name": "t4_02_wa__iriss_mother",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/iris's_mother/model/t4_02_wa__iriss_mother.w2mesh"
+  },
+  {
+    "name": "h_01_ma__memory_villager_npc_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/h_01_ma__memory_villager/h_01_ma__memory_villager_npc_over.w2mesh"
+  },
+  {
+    "name": "h_01_ma__memory_villager_npc_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/h_01_ma__memory_villager/h_01_ma__memory_villager_npc_under.w2mesh"
+  },
+  {
+    "name": "a_01_ma__memory_villager_npc_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/a_01_ma__memory_villager_npc_over.w2mesh"
+  },
+  {
+    "name": "a_01_ma__memory_villager_npc_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/a_01_ma__memory_villager_npc_under.w2mesh"
+  },
+  {
+    "name": "c_01_ma__memory_villager_npc_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/c_01_ma__memory_villager_npc_over.w2mesh"
+  },
+  {
+    "name": "c_01_ma__memory_villager_npc_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/c_01_ma__memory_villager_npc_under.w2mesh"
+  },
+  {
+    "name": "g_01_ma__memory_villager_npc_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/g_01_ma__memory_villager_npc_over.w2mesh"
+  },
+  {
+    "name": "g_01_ma__memory_villager_npc_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/g_01_ma__memory_villager_npc_under.w2mesh"
+  },
+  {
+    "name": "l2_01_ma__memory_villager_npc_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/l2_01_ma__memory_villager_npc_over.w2mesh"
+  },
+  {
+    "name": "l2_01_ma__memory_villager_npc_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/l2_01_ma__memory_villager_npc_under.w2mesh"
+  },
+  {
+    "name": "n_01_ma__memory_villager_npc_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/memory_villager_npc/model/n_01_ma__memory_villager_npc_over.w2mesh"
+  },
+  {
+    "name": "witcher_steel_viper_v2_sword_lvl4",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/items/weapons/swords/witcher_steel_swords/model/witcher_steel_viper_v2_sword_lvl4.w2mesh"
+  },
+  {
+    "name": "he_01__cat_cs",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/items/quest_items/q604/model/he_01__cat_cs.w2mesh"
+  },
+  {
+    "name": "c_17_ma__hair_bowl_01_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/c_17_ma__hair_bowl_01_over.w2mesh"
+  },
+  {
+    "name": "c_17_ma__hair_bowl_01_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/c_17_ma__hair_bowl_01_under.w2mesh"
+  },
+  {
+    "name": "q601_olgierd_mansion_fire3",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q601/q601_house_on_fire/q601_olgierd_mansion_fire3.w2mesh"
+  },
+  {
+    "name": "auction_house_first_deco",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/architecture/buildings/rich/auction_house/auction_house_first_deco.w2mesh"
+  },
+  {
+    "name": "q605_elven_ruins_floor_a",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/architecture/q605_elven_ruins_floor_a.w2mesh"
+  },
+  {
+    "name": "i_01_ma__novigrad_citizen_cloak_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/i_01_ma__novigrad_citizen_cloak_under.w2mesh"
+  },
+  {
+    "name": "i_02a_ma__novigrad_rowdy_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/i_02a_ma__novigrad_rowdy_over.w2mesh"
+  },
+  {
+    "name": "i_02a_ma__novigrad_rowdy_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/i_02a_ma__novigrad_rowdy_under.w2mesh"
+  },
+  {
+    "name": "i_08_ma__novigrad_citizen_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/i_08_ma__novigrad_citizen_over.w2mesh"
+  },
+  {
+    "name": "i_08_ma__novigrad_citizen_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/i_08_ma__novigrad_citizen_under.w2mesh"
+  },
+  {
+    "name": "l0_01_ma__novigrad_citizen_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/l0_01_ma__novigrad_citizen_over.w2mesh"
+  },
+  {
+    "name": "l0_01_ma__novigrad_citizen_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/l0_01_ma__novigrad_citizen_under.w2mesh"
+  },
+  {
+    "name": "l1s_04_ma__novigrad_citizen_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/l1s_04_ma__novigrad_citizen_over.w2mesh"
+  },
+  {
+    "name": "l1s_04_ma__novigrad_citizen_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/l1s_04_ma__novigrad_citizen_under.w2mesh"
+  },
+  {
+    "name": "s_01_ma__skellige_villager_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/s_01_ma__skellige_villager_over.w2mesh"
+  },
+  {
+    "name": "s_01_ma__skellige_villager_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/s_01_ma__skellige_villager_under.w2mesh"
+  },
+  {
+    "name": "s_03_ma__novigrad_citizen_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/s_03_ma__novigrad_citizen_over.w2mesh"
+  },
+  {
+    "name": "s_03_ma__novigrad_citizen_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/s_03_ma__novigrad_citizen_under.w2mesh"
+  },
+  {
+    "name": "t2_01_ma__novigrad_citizen_p03_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/t2_01_ma__novigrad_citizen_p03_over.w2mesh"
+  },
+  {
+    "name": "t2_01_ma__novigrad_citizen_p03_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/t2_01_ma__novigrad_citizen_p03_under.w2mesh"
+  },
+  {
+    "name": "shani_temp_hair",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/shani/h_01_wa__shani/shani_temp_hair.w2mesh"
+  },
+  {
+    "name": "he_01_ma__witold",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/witold/h_01_ma__witold/he_01_ma__witold.w2mesh"
+  },
+  {
+    "name": "hb_01_ma__witold_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/witold/h_01_ma__witold/hb_01_ma__witold_under.w2mesh"
+  },
+  {
+    "name": "hb_01_ma__witold_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/witold/h_01_ma__witold/hb_01_ma__witold_over.w2mesh"
+  },
+  {
+    "name": "nov_very_rich_dawn_estate_win_a_see_thru",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/architecture/buildings/rich/auction_house/nov_very_rich_dawn_estate_win_a_see_thru.w2mesh"
+  },
+  {
+    "name": "i_01_ma__novigrad_citizen_cloak_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/i_01_ma__novigrad_citizen_cloak_over.w2mesh"
+  },
+  {
+    "name": "h_18_ma__skellige_villager_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/h_18_ma__skellige_villager_under.w2mesh"
+  },
+  {
+    "name": "vault_fabric_left",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/architecture/buildings/rich/auction_house/vault/vault_fabric_left.w2mesh"
+  },
+  {
+    "name": "q601_olgierd_maison_walls_burned",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q601/q601_house_on_fire/q601_olgierd_maison_walls_burned.w2mesh"
+  },
+  {
+    "name": "q601_sewer_fog_plane",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q601/q601_sewer_fog_plane.w2mesh"
+  },
+  {
+    "name": "q601_toad_spit",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/monsters/toad/q601_toad_spit.w2mesh"
+  },
+  {
+    "name": "c_21_ma__hair_03_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/c_21_ma__hair_03_over.w2mesh"
+  },
+  {
+    "name": "c_21_ma__hair_03_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/c_21_ma__hair_03_under.w2mesh"
+  },
+  {
+    "name": "g_01_ma__body_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/g_01_ma__body_over.w2mesh"
+  },
+  {
+    "name": "g_01_ma__body_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/g_01_ma__body_under.w2mesh"
+  },
+  {
+    "name": "q605_black_hole",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/cs605_merchant_loses/q605_black_hole.w2mesh"
+  },
+  {
+    "name": "h_11_ma__nml_villager_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/h_11_ma__nml_villager_over.w2mesh"
+  },
+  {
+    "name": "trail",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/hakland_mage/sand_trap/trail.w2mesh"
+  },
+  {
+    "name": "t_01__toad",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/toad/model/t_01__toad.w2mesh"
+  },
+  {
+    "name": "sand_quest",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/hakland_mage/sand_qust/sand_quest.w2mesh"
+  },
+  {
+    "name": "cracks_circle_lightshafts",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/caretaker/heavy_attack/cracks_circle_lightshafts.w2mesh"
+  },
+  {
+    "name": "cone_fx01",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/caretaker/heavy_attack/cone_fx01.w2mesh"
+  },
+  {
+    "name": "h_16_ma__novigrad_citizen_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/h_16_ma__novigrad_citizen_over.w2mesh"
+  },
+  {
+    "name": "butterfly_mesh1",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/animals/butterfly/butterfly_mesh1.w2mesh"
+  },
+  {
+    "name": "h_16_ma__novigrad_citizen_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/h_16_ma__novigrad_citizen_under.w2mesh"
+  },
+  {
+    "name": "h_18_ma__skellige_villager_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/h_18_ma__skellige_villager_over.w2mesh"
+  },
+  {
+    "name": "coin",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/blockout_meshes/coin.w2mesh"
+  },
+  {
+    "name": "vault_fabric_top_lesstranslucent",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/architecture/buildings/rich/auction_house/vault/vault_fabric_top_lesstranslucent.w2mesh"
+  },
+  {
+    "name": "vault_fabric_top",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/architecture/buildings/rich/auction_house/vault/vault_fabric_top.w2mesh"
+  },
+  {
+    "name": "vault_fabric_right",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/environment/architecture/buildings/rich/auction_house/vault/vault_fabric_right.w2mesh"
+  },
+  {
+    "name": "h_11_ma__nml_villager_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/q604_memory_villagers_ghost/model/h_11_ma__nml_villager_under.w2mesh"
+  },
+  {
+    "name": "t_01__ethernal_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/t_01__ethernal_under.w2mesh"
+  },
+  {
+    "name": "t_01__ethernal_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/t_01__ethernal_over.w2mesh"
+  },
+  {
+    "name": "i_01__ethernal_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/i_01__ethernal_under.w2mesh"
+  },
+  {
+    "name": "q605_castle_ruins_medium_long",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/q605_ruins/q605_castle_ruins_medium_long.w2mesh"
+  },
+  {
+    "name": "q605_castle_ruins_medium_left",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/q605_ruins/q605_castle_ruins_medium_left.w2mesh"
+  },
+  {
+    "name": "h_11_ma__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_11_ma__dlc/h_11_ma__dlc.w2mesh"
+  },
+  {
+    "name": "q605_simpa_shadow_mesh",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/q605_simpa_shadow_mesh.w2mesh"
+  },
+  {
+    "name": "q605_mirror",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/q605_mirror.w2mesh"
+  },
+  {
+    "name": "gargoyle_destroy_b",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/gargoyle_destroy_b.w2mesh"
+  },
+  {
+    "name": "gargoyle_destroy_a",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/gargoyle_destroy_a.w2mesh"
+  },
+  {
+    "name": "bridge_broken_wood",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/bridge_broken_wood.w2mesh"
+  },
+  {
+    "name": "605_stairs_right_b",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/605_stairs_right_b.w2mesh"
+  },
+  {
+    "name": "605_stairs_left_b",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/605_stairs_left_b.w2mesh"
+  },
+  {
+    "name": "605_hell_chamber_stairs_spiral_r",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/605_hell_chamber_stairs_spiral_r.w2mesh"
+  },
+  {
+    "name": "605_hell_chamber_stairs_spiral_l",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/605_hell_chamber_stairs_spiral_l.w2mesh"
+  },
+  {
+    "name": "605_grate_wall",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/605_grate_wall.w2mesh"
+  },
+  {
+    "name": "605_destruck_wall",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/605_destruck_wall.w2mesh"
+  },
+  {
+    "name": "wood_broken_pillar_d",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/broken_parts/wood_broken_pillar_d.w2mesh"
+  },
+  {
+    "name": "wood_broken_panels_c",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/broken_parts/wood_broken_panels_c.w2mesh"
+  },
+  {
+    "name": "wood_broken_panels_b",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/broken_parts/wood_broken_panels_b.w2mesh"
+  },
+  {
+    "name": "wood_broken_panels_a",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/broken_parts/wood_broken_panels_a.w2mesh"
+  },
+  {
+    "name": "vault_cross_plaster",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/vault_cross_plaster.w2mesh"
+  },
+  {
+    "name": "olgierd_mansion_tunel",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/olgierd_mansion_tunel.w2mesh"
+  },
+  {
+    "name": "olgierd_mansion_interior_walls_blockout",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/olgierd_mansion_interior_walls_blockout.w2mesh"
+  },
+  {
+    "name": "q605_dark_regular_brick_01",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/q605_ruins/q605_dark_regular_brick_01.w2mesh"
+  },
+  {
+    "name": "q605_dark_regular_brick_02",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/q605_ruins/q605_dark_regular_brick_02.w2mesh"
+  },
+  {
+    "name": "q605_dark_regular_brick_03",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605/q605_ruins/q605_dark_regular_brick_03.w2mesh"
+  },
+  {
+    "name": "q605_side_path_lever_room",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605_ending_chaimbers/q605_side_path_lever_room.w2mesh"
+  },
+  {
+    "name": "q604_painting_mansion_summer",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/furniture/q604_paintings/q604_painting_mansion_summer.w2mesh"
+  },
+  {
+    "name": "q604_painting_mansion_dark",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/furniture/q604_paintings/q604_painting_mansion_dark.w2mesh"
+  },
+  {
+    "name": "q604_painting_canvas_cutout",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/furniture/q604_paintings/q604_painting_canvas_cutout.w2mesh"
+  },
+  {
+    "name": "b_01_hd__harness_demonic",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/animals/demonic_horse/model/b_01_hd__harness_demonic.w2mesh"
+  },
+  {
+    "name": "eye",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/animals/demonic_horse/model/eye.w2mesh"
+  },
+  {
+    "name": "he_05_ma__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_05_ma__dlc/he_05_ma__dlc.w2mesh"
+  },
+  {
+    "name": "ofir_worrior_corpse10",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/ofir_worrior_corpses/model/ofir_worrior_corpse10.w2mesh"
+  },
+  {
+    "name": "ofir_worrior_corpse09",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/ofir_worrior_corpses/model/ofir_worrior_corpse09.w2mesh"
+  },
+  {
+    "name": "ofir_worrior_corpse06",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/ofir_worrior_corpses/model/ofir_worrior_corpse06.w2mesh"
+  },
+  {
+    "name": "ofir_worrior_corpse03",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/ofir_worrior_corpses/model/ofir_worrior_corpse03.w2mesh"
+  },
+  {
+    "name": "olgierd_mansion_coll",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/olgierd_mansion_coll.w2mesh"
+  },
+  {
+    "name": "h_05_ma__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_05_ma__dlc/h_05_ma__dlc.w2mesh"
+  },
+  {
+    "name": "h_07_ma__mq6001",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_07_ma__mq6001/h_07_ma__mq6001.w2mesh"
+  },
+  {
+    "name": "bandit_corpses_09",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/bandit_corpses/model/bandit_corpses_09.w2mesh"
+  },
+  {
+    "name": "bandit_corpses_03",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/bandit_corpses/model/bandit_corpses_03.w2mesh"
+  },
+  {
+    "name": "auction_house_guards_corpse_02",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/auction_house_guards_corpse/model/auction_house_guards_corpse_02.w2mesh"
+  },
+  {
+    "name": "auction_house_guards_corpse_01",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/auction_house_guards_corpse/model/auction_house_guards_corpse_01.w2mesh"
+  },
+  {
+    "name": "h_09_ma__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_09_ma__dlc/h_09_ma__dlc.w2mesh"
+  },
+  {
+    "name": "he_11_ma__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_average/heads/h_11_ma__dlc/he_11_ma__dlc.w2mesh"
+  },
+  {
+    "name": "t_02__sheep_corpse",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/decorations/corpses/human_corpses/animal_corpses/model/t_02__sheep_corpse.w2mesh"
+  },
+  {
+    "name": "q605_stairs_circle",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605_ending_chaimbers/q605_stairs_circle.w2mesh"
+  },
+  {
+    "name": "q605_side_path_wall",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/q605_ending_chaimbers/q605_side_path_wall.w2mesh"
+  },
+  {
+    "name": "i_01_wa__shani_kotylion",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/shani/model/i_01_wa__shani_kotylion.w2mesh"
+  },
+  {
+    "name": "b_01_hd__demonic_no_harness",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/animals/demonic_horse/model/b_01_hd__demonic_no_harness.w2mesh"
+  },
+  {
+    "name": "olgierd_mansion_cellar_floor",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/olgierd_mansion_cellar_floor.w2mesh"
+  },
+  {
+    "name": "olgierd_mansion_cellar",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/olgierd_mansion_cellar.w2mesh"
+  },
+  {
+    "name": "h_02_wa__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/woman_average/heads/h_02_wa__dlc/h_02_wa__dlc.w2mesh"
+  },
+  {
+    "name": "c_01_mb__flaming_rose_guard",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/flaming_rose_guard/caps/model/c_01_mb__flaming_rose_guard.w2mesh"
+  },
+  {
+    "name": "d_01_ma__hakland_warrior",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/hakland_warrior/dress/model/d_01_ma__hakland_warrior.w2mesh"
+  },
+  {
+    "name": "d_02_ma__hakland_warrior",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/hakland_warrior/dress/model/d_02_ma__hakland_warrior.w2mesh"
+  },
+  {
+    "name": "memory_villager_background_01",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/memory_villager/model/memory_villager_background_01.w2mesh"
+  },
+  {
+    "name": "memory_villager_background_02",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/crowd_npc/memory_villager/model/memory_villager_background_02.w2mesh"
+  },
+  {
+    "name": "d_03_mg__common_light_lv1",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/geralt/armor/armor_human_common/d_03_mg__common_light_lv1.w2mesh"
+  },
+  {
+    "name": "d_01_mg__ofir_light_lv1",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/geralt/armor/armor_ofir/d_01_mg__ofir_light_lv1.w2mesh"
+  },
+  {
+    "name": "h_03_wa__iris",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/main_npc/iris/h_01_wa__iris/h_03_wa__iris.w2mesh"
+  },
+  {
+    "name": "body_05_wa__iris",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/main_npc/iris/model/body_05_wa__iris.w2mesh"
+  },
+  {
+    "name": "he_01__alghoul_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_alghoul/model/he_01__alghoul_over.w2mesh"
+  },
+  {
+    "name": "he_01__alghoul_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_alghoul/model/he_01__alghoul_under.w2mesh"
+  },
+  {
+    "name": "t_02__alghoul_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_alghoul/model/t_02__alghoul_over.w2mesh"
+  },
+  {
+    "name": "t_02__alghoul_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_alghoul/model/t_02__alghoul_under.w2mesh"
+  },
+  {
+    "name": "b_01__ethernal_ghost_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/b_01__ethernal_ghost_over.w2mesh"
+  },
+  {
+    "name": "b_01__ethernal_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/b_01__ethernal_under.w2mesh"
+  },
+  {
+    "name": "h_01_ma__ethernal_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/h_01_ma__ethernal_over.w2mesh"
+  },
+  {
+    "name": "h_01_ma__ethernal_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/h_01_ma__ethernal_under.w2mesh"
+  },
+  {
+    "name": "h_01__ethernal_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/h_01__ethernal_over.w2mesh"
+  },
+  {
+    "name": "h_01__ethernal_under",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/h_01__ethernal_under.w2mesh"
+  },
+  {
+    "name": "i_01__ethernal_over",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/monsters/ghost_ethernal/model/i_01__ethernal_over.w2mesh"
+  },
+  {
+    "name": "h_01_wa__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/woman_average/heads/h_01_wa__dlc/h_01_wa__dlc.w2mesh"
+  },
+  {
+    "name": "he_01_wa__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/woman_average/heads/h_01_wa__dlc/he_01_wa__dlc.w2mesh"
+  },
+  {
+    "name": "tent_round_guy_ropes",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/common/tents/tent_round_guy_ropes.w2mesh"
+  },
+  {
+    "name": "mq6004_flaming_rose_hideout_roof_frontpiece",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/common/thatched_houses/mq6004_flaming_rose_hideout_roof_frontpiece.w2mesh"
+  },
+  {
+    "name": "collumn_dark_rough",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/collumn_dark_rough.w2mesh"
+  },
+  {
+    "name": "arc_rough_stone",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/arc_rough_stone.w2mesh"
+  },
+  {
+    "name": "wooden_deco_top",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/wooden_deco_top.w2mesh"
+  },
+  {
+    "name": "olgierd_thatched_roof_wood_old",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/olgierd_thatched_roof_wood_old.w2mesh"
+  },
+  {
+    "name": "he_01_mb__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_big/heads/h_01_mb__dlc/he_01_mb__dlc.w2mesh"
+  },
+  {
+    "name": "olgierd_maison_roof_burn_a",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion/olgierd_maison_roof_burn_a.w2mesh"
+  },
+  {
+    "name": "olgierd_maison_roof_burn",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion/olgierd_maison_roof_burn.w2mesh"
+  },
+  {
+    "name": "olgierd_interior_volume",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion/olgierd_interior_volume.w2mesh"
+  },
+  {
+    "name": "olgierd_interior_f2_burn",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion/olgierd_interior_f2_burn.w2mesh"
+  },
+  {
+    "name": "olgierd_interior_f2",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion/olgierd_interior_f2.w2mesh"
+  },
+  {
+    "name": "olgierd_mansion_cellar_ceiling",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion_paint/interiors/olgierd_mansion_cellar_ceiling.w2mesh"
+  },
+  {
+    "name": "olgierd_interior_f1_burn",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion/olgierd_interior_f1_burn.w2mesh"
+  },
+  {
+    "name": "h_01_mb__dlc",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/man_big/heads/h_01_mb__dlc/h_01_mb__dlc.w2mesh"
+  },
+  {
+    "name": "crypt_wall_45_degrees",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/nomans_land/602_crypt/crypt_wall_45_degrees.w2mesh"
+  },
+  {
+    "name": "c_01_wa__hair_olgierd_02",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/woman_average/hair/model/c_01_wa__hair_olgierd_02.w2mesh"
+  },
+  {
+    "name": "604_mansion_stairs",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/604_mansion/stairs/604_mansion_stairs.w2mesh"
+  },
+  {
+    "name": "nov_very_rich_shani_interior_burned_floor2_frame",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/novigrad/very_rich/nov_very_rich_shani_interior_burned_floor2_frame.w2mesh"
+  },
+  {
+    "name": "nov_very_rich_shani_interior_burned_floor1_walll",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/novigrad/very_rich/nov_very_rich_shani_interior_burned_floor1_walll.w2mesh"
+  },
+  {
+    "name": "nov_very_rich_shani_interior_burned_floor1_frame",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/novigrad/very_rich/nov_very_rich_shani_interior_burned_floor1_frame.w2mesh"
+  },
+  {
+    "name": "c_01_wa__hair_olgierd_03",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/common/woman_average/hair/model/c_01_wa__hair_olgierd_03.w2mesh"
+  },
+  {
+    "name": "nov_very_rich_shani_burned_floor2_walll",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/novigrad/very_rich/nov_very_rich_shani_burned_floor2_walll.w2mesh"
+  },
+  {
+    "name": "nov_very_rich_shani_burned_f3",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/novigrad/very_rich/nov_very_rich_shani_burned_f3.w2mesh"
+  },
+  {
+    "name": "olgierd_interior_f1",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/environment/architecture/human/redania/olgierd_mansion/olgierd_interior_f1.w2mesh"
+  },
+  {
+    "name": "hb_01_ma__witold",
+    "category": "Meshes",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/secondary_npc/witold/h_01_ma__witold/hb_01_ma__witold.w2mesh"
   }
 ]
