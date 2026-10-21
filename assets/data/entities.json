@@ -193098,5 +193098,3505 @@
     "origin": "BnW",
     "tags": [],
     "path": "dlc/bob/data/gameplay/community/community_npcs/vineyard/toussaint_bard_woman.w2ent"
+  },
+  {
+    "name": "cupboard_a_rich_food",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/cupboard_a_rich_food.w2ent"
+  },
+  {
+    "name": "toussaint_belgaard_supervisor",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/vineyard/toussaint_belgaard_supervisor.w2ent"
+  },
+  {
+    "name": "toussaint_blacksmith",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/community/community_npcs/vineyard/toussaint_blacksmith.w2ent"
+  },
+  {
+    "name": "cemetary_steel_sword_guard2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/cemetary_steel_sword_guard2.w2ent"
+  },
+  {
+    "name": "ep2_corpse_08_skeleton",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_corpse_08_skeleton.w2ent"
+  },
+  {
+    "name": "ep2_loot_alchemy__corpse_08_skeleton",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_alchemy__corpse_08_skeleton.w2ent"
+  },
+  {
+    "name": "ep2_loot_corpse_beauclair__man_beauclair_citizen_corpse04",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_corpse_beauclair__man_beauclair_citizen_corpse04.w2ent"
+  },
+  {
+    "name": "ep2_loot_corpse_guard__vineyard_workers_corpses_03",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_corpse_guard__vineyard_workers_corpses_03.w2ent"
+  },
+  {
+    "name": "ep2_loot_crafting__mer_vehicle_wine_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_crafting__mer_vehicle_wine_b.w2ent"
+  },
+  {
+    "name": "ep2_loot_elven_ruins__chest_old",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_elven_ruins__chest_old.w2ent"
+  },
+  {
+    "name": "ep2_loot_food_rich__table_dining_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_food_rich__table_dining_b.w2ent"
+  },
+  {
+    "name": "ep2_loot_food_rich__table_food_large_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_food_rich__table_food_large_c.w2ent"
+  },
+  {
+    "name": "ep2_loot_gryphon_hill__corpse_skeleton",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_gryphon_hill__corpse_skeleton.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_1_armor_2__old_chest_container",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_1_armor_2__old_chest_container.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_1_a_armor_2__chest_wooden",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_1_a_armor_2__chest_wooden.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_1_a_gloves_pants_2__rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_1_a_gloves_pants_2__rich_chest_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_1_boots_1__chest_wooden",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_1_boots_1__chest_wooden.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_1_gloves_1__vineyard_workers_corpses_03",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_1_gloves_1__vineyard_workers_corpses_03.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_1_gloves_2__rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_1_gloves_2__rich_chest_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_1_pants_1__vineyard_workers_corpses_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_1_pants_1__vineyard_workers_corpses_02.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_1_steel_sword_1__guard_1_steel_sword_1_dun_tynne",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_1_steel_sword_1__guard_1_steel_sword_1_dun_tynne.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_1_steel_sword_2__chest_wooden",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_1_steel_sword_2__chest_wooden.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_2_a_armor_1__rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_2_a_armor_1__rich_chest_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_2_gloves_2_dye_recipe_common__rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_2_gloves_2_dye_recipe_common__rich_chest_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_2_gloves_2__rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_2_gloves_2__rich_chest_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_guard_2_pants_2__old_chest_underwater",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_guard_2_pants_2__old_chest_underwater.w2ent"
+  },
+  {
+    "name": "ep2_loot_illusion_magic_food_poor_table_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_illusion_magic_food_poor_table_f.w2ent"
+  },
+  {
+    "name": "ep2_loot_illusion_teapot_teacups__poor_table_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_illusion_teapot_teacups__poor_table_g.w2ent"
+  },
+  {
+    "name": "ep2_loot_interior_rich_mansion__vehicles_trader_cart_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_interior_rich_mansion__vehicles_trader_cart_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_interior_rich_toussaint_doll__rich_cupboard_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_interior_rich_toussaint_doll__rich_cupboard_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_interior_rich_toussaint__rich_bookshelf_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_interior_rich_toussaint__rich_bookshelf_d.w2ent"
+  },
+  {
+    "name": "ep2_loot_junk_poor_dye_uncommon__crate_pile_j",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_junk_poor_dye_uncommon__crate_pile_j.w2ent"
+  },
+  {
+    "name": "ep2_loot_junk_poor__antique_cabinet",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_junk_poor__antique_cabinet.w2ent"
+  },
+  {
+    "name": "ep2_loot_junk_poor__boat_containers_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_junk_poor__boat_containers_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_knights_steel_sword_2__rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_knights_steel_sword_2__rich_chest_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_knight_2_steel_sword__cemetary",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_knight_2_steel_sword__cemetary.w2ent"
+  },
+  {
+    "name": "ep2_loot_knight_2_steel_sword__rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_knight_2_steel_sword__rich_chest_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_knight_geralt_armor_1__chest_wooden",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_knight_geralt_armor_1__chest_wooden.w2ent"
+  },
+  {
+    "name": "ep2_loot_knight_geralt_a_armor_1__bundle_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_knight_geralt_a_armor_1__bundle_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_lazaret__set_average_cupboard_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_lazaret__set_average_cupboard_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_registration_tent__chest_wooden",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_registration_tent__chest_wooden.w2ent"
+  },
+  {
+    "name": "ep2_loot_safari__crate_cloth",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_safari__crate_cloth.w2ent"
+  },
+  {
+    "name": "ep2_loot_shooting_range__barrel_rope",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_shooting_range__barrel_rope.w2ent"
+  },
+  {
+    "name": "ep2_loot_silver_sword_2__rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_silver_sword_2__rich_chest_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_squire_sword_1__rich_chest_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_squire_sword_1__rich_chest_a.w2ent"
+  },
+  {
+    "name": "ep2_loot_still__barrel_broken_a_px",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_still__barrel_broken_a_px.w2ent"
+  },
+  {
+    "name": "ep2_loot_sword_steel_unique__corpse_skeleton",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_sword_steel_unique__corpse_skeleton.w2ent"
+  },
+  {
+    "name": "ep2_loot_witchhouse__poor_commode_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/container_definitions/ep2_loot_witchhouse__poor_commode_c.w2ent"
+  },
+  {
+    "name": "push_bob_cloth_hall_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/door/pushable/push_bob_cloth_hall_b.w2ent"
+  },
+  {
+    "name": "push_bob_warehouse_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/door/pushable/push_bob_warehouse_b.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_alp_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_alp_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_archespore_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_archespore_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_barghest_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_barghest_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_basilisk_hunts",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_basilisk_hunts.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_bruxa_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_bruxa_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_dracolizard_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_dracolizard_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_fleder_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_fleder_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_garkain_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_garkain_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_kikimore_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_kikimore_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_mq7023_scolopendromorph_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_mq7023_scolopendromorph_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_panther_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_panther_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_protofleder_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_protofleder_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_scolopendromorph_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_scolopendromorph_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_sharley_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_sharley_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_spriggan_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_spriggan_book.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_wight_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/ep2_bestiary_wight_book.w2ent"
+  },
+  {
+    "name": "temp_object",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_bestiary/temp_object.w2ent"
+  },
+  {
+    "name": "ep2_bestiary_balaste_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_bestiary_balaste_book.w2ent"
+  },
+  {
+    "name": "ep2_lore_caed_myrkvid_guide",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_caed_myrkvid_guide.w2ent"
+  },
+  {
+    "name": "ep2_lore_dun_tynne_legend",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_dun_tynne_legend.w2ent"
+  },
+  {
+    "name": "ep2_lore_faramond_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_faramond_book.w2ent"
+  },
+  {
+    "name": "ep2_lore_fightclub_book",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_fightclub_book.w2ent"
+  },
+  {
+    "name": "ep2_lore_knights_errant",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_knights_errant.w2ent"
+  },
+  {
+    "name": "ep2_lore_royal_chronicle_1",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_royal_chronicle_1.w2ent"
+  },
+  {
+    "name": "ep2_lore_royal_chronicle_2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_royal_chronicle_2.w2ent"
+  },
+  {
+    "name": "ep2_lore_toussaint_civil_ecology",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_toussaint_civil_ecology.w2ent"
+  },
+  {
+    "name": "ep2_lore_toussaint_civil_war",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_toussaint_civil_war.w2ent"
+  },
+  {
+    "name": "ep2_lore_toussaint_nobles",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_toussaint_nobles.w2ent"
+  },
+  {
+    "name": "ep2_lore_vineyards_guide_p1",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_vineyards_guide_p1.w2ent"
+  },
+  {
+    "name": "ep2_lore_vineyards_guide_p2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_lore_vineyards_guide_p2.w2ent"
+  },
+  {
+    "name": "ep2_poi_gor_d_06_note02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_poi_gor_d_06_note02.w2ent"
+  },
+  {
+    "name": "ep2_poi_gor_d_06_note03",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_poi_gor_d_06_note03.w2ent"
+  },
+  {
+    "name": "ep2_poi_gor_d_06_note05",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_poi_gor_d_06_note05.w2ent"
+  },
+  {
+    "name": "ep2_poi_gor_d_06_note06",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/ep2_poi_gor_d_06_note06.w2ent"
+  },
+  {
+    "name": "fluff_entity",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/books_fluff/fluff_entity.w2ent"
+  },
+  {
+    "name": "book_appearance_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/book_appearances/book_appearance_a.w2ent"
+  },
+  {
+    "name": "book_appearance_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/book_appearances/book_appearance_b.w2ent"
+  },
+  {
+    "name": "book_appearance_c",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/book_appearances/book_appearance_c.w2ent"
+  },
+  {
+    "name": "book_appearance_d",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/book_appearances/book_appearance_d.w2ent"
+  },
+  {
+    "name": "book_appearance_e",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/book_appearances/book_appearance_e.w2ent"
+  },
+  {
+    "name": "book_appearance_f",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/book_appearances/book_appearance_f.w2ent"
+  },
+  {
+    "name": "book_appearance_g",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/book_appearances/book_appearance_g.w2ent"
+  },
+  {
+    "name": "book_appearance_h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_fluff_books/book_appearances/book_appearance_h.w2ent"
+  },
+  {
+    "name": "decoration_slot_empty",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_objects/decoration_slot/decoration_slot_empty.w2ent"
+  },
+  {
+    "name": "decoration_slot_template",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_objects/decoration_slot/decoration_slot_template.w2ent"
+  },
+  {
+    "name": "sword_stand_vertical_no_mesh",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/interactive_objects/sword_stand/sword_stand_vertical_no_mesh.w2ent"
+  },
+  {
+    "name": "bg_1h_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_1h_mace.w2ent"
+  },
+  {
+    "name": "bg_1h_mace_elite",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_1h_mace_elite.w2ent"
+  },
+  {
+    "name": "bg_1h_sword_hard",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_1h_sword_hard.w2ent"
+  },
+  {
+    "name": "bg_1h_sword_normal",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_1h_sword_normal.w2ent"
+  },
+  {
+    "name": "bg_2h_halberd",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_2h_halberd.w2ent"
+  },
+  {
+    "name": "bg_2h_spear",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_2h_spear.w2ent"
+  },
+  {
+    "name": "bg_crossbow",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_crossbow.w2ent"
+  },
+  {
+    "name": "bg_crossbow_turret",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_crossbow_turret.w2ent"
+  },
+  {
+    "name": "bg_shield_sword",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_shield_sword.w2ent"
+  },
+  {
+    "name": "bg_shield_sword_elite",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/beauclair_guard/bg_shield_sword_elite.w2ent"
+  },
+  {
+    "name": "ke_1h_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_1h_mace.w2ent"
+  },
+  {
+    "name": "ke_1h_mace_elite",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_1h_mace_elite.w2ent"
+  },
+  {
+    "name": "ke_1h_shield_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_1h_shield_mace.w2ent"
+  },
+  {
+    "name": "ke_1h_shield_mace_elite",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_1h_shield_mace_elite.w2ent"
+  },
+  {
+    "name": "ke_1h_sword_easy",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_1h_sword_easy.w2ent"
+  },
+  {
+    "name": "ke_1h_sword_hard",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_1h_sword_hard.w2ent"
+  },
+  {
+    "name": "ke_1h_sword_normal",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_1h_sword_normal.w2ent"
+  },
+  {
+    "name": "ke_1h_sword_superhard",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_1h_sword_superhard.w2ent"
+  },
+  {
+    "name": "ke_2h_hammer",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_2h_hammer.w2ent"
+  },
+  {
+    "name": "ke_2h_sword",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_2h_sword.w2ent"
+  },
+  {
+    "name": "ke_crossbow",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_crossbow.w2ent"
+  },
+  {
+    "name": "ke_crossbow_turret",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_crossbow_turret.w2ent"
+  },
+  {
+    "name": "ke_shield_sword",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_shield_sword.w2ent"
+  },
+  {
+    "name": "ke_shield_sword_elite",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_shield_sword_elite.w2ent"
+  },
+  {
+    "name": "ke_shield_sword_rider",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/gameplay/templates/presets/knight_errant/ke_shield_sword_rider.w2ent"
+  },
+  {
+    "name": "g_01a_mg__errant_knight",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/bodyparts/geralt_items/gloves/errant_knight/g_01a_mg__errant_knight.w2ent"
+  },
+  {
+    "name": "g_01b_mg__errant_knight",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/bodyparts/geralt_items/gloves/errant_knight/g_01b_mg__errant_knight.w2ent"
+  },
+  {
+    "name": "g_01_mg__errant_knight",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/bodyparts/geralt_items/gloves/errant_knight/g_01_mg__errant_knight.w2ent"
+  },
+  {
+    "name": "q701_item__paper_slip_with_clue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/items/quest_items/q701/model/q701_item__paper_slip_with_clue.w2ent"
+  },
+  {
+    "name": "bob_house_poor_01_a_1v_generic_light_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_poor_01_a_1v_generic_light_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_poor_01_b_1v_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_poor_01_b_1v_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_poor_06_a_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_poor_06_a_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_poor_11_a_1v_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_poor_11_a_1v_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_poor_11_b_1v_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_poor_11_b_1v_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_poor_14_a_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_poor_14_a_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_rich_01_c_1v_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_rich_01_c_1v_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_rich_03_a_1v_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_rich_03_a_1v_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_rich_04_a_1v_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_rich_04_a_1v_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_rich_04_b_1v_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_rich_04_b_1v_to_import.w2ent"
+  },
+  {
+    "name": "bob_house_rich_05_a_1v_to_import",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/levels/bob/temp/norbert/bob_house_rich_05_a_1v_to_import.w2ent"
+  },
+  {
+    "name": "arachas",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/arachas.w2ent"
+  },
+  {
+    "name": "bruxa",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/bruxa.w2ent"
+  },
+  {
+    "name": "bruxa_cloaked_hostile",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/bruxa_cloaked_hostile.w2ent"
+  },
+  {
+    "name": "bruxa_cloaked_hostile_mid",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/bruxa_cloaked_hostile_mid.w2ent"
+  },
+  {
+    "name": "bruxa_cloaked_mid",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/bruxa_cloaked_mid.w2ent"
+  },
+  {
+    "name": "endriaga_lvl3_mid",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/endriaga_lvl3_mid.w2ent"
+  },
+  {
+    "name": "katakan",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/katakan.w2ent"
+  },
+  {
+    "name": "raider_leader",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/raider_leader.w2ent"
+  },
+  {
+    "name": "thug_lvl1_bow_mid",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/thug_lvl1_bow_mid.w2ent"
+  },
+  {
+    "name": "werewolf",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/enemy_templates/werewolf.w2ent"
+  },
+  {
+    "name": "shop_45_city_east_merchant_paintings",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/merchants/shop_45_city_east_merchant_paintings.w2ent"
+  },
+  {
+    "name": "shop_54_beauclair_tailor",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/merchants/shop_54_beauclair_tailor.w2ent"
+  },
+  {
+    "name": "poi_bar_a_12_note",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/barrens/poi_bar_a_12/poi_bar_a_12_note.w2ent"
+  },
+  {
+    "name": "poi_bar_a_13_nest",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/barrens/poi_bar_a_13/poi_bar_a_13_nest.w2ent"
+  },
+  {
+    "name": "poi_bar_b_04_note_cont",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/barrens/poi_bar_b_04/entities/poi_bar_b_04_note_cont.w2ent"
+  },
+  {
+    "name": "poi_bar_b_14_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/barrens/poi_bar_b_14/poi_bar_b_14_corpse.w2ent"
+  },
+  {
+    "name": "car_a_01_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/caroberta_woods/poi_car_a_01/entities/car_a_01_corpse.w2ent"
+  },
+  {
+    "name": "car_a_01_crystal",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/caroberta_woods/poi_car_a_01/entities/car_a_01_crystal.w2ent"
+  },
+  {
+    "name": "car_a_01_door",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/caroberta_woods/poi_car_a_01/entities/car_a_01_door.w2ent"
+  },
+  {
+    "name": "car_a_01_generator",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/caroberta_woods/poi_car_a_01/entities/car_a_01_generator.w2ent"
+  },
+  {
+    "name": "professor",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/caroberta_woods/poi_car_a_05/professor.w2ent"
+  },
+  {
+    "name": "poi_car_b_08_barrel",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/caroberta_woods/poi_car_b_08/poi_car_b_08_barrel.w2ent"
+  },
+  {
+    "name": "bruxa_cloaked",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/dun_tynne/poi_dun_b_08/bruxa_cloaked.w2ent"
+  },
+  {
+    "name": "poi_gor_a_10_boss",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/gorgona_foothills/poi_gor_a_10/poi_gor_a_10_boss.w2ent"
+  },
+  {
+    "name": "hansa_signal_bandit",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/gorgona_foothills/poi_gor_d_05/hansa_signal_bandit.w2ent"
+  },
+  {
+    "name": "poi_gor_d_06_note_03",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/gorgona_foothills/poi_gor_d_06/poi_gor_d_06_note_03.w2ent"
+  },
+  {
+    "name": "poi_gor_d_19_shirt",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/gorgona_foothills/poi_gor_d_19/poi_gor_d_19_shirt.w2ent"
+  },
+  {
+    "name": "lw_ww_clue_archespore_bulbs_non_interactive",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/lw_wine_wars/entities/lw_ww_clue_archespore_bulbs_non_interactive.w2ent"
+  },
+  {
+    "name": "poi_ww_san_06_cont",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/lw_wine_wars/entities/poi_ww_san_06_cont.w2ent"
+  },
+  {
+    "name": "sq703_silvan",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/lw_wine_wars/entities/sq703_silvan.w2ent"
+  },
+  {
+    "name": "thug_lvl2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/lw_wine_wars/entities/thug_lvl2.w2ent"
+  },
+  {
+    "name": "noble",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/vedette_valley/poi_ved_a_05/noble.w2ent"
+  },
+  {
+    "name": "poi_ved_a_08_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/vedette_valley/poi_ved_a_08/poi_ved_a_08_corpse.w2ent"
+  },
+  {
+    "name": "poi_vin_a_01_merchant",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/living_world/quests/vineyards/poi_vin_a_01/entities/poi_vin_a_01_merchant.w2ent"
+  },
+  {
+    "name": "q701_giant_sheep",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/characters/q701_giant_sheep.w2ent"
+  },
+  {
+    "name": "q701_tame_peacock",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/characters/q701_tame_peacock.w2ent"
+  },
+  {
+    "name": "q701_blood_decal_animated_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_blood_decal_animated_02.w2ent"
+  },
+  {
+    "name": "q701_boat_man_escape",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_boat_man_escape.w2ent"
+  },
+  {
+    "name": "q701_cb_deed_prop_document_no_offset",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_cb_deed_prop_document_no_offset.w2ent"
+  },
+  {
+    "name": "q701_cb_deed_prop_key_no_offset",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_cb_deed_prop_key_no_offset.w2ent"
+  },
+  {
+    "name": "q701_cyclops_dead_horse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_cyclops_dead_horse.w2ent"
+  },
+  {
+    "name": "q701_cyclops_windmill_blade",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_cyclops_windmill_blade.w2ent"
+  },
+  {
+    "name": "q701_dettlaff_victim_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_dettlaff_victim_corpse.w2ent"
+  },
+  {
+    "name": "q701_fish_cont_gold_cluestash",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_fish_cont_gold_cluestash.w2ent"
+  },
+  {
+    "name": "q701_fish_cont_gold_full",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_fish_cont_gold_full.w2ent"
+  },
+  {
+    "name": "q701_fish_cont_red_cluestash",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_fish_cont_red_cluestash.w2ent"
+  },
+  {
+    "name": "q701_fish_cont_red_full",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_fish_cont_red_full.w2ent"
+  },
+  {
+    "name": "q701_fish_cont_white_cluestash",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_fish_cont_white_cluestash.w2ent"
+  },
+  {
+    "name": "q701_fish_cont_white_full",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_fish_cont_white_full.w2ent"
+  },
+  {
+    "name": "q701_garden_apples_container",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_garden_apples_container.w2ent"
+  },
+  {
+    "name": "q701_lake_correct_fish",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_lake_correct_fish.w2ent"
+  },
+  {
+    "name": "q701_lake_wrong_fish",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_lake_wrong_fish.w2ent"
+  },
+  {
+    "name": "q701_sweets_clue_loot_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_sweets_clue_loot_b.w2ent"
+  },
+  {
+    "name": "q701_testy_boat_passenger",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_testy_boat_passenger.w2ent"
+  },
+  {
+    "name": "q701_victim_blooddrag_clue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_victim_blooddrag_clue.w2ent"
+  },
+  {
+    "name": "q701_victim_bruxa_foot_clue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_victim_bruxa_foot_clue.w2ent"
+  },
+  {
+    "name": "q701_victim_clothmark_clue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_victim_clothmark_clue.w2ent"
+  },
+  {
+    "name": "q701_victim_cut_nets",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_victim_cut_nets.w2ent"
+  },
+  {
+    "name": "q701_vineyard_corpse_sitter_blue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_vineyard_corpse_sitter_blue.w2ent"
+  },
+  {
+    "name": "q701_vineyard_dettlaff_arm_clue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_vineyard_dettlaff_arm_clue.w2ent"
+  },
+  {
+    "name": "q701_vineyard_dettlaff_arm_clue_loot",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/q701_vineyard_dettlaff_arm_clue_loot.w2ent"
+  },
+  {
+    "name": "player_swan_boat",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/entities/boat/player_swan_boat.w2ent"
+  },
+  {
+    "name": "q702_dogs",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/characters/q702_dogs.w2ent"
+  },
+  {
+    "name": "q702_bottle_open",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/entities/q702_bottle_open.w2ent"
+  },
+  {
+    "name": "q702_cemetary_sword",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/entities/q702_cemetary_sword.w2ent"
+  },
+  {
+    "name": "q702_generic_toy_2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/entities/q702_generic_toy_2.w2ent"
+  },
+  {
+    "name": "q702_sacrifice_lure_entity",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/entities/q702_sacrifice_lure_entity.w2ent"
+  },
+  {
+    "name": "q702_wight_spoon_2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/entities/q702_wight_spoon_2.w2ent"
+  },
+  {
+    "name": "q702_wight_spoon_6",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/entities/q702_wight_spoon_6.w2ent"
+  },
+  {
+    "name": "q703_aspiring_actor",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/q703_aspiring_actor.w2ent"
+  },
+  {
+    "name": "q703_gorgeous",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/q703_gorgeous.w2ent"
+  },
+  {
+    "name": "q703_imp",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/q703_imp.w2ent"
+  },
+  {
+    "name": "q703_mandragora_servant",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/q703_mandragora_servant.w2ent"
+  },
+  {
+    "name": "q703_watchdog",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/q703_watchdog.w2ent"
+  },
+  {
+    "name": "q703_a03_s01_nazairian_sword2h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a03_s01_nazairian_sword2h.w2ent"
+  },
+  {
+    "name": "q703_a03_s02_nazairian_runner_knight_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a03_s02_nazairian_runner_knight_mace.w2ent"
+  },
+  {
+    "name": "q703_a04s01_nazairian_axe_2h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a04s01_nazairian_axe_2h.w2ent"
+  },
+  {
+    "name": "q703_a04s01_nazairian_bow",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a04s01_nazairian_bow.w2ent"
+  },
+  {
+    "name": "q703_a04s02_nazairian_spear",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a04s02_nazairian_spear.w2ent"
+  },
+  {
+    "name": "q703_a04_s01_nazairian_knight_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a04_s01_nazairian_knight_mace.w2ent"
+  },
+  {
+    "name": "q703_a05_s01_nazairian_knight_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a05_s01_nazairian_knight_mace.w2ent"
+  },
+  {
+    "name": "q703_a06_s01_nazairian_knight_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a06_s01_nazairian_knight_mace.w2ent"
+  },
+  {
+    "name": "q703_a06_s02_leader_nazairian_knight_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a06_s02_leader_nazairian_knight_mace.w2ent"
+  },
+  {
+    "name": "q703_a06_s03_nazairian_knight_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a06_s03_nazairian_knight_mace.w2ent"
+  },
+  {
+    "name": "q703_a06_s06_leader_nazairian_knight_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_a06_s06_leader_nazairian_knight_mace.w2ent"
+  },
+  {
+    "name": "q703_all_arenas_reinfocements_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_all_arenas_reinfocements_01.w2ent"
+  },
+  {
+    "name": "q703_dt_bandit_knight_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_dt_bandit_knight_mace.w2ent"
+  },
+  {
+    "name": "q703_dt_bandit_spear_2h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_dt_bandit_spear_2h.w2ent"
+  },
+  {
+    "name": "q703_nazairi_background_hammer2h",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_bandits/q703_nazairi_background_hammer2h.w2ent"
+  },
+  {
+    "name": "q703_a02_s01_dt_guard_blunt_1h_w_line",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_guards/q703_a02_s01_dt_guard_blunt_1h_w_line.w2ent"
+  },
+  {
+    "name": "q703_a03_s02_dt_guard_melee",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_guards/q703_a03_s02_dt_guard_melee.w2ent"
+  },
+  {
+    "name": "q703_a03_s02_royal_guard_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_royal_guards/q703_a03_s02_royal_guard_01.w2ent"
+  },
+  {
+    "name": "q703_a03_s02_royal_guard_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_royal_guards/q703_a03_s02_royal_guard_02.w2ent"
+  },
+  {
+    "name": "q703_a03_s02_royal_guard_03",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/dun_tynne_royal_guards/q703_a03_s02_royal_guard_03.w2ent"
+  },
+  {
+    "name": "q703_pre_mand_bandit_tad_knight_mace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/characters/pre_mandragora_bandits/q703_pre_mand_bandit_tad_knight_mace.w2ent"
+  },
+  {
+    "name": "q703_dun_tynne_gate",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/deco_temp/q703_dun_tynne_gate.w2ent"
+  },
+  {
+    "name": "q703_syannas_chair_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/deco_temp/q703_syannas_chair_01.w2ent"
+  },
+  {
+    "name": "q703_syannas_table_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/deco_temp/q703_syannas_table_01.w2ent"
+  },
+  {
+    "name": "q703_syannas_table_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/deco_temp/q703_syannas_table_02.w2ent"
+  },
+  {
+    "name": "q703_a03_s01_blood_decal_animated",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_a03_s01_blood_decal_animated.w2ent"
+  },
+  {
+    "name": "q703_book_killing_vampires",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_book_killing_vampires.w2ent"
+  },
+  {
+    "name": "q703_clue_mandragora_broken_mirror",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_clue_mandragora_broken_mirror.w2ent"
+  },
+  {
+    "name": "q703_clue_mandragora_poem_on_napkin",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_clue_mandragora_poem_on_napkin.w2ent"
+  },
+  {
+    "name": "q703_dead_guard_deco_01_temp",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_dead_guard_deco_01_temp.w2ent"
+  },
+  {
+    "name": "q703_dead_guard_deco_02_temp",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_dead_guard_deco_02_temp.w2ent"
+  },
+  {
+    "name": "q703_deco_candleholder_w_candle",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_deco_candleholder_w_candle.w2ent"
+  },
+  {
+    "name": "q703_deco_rich_bed_table_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_deco_rich_bed_table_a.w2ent"
+  },
+  {
+    "name": "q703_drink_absinth",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_drink_absinth.w2ent"
+  },
+  {
+    "name": "q703_mandragora_inv_container",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_mandragora_inv_container.w2ent"
+  },
+  {
+    "name": "q703_mandragora_sculpture_panther",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_mandragora_sculpture_panther.w2ent"
+  },
+  {
+    "name": "q703_roderiks_cart",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_roderiks_cart.w2ent"
+  },
+  {
+    "name": "q703_wp_dun_tynne_battle_sounds",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/q703_wp_dun_tynne_battle_sounds.w2ent"
+  },
+  {
+    "name": "temp_q703_fire_in_fireplace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/temp_q703_fire_in_fireplace.w2ent"
+  },
+  {
+    "name": "q703_toussaint_coat_of_arms",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/castel_ravello_wine_cellar/q703_toussaint_coat_of_arms.w2ent"
+  },
+  {
+    "name": "gen_poor_candleholder_b_no_shadow_q703",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/mandragora_paiting_with_bombs/gen_poor_candleholder_b_no_shadow_q703.w2ent"
+  },
+  {
+    "name": "q703_paint_bombs_pile",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/entities/mandragora_paiting_with_bombs/q703_paint_bombs_pile.w2ent"
+  },
+  {
+    "name": "q704_ft_bigby_footprints",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_bigby_footprints.w2ent"
+  },
+  {
+    "name": "q704_ft_bottle",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_bottle.w2ent"
+  },
+  {
+    "name": "q704_ft_endriaga",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_endriaga.w2ent"
+  },
+  {
+    "name": "q704_ft_fake_guillaume_mesh",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_fake_guillaume_mesh.w2ent"
+  },
+  {
+    "name": "q704_ft_flying_fleder",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_flying_fleder.w2ent"
+  },
+  {
+    "name": "q704_ft_harpy",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_harpy.w2ent"
+  },
+  {
+    "name": "q704_ft_mermaid",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_mermaid.w2ent"
+  },
+  {
+    "name": "q704_ft_pigs",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_pigs.w2ent"
+  },
+  {
+    "name": "q704_ft_rapunzel_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_rapunzel_corpse.w2ent"
+  },
+  {
+    "name": "q704_test_entity",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_test_entity.w2ent"
+  },
+  {
+    "name": "q704_ft_shoe",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/bandits/q704_ft_shoe.w2ent"
+  },
+  {
+    "name": "q704_ft_brick",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/bedroom_clues/q704_ft_brick.w2ent"
+  },
+  {
+    "name": "q704_ft_dandelion_letter",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/bedroom_clues/q704_ft_dandelion_letter.w2ent"
+  },
+  {
+    "name": "q704_ft_door",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/bedroom_clues/q704_ft_door.w2ent"
+  },
+  {
+    "name": "q704_ft_perfume",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/bedroom_clues/q704_ft_perfume.w2ent"
+  },
+  {
+    "name": "q704_ft_giant_load",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/giant/q704_ft_giant_load.w2ent"
+  },
+  {
+    "name": "q704_ft_guy_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/honey_bear/q704_ft_guy_corpse.w2ent"
+  },
+  {
+    "name": "q704_ft_honey",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/honey_bear/q704_ft_honey.w2ent"
+  },
+  {
+    "name": "q704_ft_horse_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/honey_bear/q704_ft_horse_corpse.w2ent"
+  },
+  {
+    "name": "q704_ft_panther_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/honey_bear/q704_ft_panther_corpse.w2ent"
+  },
+  {
+    "name": "q704_ft_pig_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/honey_bear/q704_ft_pig_corpse.w2ent"
+  },
+  {
+    "name": "q704_ft_rabbit_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/honey_bear/q704_ft_rabbit_corpse.w2ent"
+  },
+  {
+    "name": "q704_damiens_soldier_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_damiens_soldier_01.w2ent"
+  },
+  {
+    "name": "q704_dettlaff_vampire_minion",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_dettlaff_vampire_minion.w2ent"
+  },
+  {
+    "name": "q704_killed_soldier_scene_vampire",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_killed_soldier_scene_vampire.w2ent"
+  },
+  {
+    "name": "q704_palace_guard_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_palace_guard_02.w2ent"
+  },
+  {
+    "name": "q704_palace_guard_03",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_palace_guard_03.w2ent"
+  },
+  {
+    "name": "q704_palace_guard_04",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_palace_guard_04.w2ent"
+  },
+  {
+    "name": "q704_palace_guard_no_weapon",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_palace_guard_no_weapon.w2ent"
+  },
+  {
+    "name": "q704_palace_vampire_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_palace_vampire_01.w2ent"
+  },
+  {
+    "name": "q704_palace_vampire_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_palace_vampire_02.w2ent"
+  },
+  {
+    "name": "q704_regis_vampire_temp",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_regis_vampire_temp.w2ent"
+  },
+  {
+    "name": "q704_vampire_siege_soldier_shield",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_vampire_siege_soldier_shield.w2ent"
+  },
+  {
+    "name": "q704_wyvern",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/characters/q704_wyvern.w2ent"
+  },
+  {
+    "name": "armor_stand_test",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/armor_stand_test.w2ent"
+  },
+  {
+    "name": "q704_anomaly",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_anomaly.w2ent"
+  },
+  {
+    "name": "q704_big_white_ball",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_big_white_ball.w2ent"
+  },
+  {
+    "name": "q704_citizen_ragdoll",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_citizen_ragdoll.w2ent"
+  },
+  {
+    "name": "q704_dead_servant",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_dead_servant.w2ent"
+  },
+  {
+    "name": "q704_dest_rocks",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_dest_rocks.w2ent"
+  },
+  {
+    "name": "q704_dest_rocks_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_dest_rocks_02.w2ent"
+  },
+  {
+    "name": "q704_dropped_sword_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_dropped_sword_02.w2ent"
+  },
+  {
+    "name": "q704_fleder_picking_up_a_person",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_fleder_picking_up_a_person.w2ent"
+  },
+  {
+    "name": "q704_flying_dettlaff_prop_bg",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_flying_dettlaff_prop_bg.w2ent"
+  },
+  {
+    "name": "q704_flying_fleder_bg",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_flying_fleder_bg.w2ent"
+  },
+  {
+    "name": "q704_flying_rock_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_flying_rock_01.w2ent"
+  },
+  {
+    "name": "q704_gravity_shift_wall",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_gravity_shift_wall.w2ent"
+  },
+  {
+    "name": "q704_invisible_dettlaff_bg",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_invisible_dettlaff_bg.w2ent"
+  },
+  {
+    "name": "q704_levitation_geralt_attachment",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_levitation_geralt_attachment.w2ent"
+  },
+  {
+    "name": "q704_levitation_helper",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_levitation_helper.w2ent"
+  },
+  {
+    "name": "q704_levitation_point",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_levitation_point.w2ent"
+  },
+  {
+    "name": "q704_levitation_point_horizontal",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_levitation_point_horizontal.w2ent"
+  },
+  {
+    "name": "q704_magic_stone",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_magic_stone.w2ent"
+  },
+  {
+    "name": "q704_mh_dead_cow",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_mh_dead_cow.w2ent"
+  },
+  {
+    "name": "q704_mh_dead_horse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_mh_dead_horse.w2ent"
+  },
+  {
+    "name": "q704_mh_door_planks",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_mh_door_planks.w2ent"
+  },
+  {
+    "name": "q704_mh_toy_bunny",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_mh_toy_bunny.w2ent"
+  },
+  {
+    "name": "q704_mh_toy_duck",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_mh_toy_duck.w2ent"
+  },
+  {
+    "name": "q704_mh_toy_horse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_mh_toy_horse.w2ent"
+  },
+  {
+    "name": "q704_mh_tracks_and_cart",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_mh_tracks_and_cart.w2ent"
+  },
+  {
+    "name": "q704_puzzle_bridge_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_puzzle_bridge_01.w2ent"
+  },
+  {
+    "name": "q704_regis_dock_crow",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_regis_dock_crow.w2ent"
+  },
+  {
+    "name": "q704_shooting_target",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_shooting_target.w2ent"
+  },
+  {
+    "name": "q704_teleport",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_teleport.w2ent"
+  },
+  {
+    "name": "q704_tree_trunk",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_tree_trunk.w2ent"
+  },
+  {
+    "name": "q704_vampire_lure",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_vampire_lure.w2ent"
+  },
+  {
+    "name": "q704_vampire_siege_trigger_custom",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_vampire_siege_trigger_custom.w2ent"
+  },
+  {
+    "name": "q704_wings",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_wings.w2ent"
+  },
+  {
+    "name": "q705_alps_regis",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/characters/q705_alps_regis.w2ent"
+  },
+  {
+    "name": "q705_regis_drunk",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/characters/q705_regis_drunk.w2ent"
+  },
+  {
+    "name": "q705_succubus",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/characters/q705_succubus.w2ent"
+  },
+  {
+    "name": "q705_ah_letter",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_ah_letter.w2ent"
+  },
+  {
+    "name": "q705_beggars_sign",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_beggars_sign.w2ent"
+  },
+  {
+    "name": "q705_brick_button",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_brick_button.w2ent"
+  },
+  {
+    "name": "q705_dettlaff_letter",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_dettlaff_letter.w2ent"
+  },
+  {
+    "name": "q705_focus_sound_beggars",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_focus_sound_beggars.w2ent"
+  },
+  {
+    "name": "q705_guard_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_guard_corpse.w2ent"
+  },
+  {
+    "name": "q705_hidden_beggar_door",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_hidden_beggar_door.w2ent"
+  },
+  {
+    "name": "q705_poster_ghouls",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_poster_ghouls.w2ent"
+  },
+  {
+    "name": "q705_succubus_hoofprints",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_succubus_hoofprints.w2ent"
+  },
+  {
+    "name": "q705_syanna_clue3",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_syanna_clue3.w2ent"
+  },
+  {
+    "name": "q705_syanna_corpse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_syanna_corpse.w2ent"
+  },
+  {
+    "name": "q705_take_stick",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/q705_take_stick.w2ent"
+  },
+  {
+    "name": "q705_laundry_pole",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/includes/q705_laundry_pole.w2ent"
+  },
+  {
+    "name": "q705_pile_of_clothes",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/entities/includes/q705_pile_of_clothes.w2ent"
+  },
+  {
+    "name": "ff701_noble",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/ff701_fistfights/ff701_shared_characters/ff701_noble.w2ent"
+  },
+  {
+    "name": "mq7001_merchant",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/characters/mq7001_merchant.w2ent"
+  },
+  {
+    "name": "mq7001_thug_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/characters/mq7001_thug_01.w2ent"
+  },
+  {
+    "name": "mq7001_thug_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/characters/mq7001_thug_02.w2ent"
+  },
+  {
+    "name": "mq7001_card_container_gwent_tomb",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/mq7001_card_container_gwent_tomb.w2ent"
+  },
+  {
+    "name": "mq7001_dump_interaction",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/mq7001_dump_interaction.w2ent"
+  },
+  {
+    "name": "mq7001_free_tomb",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/mq7001_free_tomb.w2ent"
+  },
+  {
+    "name": "mq7001_ghost_noises",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/mq7001_ghost_noises.w2ent"
+  },
+  {
+    "name": "mq7001_ghost_talk_interaction",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/mq7001_ghost_talk_interaction.w2ent"
+  },
+  {
+    "name": "mq7001_gwint_chamber_plaque",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/mq7001_gwint_chamber_plaque.w2ent"
+  },
+  {
+    "name": "mq7001_new_tomb_for_louis",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/mq7001_new_tomb_for_louis.w2ent"
+  },
+  {
+    "name": "mq7001_read_interaction",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/mq7001_read_interaction.w2ent"
+  },
+  {
+    "name": "mq7001_tomb_examine_interaction",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/mq7001_tomb_examine_interaction.w2ent"
+  },
+  {
+    "name": "test_sound",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/entities/test_sound.w2ent"
+  },
+  {
+    "name": "mq7002_card_container",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7002_stubborn_knight/entities/mq7002_card_container.w2ent"
+  },
+  {
+    "name": "mq7004_fake_panther",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/characters/mq7004_fake_panther.w2ent"
+  },
+  {
+    "name": "mq7004_charms_interaction",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_charms_interaction.w2ent"
+  },
+  {
+    "name": "mq7004_clue_dress_torn",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_dress_torn.w2ent"
+  },
+  {
+    "name": "mq7004_clue_fur",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_fur.w2ent"
+  },
+  {
+    "name": "mq7004_clue_helmet",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_helmet.w2ent"
+  },
+  {
+    "name": "mq7004_clue_hoe",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_hoe.w2ent"
+  },
+  {
+    "name": "mq7004_clue_jewellery",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_jewellery.w2ent"
+  },
+  {
+    "name": "mq7004_clue_knife",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_knife.w2ent"
+  },
+  {
+    "name": "mq7004_clue_necklace",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_necklace.w2ent"
+  },
+  {
+    "name": "mq7004_clue_skull",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_skull.w2ent"
+  },
+  {
+    "name": "mq7004_clue_witch_notes_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_witch_notes_01.w2ent"
+  },
+  {
+    "name": "mq7004_clue_witch_notes_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_witch_notes_02.w2ent"
+  },
+  {
+    "name": "mq7004_clue_witch_notes_03",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_clue_witch_notes_03.w2ent"
+  },
+  {
+    "name": "mq7004_lumberjack_body_loot",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_lumberjack_body_loot.w2ent"
+  },
+  {
+    "name": "mq7004_tree_branch",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_tree_branch.w2ent"
+  },
+  {
+    "name": "mq7004_tree_interaction",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_tree_interaction.w2ent"
+  },
+  {
+    "name": "mq7004_tree_ribbon",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_tree_ribbon.w2ent"
+  },
+  {
+    "name": "mq7004_tree_ribbon_include",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/entities/mq7004_tree_ribbon_include.w2ent"
+  },
+  {
+    "name": "mq7007_ceremony_food",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/mq7007_ceremony_food.w2ent"
+  },
+  {
+    "name": "mq7007_ceremony_food_empty",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/mq7007_ceremony_food_empty.w2ent"
+  },
+  {
+    "name": "mq7007_ceremony_food_full_mesh",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/mq7007_ceremony_food_full_mesh.w2ent"
+  },
+  {
+    "name": "mq7007_ceremony_wine",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/mq7007_ceremony_wine.w2ent"
+  },
+  {
+    "name": "mq7007_ceremony_wine_empty",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/mq7007_ceremony_wine_empty.w2ent"
+  },
+  {
+    "name": "mq7007_clue_footprints",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/mq7007_clue_footprints.w2ent"
+  },
+  {
+    "name": "mq7007_clue_table_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/mq7007_clue_table_a.w2ent"
+  },
+  {
+    "name": "mq7007_grandfathers_scepter_clue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/mq7007_grandfathers_scepter_clue.w2ent"
+  },
+  {
+    "name": "mq7007_cont_book_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/additional_deco/mq7007_cont_book_01.w2ent"
+  },
+  {
+    "name": "mq7007_cont_book_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/additional_deco/mq7007_cont_book_02.w2ent"
+  },
+  {
+    "name": "mq7007_destructible_door",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/destructible_door/mq7007_destructible_door.w2ent"
+  },
+  {
+    "name": "mq7007_tribute_slot",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7007_gargoyles/entities/food_n_wine/mq7007_tribute_slot.w2ent"
+  },
+  {
+    "name": "mq7009_paint_palette",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7009_painter/entities/mq7009_paint_palette.w2ent"
+  },
+  {
+    "name": "mq7010_herdsman_victim",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7010_airborne_cattle/entities/mq7010_herdsman_victim.w2ent"
+  },
+  {
+    "name": "mq7010_oszluzg_clawprints",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7010_airborne_cattle/entities/mq7010_oszluzg_clawprints.w2ent"
+  },
+  {
+    "name": "mq7010_wyvern_nest",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7010_airborne_cattle/entities/mq7010_wyvern_nest.w2ent"
+  },
+  {
+    "name": "mq7010_wyvern_nest_destroyed",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7010_airborne_cattle/entities/mq7010_wyvern_nest_destroyed.w2ent"
+  },
+  {
+    "name": "mq7010_wyvern_nest_intact",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7010_airborne_cattle/entities/mq7010_wyvern_nest_intact.w2ent"
+  },
+  {
+    "name": "mq7011_break_notice",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7011_wheres_my_money/entities/mq7011_break_notice.w2ent"
+  },
+  {
+    "name": "mq7015_clue_sawtooth",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7015_souvenir/entities/mq7015_clue_sawtooth.w2ent"
+  },
+  {
+    "name": "mq7015_clue_statue_with_genitals",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7015_souvenir/entities/mq7015_clue_statue_with_genitals.w2ent"
+  },
+  {
+    "name": "mq7015_fence",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7015_souvenir/entities/mq7015_fence.w2ent"
+  },
+  {
+    "name": "mq7015_reginalds_figurine",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7015_souvenir/entities/mq7015_reginalds_figurine.w2ent"
+  },
+  {
+    "name": "mq7017_horse_replacer",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7017_talking_horse/characters/mq7017_horse_replacer.w2ent"
+  },
+  {
+    "name": "mq7017_spirit_old",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7017_talking_horse/characters/mq7017_spirit_old.w2ent"
+  },
+  {
+    "name": "mq7017_medallion_clue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7017_talking_horse/entities/mq7017_medallion_clue.w2ent"
+  },
+  {
+    "name": "mq7017_yelling_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7017_talking_horse/entities/mq7017_yelling_ap.w2ent"
+  },
+  {
+    "name": "cont_mq7018_book_basilisk",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7018_last_one/entities/cont_mq7018_book_basilisk.w2ent"
+  },
+  {
+    "name": "mq7018_basilisk_ap",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7018_last_one/entities/mq7018_basilisk_ap.w2ent"
+  },
+  {
+    "name": "mq7020_deer",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7020_songs_of_glory/characters/mq7020_deer.w2ent"
+  },
+  {
+    "name": "mq7020_aard_hit",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7020_songs_of_glory/entities/mq7020_aard_hit.w2ent"
+  },
+  {
+    "name": "mq7020_clue_dry_stalks",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7020_songs_of_glory/entities/mq7020_clue_dry_stalks.w2ent"
+  },
+  {
+    "name": "mq7021_female_listener",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7021_left_behind/characters/mq7021_female_listener.w2ent"
+  },
+  {
+    "name": "mq7021_trolls_bossbar",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7021_left_behind/characters/mq7021_trolls_bossbar.w2ent"
+  },
+  {
+    "name": "mq7021_clue_opened_chest",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7021_left_behind/entities/mq7021_clue_opened_chest.w2ent"
+  },
+  {
+    "name": "mq7021_debris",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7021_left_behind/entities/mq7021_debris.w2ent"
+  },
+  {
+    "name": "mq7021_dropped_debris",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7021_left_behind/entities/mq7021_dropped_debris.w2ent"
+  },
+  {
+    "name": "mq7021_wet_footprints",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7021_left_behind/entities/mq7021_wet_footprints.w2ent"
+  },
+  {
+    "name": "mq7023_gargoyle_2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/characters/mq7023_gargoyle_2.w2ent"
+  },
+  {
+    "name": "mq7023_pale_widow",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/characters/mq7023_pale_widow.w2ent"
+  },
+  {
+    "name": "mq7023_bookshelf",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_bookshelf.w2ent"
+  },
+  {
+    "name": "mq7023_crystal_container",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_crystal_container.w2ent"
+  },
+  {
+    "name": "mq7023_crystal_container_2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_crystal_container_2.w2ent"
+  },
+  {
+    "name": "mq7023_door_a",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_door_a.w2ent"
+  },
+  {
+    "name": "mq7023_door_b",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_door_b.w2ent"
+  },
+  {
+    "name": "mq7023_dust",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_dust.w2ent"
+  },
+  {
+    "name": "mq7023_exit_portal_crytal",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_exit_portal_crytal.w2ent"
+  },
+  {
+    "name": "mq7023_footprints_laura",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_footprints_laura.w2ent"
+  },
+  {
+    "name": "mq7023_gargoyle_hand",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_gargoyle_hand.w2ent"
+  },
+  {
+    "name": "mq7023_gargoyle_pedestal",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_gargoyle_pedestal.w2ent"
+  },
+  {
+    "name": "mq7023_portal_trigger",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/mq7023_portal_trigger.w2ent"
+  },
+  {
+    "name": "mq7023_pale_widow_egg_2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/obsolete/mq7023_pale_widow_egg_2.w2ent"
+  },
+  {
+    "name": "mq7023_pale_widow_egg_3",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/obsolete/mq7023_pale_widow_egg_3.w2ent"
+  },
+  {
+    "name": "mq7023_portal_trigger",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/entities/obsolete/mq7023_portal_trigger.w2ent"
+  },
+  {
+    "name": "mq7024_armor_stand",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7024_home/entities/mq7024_armor_stand.w2ent"
+  },
+  {
+    "name": "mq7024_painting_slot",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7024_home/entities/mq7024_painting_slot.w2ent"
+  },
+  {
+    "name": "mq7024_stables_fake_entity",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7024_home/entities/mq7024_stables_fake_entity.w2ent"
+  },
+  {
+    "name": "mq7024_weapon_stand",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7024_home/entities/mq7024_weapon_stand.w2ent"
+  },
+  {
+    "name": "mq7024_interaction_sit_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7024_home/entities/animation_points/mq7024_interaction_sit_01.w2ent"
+  },
+  {
+    "name": "mq7024_interaction_taste",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7024_home/entities/animation_points/mq7024_interaction_taste.w2ent"
+  },
+  {
+    "name": "th700_bruxa_trial2",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th700_red_wolf/characters/th700_bruxa_trial2.w2ent"
+  },
+  {
+    "name": "th700_ghost_pole_preacher",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th700_red_wolf/entities/th700_ghost_pole_preacher.w2ent"
+  },
+  {
+    "name": "th701_kikimore",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_bear/characters/th701_kikimore.w2ent"
+  },
+  {
+    "name": "th701_lever",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_griffin/entities/th701_lever.w2ent"
+  },
+  {
+    "name": "th701_lever_entity",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_griffin/entities/th701_lever_entity.w2ent"
+  },
+  {
+    "name": "th701_secret_switch",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_griffin/entities/th701_secret_switch.w2ent"
+  },
+  {
+    "name": "th701_cat_guardian",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_wolf/characters/th701_cat_guardian.w2ent"
+  },
+  {
+    "name": "th701_wolf_ruins_fluff_1",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_wolf/entities/th701_wolf_ruins_fluff_1.w2ent"
+  },
+  {
+    "name": "th701_blood_tracks",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_wolf/entities/old/th701_blood_tracks.w2ent"
+  },
+  {
+    "name": "th701_dead_bandit_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_wolf/entities/old/th701_dead_bandit_01.w2ent"
+  },
+  {
+    "name": "th701_dead_bandit_02",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_wolf/entities/old/th701_dead_bandit_02.w2ent"
+  },
+  {
+    "name": "th701_dead_thief",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_wolf/entities/old/th701_dead_thief.w2ent"
+  },
+  {
+    "name": "th701_footprints",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_wolf/entities/old/th701_footprints.w2ent"
+  },
+  {
+    "name": "th701_portal_trigger_appearance",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_wolf/entities/old/th701_portal_trigger_appearance.w2ent"
+  },
+  {
+    "name": "th701_wolf_hansa_chest",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_wolf/entities/old/th701_wolf_hansa_chest.w2ent"
+  },
+  {
+    "name": "mh701_cellar_wall",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_cellar_wall.w2ent"
+  },
+  {
+    "name": "mh701_clue_dead_people_01",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_clue_dead_people_01.w2ent"
+  },
+  {
+    "name": "mh701_dirt_mound_clue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_dirt_mound_clue.w2ent"
+  },
+  {
+    "name": "mh701_egg_appearance",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_egg_appearance.w2ent"
+  },
+  {
+    "name": "mh701_egg_loot",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_egg_loot.w2ent"
+  },
+  {
+    "name": "mh701_egg_stash",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_egg_stash.w2ent"
+  },
+  {
+    "name": "mh701_ground_sound_interact",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_ground_sound_interact.w2ent"
+  },
+  {
+    "name": "mh701_item_sharely_lure_potion",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_item_sharely_lure_potion.w2ent"
+  },
+  {
+    "name": "mh701_lure_placement",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_lure_placement.w2ent"
+  },
+  {
+    "name": "mh701_sharley_dung_stash_loot",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_sharley_dung_stash_loot.w2ent"
+  },
+  {
+    "name": "mh701_sharley_lure_location",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_sharley_lure_location.w2ent"
+  },
+  {
+    "name": "mh701_smell_fx",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/mh701_smell_fx.w2ent"
+  },
+  {
+    "name": "remains__monster_trophy_mh701",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/entities/remains__monster_trophy_mh701.w2ent"
+  },
+  {
+    "name": "alcides_fierabras",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/secondary_npcs/alcides_fierabras.w2ent"
+  },
+  {
+    "name": "lady_of_the_lake",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/secondary_npcs/lady_of_the_lake.w2ent"
+  },
+  {
+    "name": "malatesta",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/secondary_npcs/malatesta.w2ent"
+  },
+  {
+    "name": "sq701_anseis_shield",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/characters/sq701_anseis_shield.w2ent"
+  },
+  {
+    "name": "sq701_tailles_shield",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/characters/sq701_tailles_shield.w2ent"
+  },
+  {
+    "name": "sq701_the_invisible_horse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/characters/sq701_the_invisible_horse.w2ent"
+  },
+  {
+    "name": "sq701_the_invisible_man",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/characters/sq701_the_invisible_man.w2ent"
+  },
+  {
+    "name": "sq701_background_horse",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/sq701_background_horse.w2ent"
+  },
+  {
+    "name": "sq701_geralt_shield_deco",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/sq701_geralt_shield_deco.w2ent"
+  },
+  {
+    "name": "sq701_nest_loot",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/sq701_nest_loot.w2ent"
+  },
+  {
+    "name": "sq701_race_dummy_nilfgaard",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/sq701_race_dummy_nilfgaard.w2ent"
+  },
+  {
+    "name": "sq701_ravix_shield_deco",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/sq701_ravix_shield_deco.w2ent"
+  },
+  {
+    "name": "sq701_sit_down_interaction",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/sq701_sit_down_interaction.w2ent"
+  },
+  {
+    "name": "sq701_table_bench_collision_invisible",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/sq701_table_bench_collision_invisible.w2ent"
+  },
+  {
+    "name": "sq701_table_bench_no_collision",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/sq701_table_bench_no_collision.w2ent"
+  },
+  {
+    "name": "sq701_tutorial_shield_clue",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/sq701_tutorial_shield_clue.w2ent"
+  },
+  {
+    "name": "sq701_nest_spot",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/clues/sq701_nest_spot.w2ent"
+  },
+  {
+    "name": "sq701_shield",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/clues/sq701_shield.w2ent"
+  },
+  {
+    "name": "sq701_shield_decoration",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/clues/sq701_shield_decoration.w2ent"
+  },
+  {
+    "name": "sq701_palmerin_note",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/entities/notes/sq701_palmerin_note.w2ent"
+  },
+  {
+    "name": "sq703_clues_claws",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq703_wine_wars/entities/sq703_clues_claws.w2ent"
+  },
+  {
+    "name": "sq703_fx_scolo_emerge",
+    "category": "Entities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq703_wine_wars/entities/sq703_fx_scolo_emerge.w2ent"
+  },
+  {
+    "name": "skeleton_clue_01",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/skeleton_clue_01.w2ent"
+  },
+  {
+    "name": "skeleton_clue_02",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/skeleton_clue_02.w2ent"
+  },
+  {
+    "name": "skeleton_clue_03",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/skeleton_clue_03.w2ent"
+  },
+  {
+    "name": "skeleton_clue_04",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/skeleton_clue_04.w2ent"
+  },
+  {
+    "name": "skeleton_clue_05",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/skeleton_clue_05.w2ent"
+  },
+  {
+    "name": "skeleton_clue_06",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/skeleton_clue_06.w2ent"
+  },
+  {
+    "name": "th1009_activateable_teleport",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/th1009_activateable_teleport.w2ent"
+  },
+  {
+    "name": "th1009_gemerator_container_copy",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/th1009_gemerator_container_copy.w2ent"
+  },
+  {
+    "name": "th1009_ieronim_corpse",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/th1009_ieronim_corpse.w2ent"
+  },
+  {
+    "name": "th1009_keiras_teleport_copy",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/th1009_keiras_teleport_copy.w2ent"
+  },
+  {
+    "name": "th1009_oillamp_clue_copy",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/th1009_oillamp_clue_copy.w2ent"
+  },
+  {
+    "name": "th1009_peasant_3",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/th1009_peasant_3.w2ent"
+  },
+  {
+    "name": "varin_corpse_th1009",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/varin_corpse_th1009.w2ent"
+  },
+  {
+    "name": "wolf_set_container_armor_schematic_clues",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/wolf_set_container_armor_schematic_clues.w2ent"
+  },
+  {
+    "name": "wolf_set_container_steel_sword_schematic_copy",
+    "category": "Entities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/entities/wolf_set_container_steel_sword_schematic_copy.w2ent"
+  },
+  {
+    "name": "ciri_dlc",
+    "category": "Entities",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/npc_entities/main_npc/ciri_dlc.w2ent"
+  },
+  {
+    "name": "ciri_dlc",
+    "category": "Entities",
+    "origin": "dlc11",
+    "tags": [],
+    "path": "dlc/dlc11/data/characters/npc_entities/main_npc_dlc_off/ciri_dlc.w2ent"
+  },
+  {
+    "name": "mq2052_characters_doppler_mb",
+    "category": "Entities",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/characters/npc_entities/crowd_npc/mq2052_characters_doppler_mb.w2ent"
+  },
+  {
+    "name": "mq2052_characters_doppler_mb",
+    "category": "Entities",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/characters/npc_entities/crowd_npc/model/mq2052_characters_doppler_mb.w2ent"
+  },
+  {
+    "name": "s_01_mg__nekker_shoes",
+    "category": "Entities",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/items/bodyparts/geralt_items/shoes/casual_non_combat/s_01_mg__nekker_shoes.w2ent"
   }
 ]
