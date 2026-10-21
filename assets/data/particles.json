@@ -26291,5 +26291,1972 @@
     "origin": "BaseGame",
     "tags": [],
     "path": "quests/sidequests/skellige/quest_files/sq209_weregild/entities/sq209_cave_wall_disappear.w2p"
+  },
+  {
+    "name": "w3_anniversary_goblet",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/w3_anniversary_goblet.w2p"
+  },
+  {
+    "name": "dust_dof_trailer",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/dust_dof_trailer.w2p"
+  },
+  {
+    "name": "dust_dof_trailer_2",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/dust_dof_trailer_2.w2p"
+  },
+  {
+    "name": "dust_dof_trailer_3",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/dust_dof_trailer_3.w2p"
+  },
+  {
+    "name": "w3_anniversary_shafts1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/w3_anniversary_shafts1.w2p"
+  },
+  {
+    "name": "w3_anniversary_shafts2",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/w3_anniversary_shafts2.w2p"
+  },
+  {
+    "name": "w3_anniversary_shafts3",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/w3_anniversary_shafts3.w2p"
+  },
+  {
+    "name": "w3_anniversary_wine",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/w3_anniversary_wine.w2p"
+  },
+  {
+    "name": "butterfly_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/animals/butterfly/butterfly_fx1.w2p"
+  },
+  {
+    "name": "regis_vamp_smoke_trail2",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/regis/regis_vamp_smoke_trail2.w2p"
+  },
+  {
+    "name": "silvan_ground_decal",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/silvan_ground_decal.w2p"
+  },
+  {
+    "name": "silvan_ground_decal_copy",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/silvan_ground_decal_copy.w2p"
+  },
+  {
+    "name": "silvan_ground_hoofs",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/silvan_ground_hoofs.w2p"
+  },
+  {
+    "name": "silvan_pop",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/silvan_pop.w2p"
+  },
+  {
+    "name": "silvan_teleport",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/silvan_teleport.w2p"
+  },
+  {
+    "name": "silvan_teleport_black",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/silvan_teleport_black.w2p"
+  },
+  {
+    "name": "silvan_teleport_in",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/silvan_teleport_in.w2p"
+  },
+  {
+    "name": "silvan_teleport_in_black",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/silvan_teleport_in_black.w2p"
+  },
+  {
+    "name": "silvan_teleport_suck_in",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/silvan/silvan_teleport_suck_in.w2p"
+  },
+  {
+    "name": "water_mage_tornado_fx2",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/characters/water_mage/water_mage_tornado_fx2.w2p"
+  },
+  {
+    "name": "bob_cs_run_dust_wood",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/common/bob_cs_run_dust_wood.w2p"
+  },
+  {
+    "name": "bob_cs_walk_dust_wood",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/common/bob_cs_walk_dust_wood.w2p"
+  },
+  {
+    "name": "cs701_horse_gallop",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs701_horse/cs701_horse_gallop.w2p"
+  },
+  {
+    "name": "cs704_smoke_moving_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs702_regis_intro/cs704_smoke_moving_fx.w2p"
+  },
+  {
+    "name": "cs703_horse_dust",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs703_wine_exchange/cs703_horse_dust.w2p"
+  },
+  {
+    "name": "dettlaff_smoke_explosion_cs",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_detlaff_morphs/dettlaff_smoke_explosion_cs.w2p"
+  },
+  {
+    "name": "cs704_blood_detlaff_cut_wings",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_detlaff_transforms/cs704_blood_detlaff_cut_wings.w2p"
+  },
+  {
+    "name": "cs704_neck_blood",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_diva_feeding/cs704_neck_blood.w2p"
+  },
+  {
+    "name": "cs704_neck_blood_2",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_diva_feeding/cs704_neck_blood_2.w2p"
+  },
+  {
+    "name": "cs704_clouds_area1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_sex_with_syanna/cs704_clouds_area1.w2p"
+  },
+  {
+    "name": "cs704_cloud_area",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_sex_with_syanna/cs704_cloud_area.w2p"
+  },
+  {
+    "name": "cs_704_smoke_moving_02",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/cs704_sister_intro/cs_704_smoke_moving_02.w2p"
+  },
+  {
+    "name": "q701_disappear_trail",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/cutscenes/q701_15_bruxa/q701_disappear_trail.w2p"
+  },
+  {
+    "name": "dust_dof_outdoor",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/air/dust_dof_outdoor.w2p"
+  },
+  {
+    "name": "gossamer_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/air/gossamer/gossamer_fx.w2p"
+  },
+  {
+    "name": "toxic_gas",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/toxic_gas/toxic_gas.w2p"
+  },
+  {
+    "name": "toxic_gas_ceiling",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/toxic_gas/toxic_gas_ceiling.w2p"
+  },
+  {
+    "name": "p_water_rings_medium",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/p_water_rings_medium.w2p"
+  },
+  {
+    "name": "river_accelerating_foam",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/river_accelerating_foam.w2p"
+  },
+  {
+    "name": "waterfall_bottom_foam",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/waterfall_bottom_foam.w2p"
+  },
+  {
+    "name": "p_splash_small_unlit",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/water/unlit_water_effects/p_splash_small_unlit.w2p"
+  },
+  {
+    "name": "bob_rain_low",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/bob_rain_low.w2p"
+  },
+  {
+    "name": "bob_clear",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/clouds/bob_clear.w2p"
+  },
+  {
+    "name": "bob_cumulus_big",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/clouds/bob_cumulus_big.w2p"
+  },
+  {
+    "name": "bob_heavy_clouds_1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/clouds/bob_heavy_clouds_1.w2p"
+  },
+  {
+    "name": "bob_heavy_clouds_dark",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/clouds/bob_heavy_clouds_dark.w2p"
+  },
+  {
+    "name": "bob_mid_clouds_dark",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/environment/weather/clouds/bob_mid_clouds_dark.w2p"
+  },
+  {
+    "name": "campfire_fire_large_sanctum_cave",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/gameplay/light_sources/campfire_fire_large_sanctum_cave.w2p"
+  },
+  {
+    "name": "light_trail_aerondlight",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/gameplay/magic_sword/aerondight/light_trail_aerondlight.w2p"
+  },
+  {
+    "name": "mutation_2_wounds_aard",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/gameplay/mutation/mutation_2/mutation_2_wounds_aard.w2p"
+  },
+  {
+    "name": "mutation_2_wounds_igni",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/gameplay/mutation/mutation_2/mutation_2_wounds_igni.w2p"
+  },
+  {
+    "name": "mutation_2_wounds_quen",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/gameplay/mutation/mutation_2/mutation_2_wounds_quen.w2p"
+  },
+  {
+    "name": "mutation_2_wounds_yrden",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/gameplay/mutation/mutation_2/mutation_2_wounds_yrden.w2p"
+  },
+  {
+    "name": "barghest_fire_attack_special",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/barghest/barghest_fire_attack_special.w2p"
+  },
+  {
+    "name": "barghest_shadow_form",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/barghest/barghest_shadow_form.w2p"
+  },
+  {
+    "name": "barghest_shadow_form2",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/barghest/barghest_shadow_form2.w2p"
+  },
+  {
+    "name": "bruxa_appear_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/bruxa/bruxa_appear_fx1.w2p"
+  },
+  {
+    "name": "bruxa_cloak_disappear",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/bruxa/bruxa_cloak_disappear.w2p"
+  },
+  {
+    "name": "disappear_trail_up_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/bruxa/disappear_trail_up_fx1.w2p"
+  },
+  {
+    "name": "scream_ground",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/bruxa/scream/scream_ground.w2p"
+  },
+  {
+    "name": "dettlaff_air_push",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_air_push.w2p"
+  },
+  {
+    "name": "dettlaff_dive_bats",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_dive_bats.w2p"
+  },
+  {
+    "name": "dettlaff_dive_bottom_smoke",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_dive_bottom_smoke.w2p"
+  },
+  {
+    "name": "dettlaff_dive_smoke",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_dive_smoke.w2p"
+  },
+  {
+    "name": "dettlaff_glow_spot",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_glow_spot.w2p"
+  },
+  {
+    "name": "dettlaff_loop",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_loop.w2p"
+  },
+  {
+    "name": "dettlaff_monster_ground_impact",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_monster_ground_impact.w2p"
+  },
+  {
+    "name": "dettlaff_monster_ground_warning",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_monster_ground_warning.w2p"
+  },
+  {
+    "name": "dettlaff_monster_jump",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_monster_jump.w2p"
+  },
+  {
+    "name": "dettlaff_smoke_puff",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_smoke_puff.w2p"
+  },
+  {
+    "name": "dettlaff_smoke_puff_3",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_smoke_puff_3.w2p"
+  },
+  {
+    "name": "dettlaff_swarm_attack_blackness",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_swarm_attack_blackness.w2p"
+  },
+  {
+    "name": "dettlaff_swarm_dive_rotating",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_swarm_dive_rotating.w2p"
+  },
+  {
+    "name": "dettlaff_swarm_dive_rotating_02",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_swarm_dive_rotating_02.w2p"
+  },
+  {
+    "name": "dettlaff_swarm_dive_rotating_03",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_swarm_dive_rotating_03.w2p"
+  },
+  {
+    "name": "dettlaff_swarm_fast_emission",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_swarm_fast_emission.w2p"
+  },
+  {
+    "name": "dettlaff_swarm_up_emission",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_swarm_up_emission.w2p"
+  },
+  {
+    "name": "dettlaff_tornado",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_tornado.w2p"
+  },
+  {
+    "name": "dettlaff_tornado_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_tornado_fx1.w2p"
+  },
+  {
+    "name": "dettlaff_vampire_trail",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/dettlaff_vampire_trail.w2p"
+  },
+  {
+    "name": "dettlaff_dive_sphere",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_dive_sphere.w2p"
+  },
+  {
+    "name": "dettlaff_dust",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_dust.w2p"
+  },
+  {
+    "name": "dettlaff_recovery_fast",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_recovery_fast.w2p"
+  },
+  {
+    "name": "dettlaff_recovery_fast_trails",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_recovery_fast_trails.w2p"
+  },
+  {
+    "name": "dettlaff_swarm_dive_bats",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_swarm_dive_bats.w2p"
+  },
+  {
+    "name": "dettlaff_swarm_fast_emission",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_swarm_fast_emission.w2p"
+  },
+  {
+    "name": "dettlaff_teleport_smoke",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_teleport_smoke.w2p"
+  },
+  {
+    "name": "dettlaff_wing_trail",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/dettlaff_wing_trail.w2p"
+  },
+  {
+    "name": "gentle_smoke",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/gentle_smoke.w2p"
+  },
+  {
+    "name": "temp",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/temp.w2p"
+  },
+  {
+    "name": "arena_support",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/arena_support.w2p"
+  },
+  {
+    "name": "blood_in",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/blood_in.w2p"
+  },
+  {
+    "name": "cocoon",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/cocoon.w2p"
+  },
+  {
+    "name": "cocoon_with_dettlaff",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/cocoon_with_dettlaff.w2p"
+  },
+  {
+    "name": "dettlaff_arena_construct_reborn",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/dettlaff_arena_construct_reborn.w2p"
+  },
+  {
+    "name": "dettlaff_arena_support",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/dettlaff_arena_support.w2p"
+  },
+  {
+    "name": "dettlaff_arena_support_ground",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/dettlaff_arena_support_ground.w2p"
+  },
+  {
+    "name": "dettlaff_arena_support_hit",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/dettlaff_arena_support_hit.w2p"
+  },
+  {
+    "name": "dettlaff_avatar_blood_spray",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/dettlaff_avatar_blood_spray.w2p"
+  },
+  {
+    "name": "dettlaff_avatar_dash_outward",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/dettlaff_avatar_dash_outward.w2p"
+  },
+  {
+    "name": "dettlaff_avatar_hit_trail_02",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/dettlaff_avatar_hit_trail_02.w2p"
+  },
+  {
+    "name": "dettlaff_support_end",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/dettlaff_support_end.w2p"
+  },
+  {
+    "name": "dettlaff_support_loading",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/dettlaff_support_loading.w2p"
+  },
+  {
+    "name": "gotoplane_001",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/gotoplane_001.w2p"
+  },
+  {
+    "name": "gotoplane_002",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/gotoplane_002.w2p"
+  },
+  {
+    "name": "gotoplane_003",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/dettlaff/monster/third_phase/gotoplane_003.w2p"
+  },
+  {
+    "name": "echinops_dirt",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/echinops_dirt.w2p"
+  },
+  {
+    "name": "echinops_fire_01",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/echinops_fire_01.w2p"
+  },
+  {
+    "name": "echinops_fire_hit_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/echinops_fire_hit_fx1.w2p"
+  },
+  {
+    "name": "echinops_fire_smoke_after",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/echinops_fire_smoke_after.w2p"
+  },
+  {
+    "name": "echinops_petals_submerge",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/echinops_petals_submerge.w2p"
+  },
+  {
+    "name": "echino_spit_burst",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/echino_spit_burst.w2p"
+  },
+  {
+    "name": "echiops_fire_fx2",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/echiops_fire_fx2.w2p"
+  },
+  {
+    "name": "fire_fx3_copy",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/fire_fx3_copy.w2p"
+  },
+  {
+    "name": "witch_spawn_echinops",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/witch_spawn_echinops.w2p"
+  },
+  {
+    "name": "yrden_character",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/echinops/yrden_character.w2p"
+  },
+  {
+    "name": "cauldron_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/fairytale_witch/cauldron_fx1.w2p"
+  },
+  {
+    "name": "fairytal_witch_liquid_col",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/fairytale_witch/fairytal_witch_liquid_col.w2p"
+  },
+  {
+    "name": "fairytale_fluid_ground",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/fairytale_witch/fairytale_witch_monster/fairytale_fluid_ground.w2p"
+  },
+  {
+    "name": "fairytale_shield_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/fairytale_witch/shield/fairytale_shield_fx1.w2p"
+  },
+  {
+    "name": "distance_attack_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/knight_giant/distance_attack_fx.w2p"
+  },
+  {
+    "name": "distance_attack_stones_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/knight_giant/distance_attack_stones_fx.w2p"
+  },
+  {
+    "name": "ground_drag_dust_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/knight_giant/ground_drag_dust_fx.w2p"
+  },
+  {
+    "name": "ground_drag_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/knight_giant/ground_drag_fx.w2p"
+  },
+  {
+    "name": "oszluzg_fireball",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/oszluzg/oszluzg_fireball.w2p"
+  },
+  {
+    "name": "scolopendromorph_blood_fx2",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/scolopendromorph/blood/scolopendromorph_blood_fx2.w2p"
+  },
+  {
+    "name": "player_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/sharley/dirt_throw/player_fx.w2p"
+  },
+  {
+    "name": "tremor_ground_fx2",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/sharley/dust/tremor_ground_fx2.w2p"
+  },
+  {
+    "name": "spooncollector_spawn_mesh_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/spooncollector/spooncollector_spawn_mesh_fx1.w2p"
+  },
+  {
+    "name": "spooncollectror_appear_fast",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/spooncollector/spooncollectror_appear_fast.w2p"
+  },
+  {
+    "name": "teleport_dust",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/spriggan/disappear_teleport/teleport_dust.w2p"
+  },
+  {
+    "name": "summon_hand_end_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/wight/summon_hand_end_fx.w2p"
+  },
+  {
+    "name": "summon_hand_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/wight/summon_hand_fx.w2p"
+  },
+  {
+    "name": "wight_spawn_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/wight/wight_spawn_fx.w2p"
+  },
+  {
+    "name": "wight_spawn_fx_fast",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/wight/wight_spawn_fx_fast.w2p"
+  },
+  {
+    "name": "spooncolleactor_body",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/wight/spooncollector_appear/spooncolleactor_body.w2p"
+  },
+  {
+    "name": "spooncollector_appear_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/wight/spooncollector_appear/spooncollector_appear_fx1.w2p"
+  },
+  {
+    "name": "spooncollector_disappear_fx1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/monsters/wight/spooncollector_appear/spooncollector_disappear_fx1.w2p"
+  },
+  {
+    "name": "ground_trail_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/mq7017/characters/ground_trail_fx.w2p"
+  },
+  {
+    "name": "spirit_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/mq7017/characters/spirit_fx.w2p"
+  },
+  {
+    "name": "mq7017_potion_vapours",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/mq7017/meet_hermit/mq7017_potion_vapours.w2p"
+  },
+  {
+    "name": "q701_21_dripping_blood",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q701/q701_21_dripping_blood.w2p"
+  },
+  {
+    "name": "q701_smoke_house_01",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q701/q701_smoke_house_01.w2p"
+  },
+  {
+    "name": "fire_large",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q703/burning_ravello/fire_large.w2p"
+  },
+  {
+    "name": "q703_dust_puff",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q703/burning_ravello/q703_dust_puff.w2p"
+  },
+  {
+    "name": "q703_dolphin_jump",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q703/mandragora/q703_dolphin_jump.w2p"
+  },
+  {
+    "name": "q704_clouds_flat",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/q704_clouds_flat.w2p"
+  },
+  {
+    "name": "waterfall_crest",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/gravity_cave/waterfall_crest.w2p"
+  },
+  {
+    "name": "window_fire_small_pillar",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q704/siege_burning/window_fire_small_pillar.w2p"
+  },
+  {
+    "name": "q705_bat_arena_hole",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q705/dettlaff_fight/q705_bat_arena_hole.w2p"
+  },
+  {
+    "name": "q705_bat_ribbons1",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/fx/quest/q705/dettlaff_fight/q705_bat_ribbons1.w2p"
+  },
+  {
+    "name": "q702_regis_poof",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/entities/q702_regis_poof.w2p"
+  },
+  {
+    "name": "regis_fx_disappear",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/entities/regis_fx_disappear.w2p"
+  },
+  {
+    "name": "q704_ft_cloud",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/entities/q704_ft_cloud.w2p"
+  },
+  {
+    "name": "q704_window_on_fire_fx",
+    "category": "Particles",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/entities/q704_window_on_fire_fx.w2p"
+  },
+  {
+    "name": "ghost_fx_disappear_streaks",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/base_entities/ghost_base/fx/ghost_fx_disappear_streaks.w2p"
+  },
+  {
+    "name": "ghost_fx_disappear_white",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/base_entities/ghost_base/fx/ghost_fx_disappear_white.w2p"
+  },
+  {
+    "name": "eye",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/animals/demonic_horse/model/eye.w2p"
+  },
+  {
+    "name": "flies",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/animals/demonic_horse/model/flies.w2p"
+  },
+  {
+    "name": "smoke",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/characters/models/animals/demonic_horse/model/smoke.w2p"
+  },
+  {
+    "name": "butterfly_fx",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/animals/butterfly/butterfly_fx.w2p"
+  },
+  {
+    "name": "caretaker_special_trail",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/caretaker/caretaker_special_trail.w2p"
+  },
+  {
+    "name": "drain_energy_force_pc",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/caretaker/drain_energy_force_pc.w2p"
+  },
+  {
+    "name": "ground_pre_fx",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/caretaker/heavy_attack/ground_pre_fx.w2p"
+  },
+  {
+    "name": "heavy_attack_caretaker_v3",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/caretaker/heavy_attack/heavy_attack_caretaker_v3.w2p"
+  },
+  {
+    "name": "sand_coil_fx2",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/hakland_mage/sand_coil/sand_coil_fx2.w2p"
+  },
+  {
+    "name": "sand_coil_fx3",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/hakland_mage/sand_coil/sand_coil_fx3.w2p"
+  },
+  {
+    "name": "sand_trap_pre_fx1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/hakland_mage/sand_trap/sand_trap_pre_fx1.w2p"
+  },
+  {
+    "name": "sand_trap_yrden_hit",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/hakland_mage/sand_trap/sand_trap_yrden_hit.w2p"
+  },
+  {
+    "name": "hakland_tornado_blood",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/hakland_mage/tornado/hakland_tornado_blood.w2p"
+  },
+  {
+    "name": "olgierd_appear_fast",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/olgierd/olgierd_appear_fast.w2p"
+  },
+  {
+    "name": "olgierd_disappear_fx2",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/olgierd/olgierd_disappear_fx2.w2p"
+  },
+  {
+    "name": "olgierd_start_03",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/olgierd/olgierd_start_03.w2p"
+  },
+  {
+    "name": "olgierd_energy_blast1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/olgierd/energy_blast/olgierd_energy_blast1.w2p"
+  },
+  {
+    "name": "olgierd_energy_blast2",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/olgierd/energy_blast/olgierd_energy_blast2.w2p"
+  },
+  {
+    "name": "prepare_attack",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/characters/olgierd/special_weapon_trail/prepare_attack.w2p"
+  },
+  {
+    "name": "c2_sword_blood",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/additional/marketing/hos_trailer/c2_sword_blood.w2p"
+  },
+  {
+    "name": "cs601_blood_squirt",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/cs601_decapitation/cs601_blood_squirt.w2p"
+  },
+  {
+    "name": "cs601_blood_cut",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/cs601_immortal_b/cs601_blood_cut.w2p"
+  },
+  {
+    "name": "cs602_hand_drips",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/cs602_sex_with_shani/cs602_hand_drips.w2p"
+  },
+  {
+    "name": "cs605_flickering_light_2",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/cs605_merchant_loses/cs605_flickering_light_2.w2p"
+  },
+  {
+    "name": "cs605_underwater_shot2",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/cs605_merchant_loses/cs605_underwater_shot2.w2p"
+  },
+  {
+    "name": "q604_angry_fx1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/q604_10_study/q604_angry_fx1.w2p"
+  },
+  {
+    "name": "candle_flame_freeze",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/q605_01_mirror_in_oxenfurt/candle_flame_freeze.w2p"
+  },
+  {
+    "name": "q605_cast",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/cutscenes/q605_01_mirror_in_oxenfurt/q605_cast.w2p"
+  },
+  {
+    "name": "q604_inside_blizzard",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/environment/q604_inside_blizzard.w2p"
+  },
+  {
+    "name": "demonic_possession_end",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/gameplay/states/demonic_possession/demonic_possession_end.w2p"
+  },
+  {
+    "name": "demonic_possession_head",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/gameplay/states/demonic_possession/demonic_possession_head.w2p"
+  },
+  {
+    "name": "demonic_possession_start",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/gameplay/states/demonic_possession/demonic_possession_start.w2p"
+  },
+  {
+    "name": "glyphword_refraction_fx1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/glyphword/glyphword_reflection/glyphword_refraction_fx1.w2p"
+  },
+  {
+    "name": "glyphword_refraction_fx3",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/glyphword/glyphword_reflection/glyphword_refraction_fx3.w2p"
+  },
+  {
+    "name": "drain_painting_fx1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/monsters/nightwraith_iris/drain_painting_fx1.w2p"
+  },
+  {
+    "name": "q601_geralt_mark_burn",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q601/q601_geralt_mark_burn.w2p"
+  },
+  {
+    "name": "q601_toxic_gas_explode",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q601/q601_toxic_gas_explode.w2p"
+  },
+  {
+    "name": "q601_fire_area_1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q601/q601_house_on_fire/q601_fire_area_1.w2p"
+  },
+  {
+    "name": "q601_fire_embers",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q601/q601_house_on_fire/q601_fire_embers.w2p"
+  },
+  {
+    "name": "q601_fire_pillar",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q601/q601_house_on_fire/q601_fire_pillar.w2p"
+  },
+  {
+    "name": "q602_possession_end_head",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q602/q602_possession_end_head.w2p"
+  },
+  {
+    "name": "q602_possession_end_omni",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q602/q602_possession_end_omni.w2p"
+  },
+  {
+    "name": "q602_possession_start_head",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q602/q602_possession_start_head.w2p"
+  },
+  {
+    "name": "q602_possession_start_omni",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q602/q602_possession_start_omni.w2p"
+  },
+  {
+    "name": "q602_blood_spray",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q602/q602_05_crypt_salt/q602_blood_spray.w2p"
+  },
+  {
+    "name": "q602_apple_bite",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q602/q602_17_wedding_finale/q602_apple_bite.w2p"
+  },
+  {
+    "name": "q603_08_big_dancing_star",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q603/08_demo_dwarf/q603_08_big_dancing_star.w2p"
+  },
+  {
+    "name": "q603_08_falling_straw",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q603/08_demo_dwarf/q603_08_falling_straw.w2p"
+  },
+  {
+    "name": "cs603_gate_dust",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q603/usm_kwinto/cs603_gate_dust.w2p"
+  },
+  {
+    "name": "ethernal_change_form_fx1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q604/ethernal_change_form_fx1.w2p"
+  },
+  {
+    "name": "q604_demonic_dog_fx",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q604/q604_demonic_dog_fx.w2p"
+  },
+  {
+    "name": "q604_evil_place_2",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q604/q604_evil_place_2.w2p"
+  },
+  {
+    "name": "q604_painting_effect",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q604/q604_painting_effect.w2p"
+  },
+  {
+    "name": "q604_blizzard",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q604/frozen_fountain/q604_blizzard.w2p"
+  },
+  {
+    "name": "q605_hand_cut",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/quest/q605/06_olgierd_thanks/q605_hand_cut.w2p"
+  },
+  {
+    "name": "drain_energy_force_stamina",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_10/drain_energy_force_stamina.w2p"
+  },
+  {
+    "name": "geralt_stamina_fx1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_10/geralt_stamina_fx1.w2p"
+  },
+  {
+    "name": "runeword_fx",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_10/runeword_fx.w2p"
+  },
+  {
+    "name": "runeword_fx_block_stamina",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_10/runeword_fx_block_stamina.w2p"
+  },
+  {
+    "name": "runeword_20_fx",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_20/runeword_20_fx.w2p"
+  },
+  {
+    "name": "runeword_20_fx1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_20/runeword_20_fx1.w2p"
+  },
+  {
+    "name": "runeword_20_fx2",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_20/runeword_20_fx2.w2p"
+  },
+  {
+    "name": "runeword_4_fx",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_4/runeword_4_fx.w2p"
+  },
+  {
+    "name": "runeword_4_glow",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_4/runeword_4_glow.w2p"
+  },
+  {
+    "name": "runeword_4_hand1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_4/runeword_4_hand1.w2p"
+  },
+  {
+    "name": "runeword_4_hand2",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/runeword/runeword_4/runeword_4_hand2.w2p"
+  },
+  {
+    "name": "igni_blast_360",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/signs/igni_blast/igni_blast_360.w2p"
+  },
+  {
+    "name": "igni_blast_360_melt",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/signs/igni_blast/igni_blast_360_melt.w2p"
+  },
+  {
+    "name": "igni_blast_360_power",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/signs/igni_blast/igni_blast_360_power.w2p"
+  },
+  {
+    "name": "igni_blast_360_superpower",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/signs/igni_blast/igni_blast_360_superpower.w2p"
+  },
+  {
+    "name": "decapitation_smoke",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/trailer/decapitation_smoke.w2p"
+  },
+  {
+    "name": "waterfall_strips",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/water/waterfall/waterfall_strips.w2p"
+  },
+  {
+    "name": "waterfall_strips_wide1",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/water/waterfall/waterfall_strips_wide1.w2p"
+  },
+  {
+    "name": "waterfall_strips_wide2",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/water/waterfall/waterfall_strips_wide2.w2p"
+  },
+  {
+    "name": "weapon_runeword_aard",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/weapons/runeword/weapon_runeword_aard.w2p"
+  },
+  {
+    "name": "weapon_runeword_axii",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/weapons/runeword/weapon_runeword_axii.w2p"
+  },
+  {
+    "name": "weapon_runeword_igni",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/weapons/runeword/weapon_runeword_igni.w2p"
+  },
+  {
+    "name": "weapon_runeword_quen",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/weapons/runeword/weapon_runeword_quen.w2p"
+  },
+  {
+    "name": "weapon_runeword_yrden",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/weapons/runeword/weapon_runeword_yrden.w2p"
+  },
+  {
+    "name": "hakland_staff",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/weapons/trails/hakland_staff.w2p"
+  },
+  {
+    "name": "heavy_trail_fx_big_range",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/weapons/trails/special/heavy_trail_fx_big_range.w2p"
+  },
+  {
+    "name": "heavy_trail_fx_big_smoke",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/weapons/trails/special/heavy_trail_fx_big_smoke.w2p"
+  },
+  {
+    "name": "light_trail_fx_big_range",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/fx/weapons/trails/special/light_trail_fx_big_range.w2p"
+  },
+  {
+    "name": "q603_apple_explode",
+    "category": "Particles",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/entities/q603_apple_explode.w2p"
+  },
+  {
+    "name": "fx_lt_forest",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/environment/area_camera_effects/fx_lt_forest.w2p"
+  },
+  {
+    "name": "fx_lt_hill",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/environment/area_camera_effects/fx_lt_hill.w2p"
+  },
+  {
+    "name": "fx_lt_marsh",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/environment/area_camera_effects/fx_lt_marsh.w2p"
+  },
+  {
+    "name": "fx_lt_meadow",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/environment/area_camera_effects/fx_lt_meadow.w2p"
+  },
+  {
+    "name": "fx_lt_urban",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/environment/area_camera_effects/fx_lt_urban.w2p"
+  },
+  {
+    "name": "fx_nt_fog",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/environment/area_camera_effects/fx_nt_fog.w2p"
+  },
+  {
+    "name": "strong_attack_buff_fx",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/gameplay/armor_sets/lynx_set_ability1/strong_attack_buff_fx.w2p"
+  },
+  {
+    "name": "strong_attack_buff_hit_fx",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/gameplay/armor_sets/lynx_set_ability1/strong_attack_buff_hit_fx.w2p"
+  },
+  {
+    "name": "fugas_fire_explode_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/monsters/fugas/fugas_fire_explode_w3re.w2p"
+  },
+  {
+    "name": "aard_release_fx1_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/aard/charge_release/aard_release_fx1_w3re.w2p"
+  },
+  {
+    "name": "aard_release_ground_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/aard/charge_release/aard_release_ground_w3re.w2p"
+  },
+  {
+    "name": "aard_cone_lv0_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/aard/lv0/aard_cone_lv0_w3re.w2p"
+  },
+  {
+    "name": "aard_cast",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/aard/lv1/aard_cast.w2p"
+  },
+  {
+    "name": "aard_ground_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/aard/lv1/aard_ground_w3re.w2p"
+  },
+  {
+    "name": "axii_friendly_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/axii/axii_friendly_w3re.w2p"
+  },
+  {
+    "name": "axii_cast_ready_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/axii/ver_1/axii_cast_ready_w3re.w2p"
+  },
+  {
+    "name": "axii_confusion_head_old",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/axii/ver_1/axii_confusion_head_old.w2p"
+  },
+  {
+    "name": "axxi_cast_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/axii/ver_1/axxi_cast_w3re.w2p"
+  },
+  {
+    "name": "burn_line_flames_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/igni/burn/burn_line_flames_w3re.w2p"
+  },
+  {
+    "name": "burn_line_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/igni/burn/burn_line_w3re.w2p"
+  },
+  {
+    "name": "igni_burn_colision_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/igni/burn/igni_burn_colision_w3re.w2p"
+  },
+  {
+    "name": "igni_cast",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/igni/cone/igni_cast.w2p"
+  },
+  {
+    "name": "igni_cone_fx_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/igni/cone/igni_cone_fx_w3re.w2p"
+  },
+  {
+    "name": "quen_sphere_extras_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/quen/ver1/quen_sphere_extras_w3re.w2p"
+  },
+  {
+    "name": "yrden_cast_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/yrden/lv1/yrden_cast_w3re.w2p"
+  },
+  {
+    "name": "yrden_area_fx_v2_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/yrden/lv2/yrden_area_fx_v2_w3re.w2p"
+  },
+  {
+    "name": "yrden_beam_lv2_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/yrden/lv2/yrden_beam_lv2_w3re.w2p"
+  },
+  {
+    "name": "yrden_streak_center_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/yrden/lv2/yrden_streak_center_w3re.w2p"
+  },
+  {
+    "name": "yrden_streak_long_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/yrden/lv2/yrden_streak_long_w3re.w2p"
+  },
+  {
+    "name": "yrden_streak_short_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/yrden/lv2/yrden_streak_short_w3re.w2p"
+  },
+  {
+    "name": "yrden_rune_shock_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/signs/yrden/lv3/yrden_rune_shock_w3re.w2p"
+  },
+  {
+    "name": "aftershock_fx",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/skills/aftershock/aftershock_fx.w2p"
+  },
+  {
+    "name": "maiming_shot_crossbow_fx",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/skills/maiming_shot/maiming_shot_crossbow_fx.w2p"
+  },
+  {
+    "name": "resonance_fx",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/skills/resonance/resonance_fx.w2p"
+  },
+  {
+    "name": "toxic_shock_fx",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/skills/toxic_shock/toxic_shock_fx.w2p"
+  },
+  {
+    "name": "newskill_fx_blue_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/weapons/trails/special/newskill_fx_blue_w3re.w2p"
+  },
+  {
+    "name": "newskill_fx_green_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/weapons/trails/special/newskill_fx_green_w3re.w2p"
+  },
+  {
+    "name": "newskill_fx_purple_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/weapons/trails/special/newskill_fx_purple_w3re.w2p"
+  },
+  {
+    "name": "newskill_fx_red_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/weapons/trails/special/newskill_fx_red_w3re.w2p"
+  },
+  {
+    "name": "newskill_fx_yellow_w3re",
+    "category": "Particles",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "fx/weapons/trails/special/newskill_fx_yellow_w3re.w2p"
   }
 ]

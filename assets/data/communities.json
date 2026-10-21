@@ -17092,5 +17092,516 @@
     "origin": "BaseGame",
     "tags": [],
     "path": "quests/sidequests/skellige/quest_files/sq210_impossible_tower/spawnsets/sq210_tower_ai.w2comm"
+  },
+  {
+    "name": "q703_dt_bandit_01",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/spawnsets/q703_dt_bandit_01.w2comm"
+  },
+  {
+    "name": "q701_nml_bandits",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/spawnsets/q701_nml_bandits.w2comm"
+  },
+  {
+    "name": "q701_officer",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/spawnsets/q701_officer.w2comm"
+  },
+  {
+    "name": "q701_sharley_children",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/spawnsets/q701_sharley_children.w2comm"
+  },
+  {
+    "name": "q701_village_background_actors",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q701_wine_festival/spawnsets/q701_village_background_actors.w2comm"
+  },
+  {
+    "name": "q702_banker",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q702_hunt/spawnsets/q702_banker.w2comm"
+  },
+  {
+    "name": "q703_damien",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/spawnsets/q703_damien.w2comm"
+  },
+  {
+    "name": "q703_imp",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/spawnsets/q703_imp.w2comm"
+  },
+  {
+    "name": "q703_premandragora_bandits",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q703_all_for_one/spawnsets/pre_mandragora_bandits/q703_premandragora_bandits.w2comm"
+  },
+  {
+    "name": "q704_ft_beast",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/spawnsets/q704_ft_beast.w2comm"
+  },
+  {
+    "name": "q704_ft_beauty",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/spawnsets/q704_ft_beauty.w2comm"
+  },
+  {
+    "name": "q704_ft_bridge_troll",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/spawnsets/q704_ft_bridge_troll.w2comm"
+  },
+  {
+    "name": "q704_ft_donkey",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/spawnsets/q704_ft_donkey.w2comm"
+  },
+  {
+    "name": "q704_ft_echinops",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/spawnsets/q704_ft_echinops.w2comm"
+  },
+  {
+    "name": "q704_ft_honey_bear",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/spawnsets/q704_ft_honey_bear.w2comm"
+  },
+  {
+    "name": "q704_ft_little_mermaid",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/spawnsets/q704_ft_little_mermaid.w2comm"
+  },
+  {
+    "name": "q704_ft_unicorn_geralt",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704b_fairy_tale/spawnsets/q704_ft_unicorn_geralt.w2comm"
+  },
+  {
+    "name": "q704_audiance_courtyard_guards",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/spawnsets/q704_audiance_courtyard_guards.w2comm"
+  },
+  {
+    "name": "q704_gravity_cave_monster_01",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/spawnsets/q704_gravity_cave_monster_01.w2comm"
+  },
+  {
+    "name": "q704_gravity_cave_monster_02",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/spawnsets/q704_gravity_cave_monster_02.w2comm"
+  },
+  {
+    "name": "q704_killed_soldier_scene",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/spawnsets/q704_killed_soldier_scene.w2comm"
+  },
+  {
+    "name": "q704_palace_killed_servant",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/spawnsets/q704_palace_killed_servant.w2comm"
+  },
+  {
+    "name": "q704_talking_soldiers",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q704_truth/spawnsets/q704_talking_soldiers.w2comm"
+  },
+  {
+    "name": "q705_mandragora_monsters",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/spawnsets/q705_mandragora_monsters.w2comm"
+  },
+  {
+    "name": "q705_succub",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/main_quests/quest_files/q705_epilog/spawnsets/q705_succub.w2comm"
+  },
+  {
+    "name": "mq7001_fake_community",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/spawnsets/mq7001_fake_community.w2comm"
+  },
+  {
+    "name": "mq7001_merchant",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/spawnsets/mq7001_merchant.w2comm"
+  },
+  {
+    "name": "mq7001_thugs",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7001_rest_in_peace/spawnsets/mq7001_thugs.w2comm"
+  },
+  {
+    "name": "mq7002_springgan",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7002_stubborn_knight/spawnsets/mq7002_springgan.w2comm"
+  },
+  {
+    "name": "mq7004_storyteller",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7004_bleeding_tree/spawnsets/mq7004_storyteller.w2comm"
+  },
+  {
+    "name": "mq7020_deer",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7020_songs_of_glory/spawnsets/mq7020_deer.w2comm"
+  },
+  {
+    "name": "mq7023_gargoyle_2",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/spawnsets/mq7023_gargoyle_2.w2comm"
+  },
+  {
+    "name": "mq7023_moreau",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/mq7023_mutations/spawnsets/mq7023_moreau.w2comm"
+  },
+  {
+    "name": "th700_arachas_troll",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th700_red_wolf/spawnsets/th700_arachas_troll.w2comm"
+  },
+  {
+    "name": "th700_preacher_ghost",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th700_red_wolf/spawnsets/th700_preacher_ghost.w2comm"
+  },
+  {
+    "name": "th700_preacher_lamp",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th700_red_wolf/spawnsets/th700_preacher_lamp.w2comm"
+  },
+  {
+    "name": "th700_vault_guardian_1",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th700_red_wolf/spawnsets/th700_vault_guardian_1.w2comm"
+  },
+  {
+    "name": "th700_vault_guardian_2",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th700_red_wolf/spawnsets/th700_vault_guardian_2.w2comm"
+  },
+  {
+    "name": "th701_kikimore_cave",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_bear/spawnsets/th701_kikimore_cave.w2comm"
+  },
+  {
+    "name": "th701_kikimore_moreau_cave",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/minor_quests/quest_files/th701_archmastergear/th701_griffin/spawnsets/th701_kikimore_moreau_cave.w2comm"
+  },
+  {
+    "name": "mh701_mannes_smol",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/community_files/mh701_mannes_smol.w2comm"
+  },
+  {
+    "name": "mh701_sharley_kikimore",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/community_files/mh701_sharley_kikimore.w2comm"
+  },
+  {
+    "name": "mh701_sharley_worker",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/monster_hunts/quest_files/mh701_tectonic_terror/community_files/mh701_sharley_worker.w2comm"
+  },
+  {
+    "name": "alcides_fierabras",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/secondary_npcs/community_files/alcides_fierabras.w2comm"
+  },
+  {
+    "name": "anna_henrietta_retinue",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/secondary_npcs/community_files/anna_henrietta_retinue.w2comm"
+  },
+  {
+    "name": "lady_of_the_lake",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/secondary_npcs/community_files/lady_of_the_lake.w2comm"
+  },
+  {
+    "name": "malatesta",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/secondary_npcs/community_files/malatesta.w2comm"
+  },
+  {
+    "name": "prophetess",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/secondary_npcs/community_files/prophetess.w2comm"
+  },
+  {
+    "name": "tremblay",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/secondary_npcs/community_files/tremblay.w2comm"
+  },
+  {
+    "name": "sq701_mountain_lions",
+    "category": "Communities",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/quests/sidequests/quest_files/sq701_tournament/spawnsets/monsters/sq701_mountain_lions.w2comm"
+  },
+  {
+    "name": "th1009_ghosts",
+    "category": "Communities",
+    "origin": "dlc10",
+    "tags": [],
+    "path": "dlc/dlc10/data/quests/storyphase/th1009_ghosts.w2comm"
+  },
+  {
+    "name": "mq2052_bear",
+    "category": "Communities",
+    "origin": "dlc12",
+    "tags": [],
+    "path": "dlc/dlc12/data/quest/quest_files/community/mq2052_bear.w2comm"
+  },
+  {
+    "name": "sq107_bandits_village",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_bandits_village.w2comm"
+  },
+  {
+    "name": "sq107_bandits_village_group2",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_bandits_village_group2.w2comm"
+  },
+  {
+    "name": "sq107_bandit_harassers",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_bandit_harassers.w2comm"
+  },
+  {
+    "name": "sq107_bandit_vlge_talker",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_bandit_vlge_talker.w2comm"
+  },
+  {
+    "name": "sq107_horses",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_horses.w2comm"
+  },
+  {
+    "name": "sq107_monsters_road",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_monsters_road.w2comm"
+  },
+  {
+    "name": "sq107_road_monsters_1",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_road_monsters_1.w2comm"
+  },
+  {
+    "name": "sq107_road_monsters_2",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_road_monsters_2.w2comm"
+  },
+  {
+    "name": "sq107_test",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_test.w2comm"
+  },
+  {
+    "name": "sq107_vault_mnstrs_bot",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_vault_mnstrs_bot.w2comm"
+  },
+  {
+    "name": "sq107_vault_mnstrs_mid",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_vault_mnstrs_mid.w2comm"
+  },
+  {
+    "name": "sq107_vault_mnstrs_top",
+    "category": "Communities",
+    "origin": "dlc7",
+    "tags": [],
+    "path": "dlc/dlc7/data/spawnsets/sq107_vault_mnstrs_top.w2comm"
+  },
+  {
+    "name": "q603_cyclops",
+    "category": "Communities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/spawnsets/q603_cyclops.w2comm"
+  },
+  {
+    "name": "q603_heist_redanian_soldiers_wave_01",
+    "category": "Communities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/spawnsets/q603_heist_redanian_soldiers_wave_01.w2comm"
+  },
+  {
+    "name": "q603_heist_redanian_soldiers_wave_02",
+    "category": "Communities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q603_bank/spawnsets/q603_heist_redanian_soldiers_wave_02.w2comm"
+  },
+  {
+    "name": "q604_iris_masterbedroom",
+    "category": "Communities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/spawnsets/q604_iris_masterbedroom.w2comm"
+  },
+  {
+    "name": "q604_iris_parlour_com",
+    "category": "Communities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/spawnsets/q604_iris_parlour_com.w2comm"
+  },
+  {
+    "name": "q604_iris_test",
+    "category": "Communities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/spawnsets/q604_iris_test.w2comm"
+  },
+  {
+    "name": "q604_shade1_run_com",
+    "category": "Communities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/spawnsets/q604_shade1_run_com.w2comm"
+  },
+  {
+    "name": "q604_shade2_run_com",
+    "category": "Communities",
+    "origin": "HoS",
+    "tags": [],
+    "path": "dlc/ep1/data/quests/quest_files/q604_mansion/spawnsets/q604_shade2_run_com.w2comm"
+  },
+  {
+    "name": "q1_engine_combat",
+    "category": "Communities",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "engine/reference_level/spawnsets/q1_engine_combat.w2comm"
   }
-]
+}
