@@ -181682,5 +181682,3505 @@
     "origin": "BaseGame",
     "tags": [],
     "path": "environment/decorations/monster_nests/rotfiend_nest/rotfiend_nest_part3_censored.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_robbery",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/h_08_mg__geralt_robbery.w2mesh"
+  },
+  {
+    "name": "b_01_hd__black_rideable_fast_no_harness",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/animals/horse/draft/model/b_01_hd__black_rideable_fast_no_harness.w2mesh"
+  },
+  {
+    "name": "b_01_hd__fire_horse_fast",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/animals/horse/draft/model/b_01_hd__fire_horse_fast.w2mesh"
+  },
+  {
+    "name": "b_01_hd__fire_horse_fast_harness",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/animals/horse/draft/model/b_01_hd__fire_horse_fast_harness.w2mesh"
+  },
+  {
+    "name": "b_03_hd__fire_horse",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/animals/horse/draft/model/b_03_hd__fire_horse.w2mesh"
+  },
+  {
+    "name": "b_03_hd__fire_horse_harness",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/animals/horse/draft/model/b_03_hd__fire_horse_harness.w2mesh"
+  },
+  {
+    "name": "hb_13_ma__beard_10_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "characters/models/common/man_average/heads/h_13_ma__novigrad_citizen/hb_13_ma__beard_10_01.w2mesh"
+  },
+  {
+    "name": "i_07_ma__medic",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "characters/models/crowd_npc/medic/items/model/i_07_ma__medic.w2mesh"
+  },
+  {
+    "name": "ag_02_ma__nilfgaard_squire",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "characters/models/crowd_npc/nilfgaard_squire/arms/model/ag_02_ma__nilfgaard_squire.w2mesh"
+  },
+  {
+    "name": "t3dl_03_ma__novigrad_citizen_p04",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "characters/models/crowd_npc/novigrad_citizen/torso/model/t3dl_03_ma__novigrad_citizen_p04.w2mesh"
+  },
+  {
+    "name": "i_01_mb__novigrad_cloak",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "characters/models/crowd_npc/novigrad_cloaks/items/model/i_01_mb__novigrad_cloak.w2mesh"
+  },
+  {
+    "name": "t3a_03_ma__skellige_warrior_lvl3",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "characters/models/crowd_npc/skellige_warrior_lvl3/torso/model/t3a_03_ma__skellige_warrior_lvl3.w2mesh"
+  },
+  {
+    "name": "a_01a__mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/a_01a__mg__legacy.w2mesh"
+  },
+  {
+    "name": "a_01_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/a_01_mg__legacy.w2mesh"
+  },
+  {
+    "name": "g_01_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/g_01_mg__legacy.w2mesh"
+  },
+  {
+    "name": "i_01a_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/i_01a_mg__legacy.w2mesh"
+  },
+  {
+    "name": "i_01_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/i_01_mg__legacy.w2mesh"
+  },
+  {
+    "name": "l_01a_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/l_01a_mg__legacy.w2mesh"
+  },
+  {
+    "name": "l_01_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/l_01_mg__legacy.w2mesh"
+  },
+  {
+    "name": "pendant_01_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/pendant_01_mg__legacy.w2mesh"
+  },
+  {
+    "name": "s_01_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/s_01_mg__legacy.w2mesh"
+  },
+  {
+    "name": "t_01a_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/t_01a_mg__legacy.w2mesh"
+  },
+  {
+    "name": "t_01_mg__legacy",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/armor/armor__legacy/t_01_mg__legacy.w2mesh"
+  },
+  {
+    "name": "c_18_mg__hair",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/coif/model/c_18_mg__hair.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/h_08_mg__geralt.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_beard",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/h_08_mg__geralt_beard.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_robbery_tattoo",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/h_08_mg__geralt_robbery_tattoo.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_shave_01",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/h_08_mg__geralt_shave_01.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_shave_02",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/h_08_mg__geralt_shave_02.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_shave_03",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/h_08_mg__geralt_shave_03.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_tattoo",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/h_08_mg__geralt_tattoo.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_tattoo_beard",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/h_08_mg__geralt_tattoo_beard.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_mark",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/ep1_mark/h_08_mg__geralt_mark.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_mark_beard",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/ep1_mark/h_08_mg__geralt_mark_beard.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_mark_tattoo",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/ep1_mark/h_08_mg__geralt_mark_tattoo.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_mark_tattoo_beard",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/ep1_mark/h_08_mg__geralt_mark_tattoo_beard.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_robbery_mark",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/ep1_mark/h_08_mg__geralt_robbery_mark.w2mesh"
+  },
+  {
+    "name": "h_08_mg__geralt_robbery_mark_tattoo",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/ep1_mark/h_08_mg__geralt_robbery_mark_tattoo.w2mesh"
+  },
+  {
+    "name": "i_01_mg__wolf_mask",
+    "category": "Meshes",
+    "origin": "BaseGame",
+    "tags": [],
+    "path": "characters/models/geralt/head/model/wolf_mask/i_01_mg__wolf_mask.w2mesh"
+  },
+  {
+    "name": "t_02__siren_morph1_human",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "characters/models/monsters/siren/model/t_02__siren_morph1_human.w2mesh"
+  },
+  {
+    "name": "t_02__siren_morph2_monster",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "characters/models/monsters/siren/model/t_02__siren_morph2_monster.w2mesh"
+  },
+  {
+    "name": "t_01__dolphin_under",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/animals/dolphin/model/t_01__dolphin_under.w2mesh"
+  },
+  {
+    "name": "oriole_morph",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/animals/oriole/model/oriole_morph.w2mesh"
+  },
+  {
+    "name": "c_01_ma__hair",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_average/hair/model/c_01_ma__hair.w2mesh"
+  },
+  {
+    "name": "c_01_ma__hair_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_average/hair/model/c_01_ma__hair_02.w2mesh"
+  },
+  {
+    "name": "c_01_ma__hair_redo",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_average/hair/model/c_01_ma__hair_redo.w2mesh"
+  },
+  {
+    "name": "c_24_ma__hair_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_average/hair/model/c_24_ma__hair_02.w2mesh"
+  },
+  {
+    "name": "h_ma__neck_transition_mq7017_knight_bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_average/heads/h_01_ma__mq7017_knight_bob/h_ma__neck_transition_mq7017_knight_bob.w2mesh"
+  },
+  {
+    "name": "i_01_ma__blazej__glasses",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_average/heads/h_02_ma__bob_blazej/i_01_ma__blazej__glasses.w2mesh"
+  },
+  {
+    "name": "he_01_mb__dlc",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_big/heads/h_01_mb__ep1_bob/he_01_mb__dlc.w2mesh"
+  },
+  {
+    "name": "h_01_mb__dlc",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_big/heads/h_01_mb__ep1_bob/h_01_mb__dlc.w2mesh"
+  },
+  {
+    "name": "h_34_mb__skellige_villager_q703",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_big/heads/h_34_mb__skellige_villager_q703/h_34_mb__skellige_villager_q703.w2mesh"
+  },
+  {
+    "name": "hb_35_ma__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_big/heads/h_35_mb__bob/hb_35_ma__bob.w2mesh"
+  },
+  {
+    "name": "he_35_mb__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_big/heads/h_35_mb__bob/he_35_mb__bob.w2mesh"
+  },
+  {
+    "name": "h_35_mb__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/man_big/heads/h_35_mb__bob/h_35_mb__bob.w2mesh"
+  },
+  {
+    "name": "twa0_02_wa__body",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/woman_average/body/model/twa0_02_wa__body.w2mesh"
+  },
+  {
+    "name": "twa0_02_wa__body_censored",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/woman_average/body/model/twa0_02_wa__body_censored.w2mesh"
+  },
+  {
+    "name": "c_01_wa__hair_dlc",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/woman_average/hair/model/c_01_wa__hair_dlc.w2mesh"
+  },
+  {
+    "name": "he_08_wa__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/woman_average/heads/h_08_wa__bob/he_08_wa__bob.w2mesh"
+  },
+  {
+    "name": "h_08_wa__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/common/woman_average/heads/h_08_wa__bob/h_08_wa__bob.w2mesh"
+  },
+  {
+    "name": "twals_01_wa__poor",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/background_crowd/twals_01_wa__poor/model/twals_01_wa__poor.w2mesh"
+  },
+  {
+    "name": "c_06_ma__bob_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_06_ma__bob_f1.w2mesh"
+  },
+  {
+    "name": "c_06_ma__bob_f2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_06_ma__bob_f2.w2mesh"
+  },
+  {
+    "name": "c_06_ma__bob_f3",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_06_ma__bob_f3.w2mesh"
+  },
+  {
+    "name": "c_07_ma__bob_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_07_ma__bob_f1.w2mesh"
+  },
+  {
+    "name": "c_07_ma__bob_f2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_07_ma__bob_f2.w2mesh"
+  },
+  {
+    "name": "c_08_ma__bob_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_08_ma__bob_f1.w2mesh"
+  },
+  {
+    "name": "c_08_ma__bob_f2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_08_ma__bob_f2.w2mesh"
+  },
+  {
+    "name": "c_08_ma__bob_f3",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_08_ma__bob_f3.w2mesh"
+  },
+  {
+    "name": "c_09_ma__bob_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_09_ma__bob_f1.w2mesh"
+  },
+  {
+    "name": "c_09_ma__bob_f2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_09_ma__bob_f2.w2mesh"
+  },
+  {
+    "name": "c_10_ma__bob_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_10_ma__bob_f1.w2mesh"
+  },
+  {
+    "name": "c_10_ma__bob_f2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_10_ma__bob_f2.w2mesh"
+  },
+  {
+    "name": "c_11_ma__bob_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_11_ma__bob_f1.w2mesh"
+  },
+  {
+    "name": "c_11_ma__bob_f2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_11_ma__bob_f2.w2mesh"
+  },
+  {
+    "name": "c_11_ma__bob_f3",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_11_ma__bob_f3.w2mesh"
+  },
+  {
+    "name": "c_12_ma__bob_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_12_ma__bob_f1.w2mesh"
+  },
+  {
+    "name": "c_12_ma__bob_f2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_12_ma__bob_f2.w2mesh"
+  },
+  {
+    "name": "c_12_ma__bob_f3",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/caps/model/c_12_ma__bob_f3.w2mesh"
+  },
+  {
+    "name": "d_01_ma__ofieri_bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/dress/model/d_01_ma__ofieri_bob.w2mesh"
+  },
+  {
+    "name": "i_03_ma__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/items/model/i_03_ma__bob.w2mesh"
+  },
+  {
+    "name": "i_13_ma__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/items/model/i_13_ma__bob.w2mesh"
+  },
+  {
+    "name": "i_14_ma__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/items/model/i_14_ma__bob.w2mesh"
+  },
+  {
+    "name": "i_16_ma__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/items/model/i_16_ma__bob.w2mesh"
+  },
+  {
+    "name": "i_22_ma__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/items/model/i_22_ma__bob.w2mesh"
+  },
+  {
+    "name": "i_27_ma__bob",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/items/model/i_27_ma__bob.w2mesh"
+  },
+  {
+    "name": "t2_22_ma__bob_painter",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen/torso/model/t2_22_ma__bob_painter.w2mesh"
+  },
+  {
+    "name": "a_01_wa__bob_woman_noble__flat",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/arms/model/a_01_wa__bob_woman_noble__flat.w2mesh"
+  },
+  {
+    "name": "a_02_wa__bob_woman_noble_p02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/arms/model/a_02_wa__bob_woman_noble_p02.w2mesh"
+  },
+  {
+    "name": "a_05_wa__bob_woman_noble",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/arms/model/a_05_wa__bob_woman_noble.w2mesh"
+  },
+  {
+    "name": "a_06_wa__bob_woman_noble_p03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/arms/model/a_06_wa__bob_woman_noble_p03.w2mesh"
+  },
+  {
+    "name": "a_07_wa__bob_woman_noble",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/arms/model/a_07_wa__bob_woman_noble.w2mesh"
+  },
+  {
+    "name": "i_02_wa__bob_woman_noble",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/items/model/i_02_wa__bob_woman_noble.w2mesh"
+  },
+  {
+    "name": "i_06_wa_bob_woman",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/items/model/i_06_wa_bob_woman.w2mesh"
+  },
+  {
+    "name": "i_11_wa_bob_woman",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/items/model/i_11_wa_bob_woman.w2mesh"
+  },
+  {
+    "name": "t2d_08_wa__bob_woman_noble",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/torso/model/t2d_08_wa__bob_woman_noble.w2mesh"
+  },
+  {
+    "name": "t2d_08_wa__bob_woman_noble_p01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/torso/model/t2d_08_wa__bob_woman_noble_p01.w2mesh"
+  },
+  {
+    "name": "t2d_08_wa__bob_woman_noble_p02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/torso/model/t2d_08_wa__bob_woman_noble_p02.w2mesh"
+  },
+  {
+    "name": "t2_06_wa__bob_woman_noble",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/torso/model/t2_06_wa__bob_woman_noble.w2mesh"
+  },
+  {
+    "name": "t2_06_wa__body_woman_noble",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/torso/model/t2_06_wa__body_woman_noble.w2mesh"
+  },
+  {
+    "name": "t2_07_wa__bob_woman_noble",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_citizen_woman/torso/model/t2_07_wa__bob_woman_noble.w2mesh"
+  },
+  {
+    "name": "a_02_mb__bob_knights",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/arms/model/a_02_mb__bob_knights.w2mesh"
+  },
+  {
+    "name": "c_01_mb__bob_knights_f4",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/caps/model/c_01_mb__bob_knights_f4.w2mesh"
+  },
+  {
+    "name": "c_01_mb__bob_knights_f6",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/caps/model/c_01_mb__bob_knights_f6.w2mesh"
+  },
+  {
+    "name": "c_03_mb__bob_knights_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/caps/model/c_03_mb__bob_knights_f1.w2mesh"
+  },
+  {
+    "name": "c_03_mb__bob_knights_f2",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/caps/model/c_03_mb__bob_knights_f2.w2mesh"
+  },
+  {
+    "name": "c_03_mb__bob_knights_f3",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/caps/model/c_03_mb__bob_knights_f3.w2mesh"
+  },
+  {
+    "name": "c_03_mb__bob_knights_f4",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/caps/model/c_03_mb__bob_knights_f4.w2mesh"
+  },
+  {
+    "name": "c_03_mb__mq7017_knight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/caps/model/c_03_mb__mq7017_knight.w2mesh"
+  },
+  {
+    "name": "i_18_mb__bob_knights",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/items/model/i_18_mb__bob_knights.w2mesh"
+  },
+  {
+    "name": "i_20_mb__bob_knights",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/items/model/i_20_mb__bob_knights.w2mesh"
+  },
+  {
+    "name": "i_21_mb__bob_knights",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/items/model/i_21_mb__bob_knights.w2mesh"
+  },
+  {
+    "name": "i_24_mb__bob_knights",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/items/model/i_24_mb__bob_knights.w2mesh"
+  },
+  {
+    "name": "i_25_mb__bob_knights",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/items/model/i_25_mb__bob_knights.w2mesh"
+  },
+  {
+    "name": "i_27_mb__bob_knights",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/items/model/i_27_mb__bob_knights.w2mesh"
+  },
+  {
+    "name": "i_32_mb__bob_nazairi",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/items/model/i_32_mb__bob_nazairi.w2mesh"
+  },
+  {
+    "name": "i_33_mb__bob_knights",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/crowd_npc/bob_knight/items/model/i_33_mb__bob_knights.w2mesh"
+  },
+  {
+    "name": "l_01_mg__prison_outfit",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/geralt/armor/prison_outfit/l_01_mg__prison_outfit.w2mesh"
+  },
+  {
+    "name": "c_02_wa__anna_henrietta",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/anna_henrietta/h_01_wa__anna_henrietta/c_02_wa__anna_henrietta.w2mesh"
+  },
+  {
+    "name": "d_01_wa__anna_inner",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/anna_henrietta/model/d_01_wa__anna_inner.w2mesh"
+  },
+  {
+    "name": "body_01_wa__countess_laura",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/countess_laura/model/body_01_wa__countess_laura.w2mesh"
+  },
+  {
+    "name": "n_01_wa__countess_laura_body",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/countess_laura/model/n_01_wa__countess_laura_body.w2mesh"
+  },
+  {
+    "name": "d_01_ma__regis",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/regis/model/d_01_ma__regis.w2mesh"
+  },
+  {
+    "name": "d_01_ma__regis_dirty",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/regis/model/d_01_ma__regis_dirty.w2mesh"
+  },
+  {
+    "name": "d_01_ma__regis_wounded",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/regis/model/d_01_ma__regis_wounded.w2mesh"
+  },
+  {
+    "name": "i_01_wa__syanna_kotylion",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/syanna/model/i_01_wa__syanna_kotylion.w2mesh"
+  },
+  {
+    "name": "i_04_wa__syanna_cloak",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/syanna/model/i_04_wa__syanna_cloak.w2mesh"
+  },
+  {
+    "name": "i_05_wa__syanna_ribbon",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/main_npc/syanna/model/i_05_wa__syanna_ribbon.w2mesh"
+  },
+  {
+    "name": "h_03__bruxa_bloody",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/bruxa/h_01__bruxa/h_03__bruxa_bloody.w2mesh"
+  },
+  {
+    "name": "cs704_w_dettlaff__veins_body",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/detlaff_monster/model/cs704_w_dettlaff__veins_body.w2mesh"
+  },
+  {
+    "name": "cs704_w_dettlaff__veins_torso",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/detlaff_monster/model/cs704_w_dettlaff__veins_torso.w2mesh"
+  },
+  {
+    "name": "wings_bloody",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/detlaff_monster/model/wings_bloody.w2mesh"
+  },
+  {
+    "name": "wings_cut",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/detlaff_monster/model/wings_cut.w2mesh"
+  },
+  {
+    "name": "i_02__echinops_flower",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/echinops/model/i_02__echinops_flower.w2mesh"
+  },
+  {
+    "name": "i_01__gravier",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/gravier/model/i_01__gravier.w2mesh"
+  },
+  {
+    "name": "t_02__gravier",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/gravier/model/t_02__gravier.w2mesh"
+  },
+  {
+    "name": "w_01__kikimore_small_explode_shell01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/kikimore/model/w_01__kikimore_small_explode_shell01.w2mesh"
+  },
+  {
+    "name": "w_02__kikimore_small_explode_leg01_part",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/kikimore/model/w_02__kikimore_small_explode_leg01_part.w2mesh"
+  },
+  {
+    "name": "w_03__kikimore_small_explode_leg01_part",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/kikimore/model/w_03__kikimore_small_explode_leg01_part.w2mesh"
+  },
+  {
+    "name": "c_01_wa__anna_henrietta",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/nightwraight_banshee/model/c_01_wa__anna_henrietta.w2mesh"
+  },
+  {
+    "name": "scolo_dismember_sphere",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/scolopendromorph/model/scolo_dismember_sphere.w2mesh"
+  },
+  {
+    "name": "c_01_wa__vivienne_bird",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/vivienne__bird_form/h_01__vivienne_bird_form/c_01_wa__vivienne_bird.w2mesh"
+  },
+  {
+    "name": "i_17__werewolf_mimic",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/werewolf/model/i_17__werewolf_mimic.w2mesh"
+  },
+  {
+    "name": "i_01__wicht",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/wicht/model/i_01__wicht.w2mesh"
+  },
+  {
+    "name": "w_03_wight_cut_arm02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/monsters/wicht/model/w_03_wight_cut_arm02.w2mesh"
+  },
+  {
+    "name": "q702_t2_12_ma__count",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/count_murder/model/q702_t2_12_ma__count.w2mesh"
+  },
+  {
+    "name": "c_03_mw__gregoire_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/gregoire/model/c_03_mw__gregoire_f1.w2mesh"
+  },
+  {
+    "name": "i_01_ma__guillaume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/guillaume/model/i_01_ma__guillaume.w2mesh"
+  },
+  {
+    "name": "i_03__hermit",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/hermit/model/i_03__hermit.w2mesh"
+  },
+  {
+    "name": "kenny_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/kenny/model/kenny_01.w2mesh"
+  },
+  {
+    "name": "l3d_01_cma__cwa__match_girl",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/match_girl/model/l3d_01_cma__cwa__match_girl.w2mesh"
+  },
+  {
+    "name": "h_57_wa__novigrad_citizen_tear",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/mh701_andree_bourbeau/head/h_57_wa__novigrad_citizen_tear.w2mesh"
+  },
+  {
+    "name": "c_01_mb__milton_f5",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/milton/model/c_01_mb__milton_f5.w2mesh"
+  },
+  {
+    "name": "t2_01_ma__traveler",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/mq7007_traveler/model/t2_01_ma__traveler.w2mesh"
+  },
+  {
+    "name": "c_11_mw__nazairi_boss_f1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/nazairi_boss/model/c_11_mw__nazairi_boss_f1.w2mesh"
+  },
+  {
+    "name": "he_01_sq701_forest_nymph",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/sq701_forest_nymph/head/he_01_sq701_forest_nymph.w2mesh"
+  },
+  {
+    "name": "h_01__sq701_forest_nymph",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/sq701_forest_nymph/head/h_01__sq701_forest_nymph.w2mesh"
+  },
+  {
+    "name": "i_01_wa__sq701_forest_nymph",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/sq701_forest_nymph/model/i_01_wa__sq701_forest_nymph.w2mesh"
+  },
+  {
+    "name": "i_02_wa__forest_nymph",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/characters/models/secondary_npc/sq701_forest_nymph/model/i_02_wa__forest_nymph.w2mesh"
+  },
+  {
+    "name": "bob_embassy_underground",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/bob_embassy_underground.w2mesh"
+  },
+  {
+    "name": "building01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/building01.w2mesh"
+  },
+  {
+    "name": "cellar",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/cellar.w2mesh"
+  },
+  {
+    "name": "house_farm_01b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/house_farm_01b.w2mesh"
+  },
+  {
+    "name": "house_farm_02a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/house_farm_02a.w2mesh"
+  },
+  {
+    "name": "shadow_box",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/shadow_box.w2mesh"
+  },
+  {
+    "name": "tent",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/tent.w2mesh"
+  },
+  {
+    "name": "tower",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/tower.w2mesh"
+  },
+  {
+    "name": "wall",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/wall.w2mesh"
+  },
+  {
+    "name": "wall_angular",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/wall_angular.w2mesh"
+  },
+  {
+    "name": "wall_gates",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/wall_gates.w2mesh"
+  },
+  {
+    "name": "well",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/ambassy_temp/well.w2mesh"
+  },
+  {
+    "name": "bob_basement_column_short",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/basement_set/bob_basement_column_short.w2mesh"
+  },
+  {
+    "name": "bob_barbican_tower_volume_c",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/bob_ruins_set/bob_barbican_tower_volume_c.w2mesh"
+  },
+  {
+    "name": "bob_mainkeep_detail_ledge_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/bob_ruins_set/bob_mainkeep_detail_ledge_02.w2mesh"
+  },
+  {
+    "name": "bob_mainkeep_detail_ledge_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/bob_ruins_set/bob_mainkeep_detail_ledge_03.w2mesh"
+  },
+  {
+    "name": "bob_ruins_exterior_battlements_round",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/bob_ruins_set/bob_ruins_exterior_battlements_round.w2mesh"
+  },
+  {
+    "name": "bob_ruins_exterior_battlements_round01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/bob_ruins_set/bob_ruins_exterior_battlements_round01.w2mesh"
+  },
+  {
+    "name": "bob_ruins_tower_a02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/bob_ruins_set/bob_ruins_tower_a02.w2mesh"
+  },
+  {
+    "name": "bob_ruins_wall_m05_addon_02_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/bob_ruins_set/bob_ruins_wall_m05_addon_02_a.w2mesh"
+  },
+  {
+    "name": "castel_ravello",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/castel_ravello/castel_ravello.w2mesh"
+  },
+  {
+    "name": "ravello_interior",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/castel_ravello/ravello_interior.w2mesh"
+  },
+  {
+    "name": "ravello_walls",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/castel_ravello/ravello_walls.w2mesh"
+  },
+  {
+    "name": "cocaktrice_inn_blockout",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/cockatrice_inn/cocaktrice_inn_blockout.w2mesh"
+  },
+  {
+    "name": "cockatrice_inn_interior",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/cockatrice_inn/cockatrice_inn_interior.w2mesh"
+  },
+  {
+    "name": "cockatrice_inn_main",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/cockatrice_inn/cockatrice_inn_main.w2mesh"
+  },
+  {
+    "name": "bob_cata_door_double",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/crypt/bob_cata_door_double.w2mesh"
+  },
+  {
+    "name": "bob_crypt_bone",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/crypt/bob_crypt_bone.w2mesh"
+  },
+  {
+    "name": "amfi_theater_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_amfi_theater/amfi_theater_01.w2mesh"
+  },
+  {
+    "name": "bob_bank_balustrade_straight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_balustrade_straight.w2mesh"
+  },
+  {
+    "name": "bob_bank_base_int",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_base_int.w2mesh"
+  },
+  {
+    "name": "bob_bank_entrance",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_entrance.w2mesh"
+  },
+  {
+    "name": "bob_bank_ext_windows_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_ext_windows_02.w2mesh"
+  },
+  {
+    "name": "bob_bank_floor_0_int",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_floor_0_int.w2mesh"
+  },
+  {
+    "name": "bob_bank_floor_1_int",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_floor_1_int.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_arches_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_arches_01.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_arches_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_arches_02.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_arches_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_arches_03.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_arches_04",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_arches_04.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_column_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_column_01.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_stairs_left",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_stairs_left.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_stairs_right",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_stairs_right.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_wall_panel_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_wall_panel_01.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_windows_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_windows_02.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_wood_panel_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_wood_panel_01.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_wood_panel_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_wood_panel_02.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_wood_wall_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_wood_wall_01.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_wood_wall_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_wood_wall_02.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_wood_wall_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_wood_wall_03.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_wood_wall_04",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_wood_wall_04.w2mesh"
+  },
+  {
+    "name": "bob_bank_int_wood_wall_05",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_bank/bob_bank_int_wood_wall_05.w2mesh"
+  },
+  {
+    "name": "bob_city_hall_a_window_01_non_emisiv",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_hall/bob_city_hall_a_window_01_non_emisiv.w2mesh"
+  },
+  {
+    "name": "bob_city_hall_bells",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_hall/bob_city_hall_bells.w2mesh"
+  },
+  {
+    "name": "bob_city_hall_b_window_01_non_emisiv",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_hall/bob_city_hall_b_window_01_non_emisiv.w2mesh"
+  },
+  {
+    "name": "bob_city_hall_figure_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_hall/bob_city_hall_figure_01.w2mesh"
+  },
+  {
+    "name": "bob_city_hall_tower_window_mid",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_hall/bob_city_hall_tower_window_mid.w2mesh"
+  },
+  {
+    "name": "bob_city_hall_wall_detail_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_hall/bob_city_hall_wall_detail_01.w2mesh"
+  },
+  {
+    "name": "little_tower_window_double",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_hall/little_tower_window_double.w2mesh"
+  },
+  {
+    "name": "bob_city_inn_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_inn/bob_city_inn_volume.w2mesh"
+  },
+  {
+    "name": "militia_arch",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_arch.w2mesh"
+  },
+  {
+    "name": "militia_blockout_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_blockout_01.w2mesh"
+  },
+  {
+    "name": "militia_buildings",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_buildings.w2mesh"
+  },
+  {
+    "name": "militia_building_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_building_01.w2mesh"
+  },
+  {
+    "name": "militia_building_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_building_02.w2mesh"
+  },
+  {
+    "name": "militia_building_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_building_03.w2mesh"
+  },
+  {
+    "name": "militia_building_block_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_building_block_01.w2mesh"
+  },
+  {
+    "name": "militia_satue",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_satue.w2mesh"
+  },
+  {
+    "name": "militia_stables",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_stables.w2mesh"
+  },
+  {
+    "name": "militia_stables_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_stables_02.w2mesh"
+  },
+  {
+    "name": "militia_steps",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_militia/militia_steps.w2mesh"
+  },
+  {
+    "name": "bob_city_temple_bell_02_golden",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_temple/bob_city_temple_bell_02_golden.w2mesh"
+  },
+  {
+    "name": "detail_tmp_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_temple/detail_tmp_01.w2mesh"
+  },
+  {
+    "name": "detal_tmp_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_temple/detal_tmp_02.w2mesh"
+  },
+  {
+    "name": "fence_tmp_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_temple/fence_tmp_01.w2mesh"
+  },
+  {
+    "name": "fence_tmp_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_temple/fence_tmp_02.w2mesh"
+  },
+  {
+    "name": "bar_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_winery/bar_01.w2mesh"
+  },
+  {
+    "name": "part_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_winery/part_02.w2mesh"
+  },
+  {
+    "name": "room_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_city_winery/room_01.w2mesh"
+  },
+  {
+    "name": "bob_cloth_hall_arc_entrance",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_cloth_hall_arc_entrance.w2mesh"
+  },
+  {
+    "name": "bob_cloth_hall_attic",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_cloth_hall_attic.w2mesh"
+  },
+  {
+    "name": "bob_cloth_hall_gates_door_transparent",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_cloth_hall_gates_door_transparent.w2mesh"
+  },
+  {
+    "name": "bob_cloth_hall_pillar_entrance",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_cloth_hall_pillar_entrance.w2mesh"
+  },
+  {
+    "name": "bob_cloth_hall_top_al",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_cloth_hall_top_al.w2mesh"
+  },
+  {
+    "name": "bob_cloth_hall_top_al01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_cloth_hall_top_al01.w2mesh"
+  },
+  {
+    "name": "bob_cloth_hall_top_bl",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_cloth_hall_top_bl.w2mesh"
+  },
+  {
+    "name": "bob_cloth_hall_top_br",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_cloth_hall_top_br.w2mesh"
+  },
+  {
+    "name": "bob_cloth_hall_trim_main",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_cloth_hall_trim_main.w2mesh"
+  },
+  {
+    "name": "bob_little_wall_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_little_wall_a.w2mesh"
+  },
+  {
+    "name": "bob_little_wall_b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_little_wall_b.w2mesh"
+  },
+  {
+    "name": "bob_little_wall_pillar",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_cloth_hall/bob_little_wall_pillar.w2mesh"
+  },
+  {
+    "name": "bob_rich_tower_walls_t_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_rich_tower/bob_rich_tower_walls_t_02.w2mesh"
+  },
+  {
+    "name": "bob_rich_tower_walls_t_02_r",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_rich_tower/bob_rich_tower_walls_t_02_r.w2mesh"
+  },
+  {
+    "name": "guard_house",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_south_gate/guard_house.w2mesh"
+  },
+  {
+    "name": "guard_tower",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_south_gate/guard_tower.w2mesh"
+  },
+  {
+    "name": "walk_path",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/bob_south_gate/walk_path.w2mesh"
+  },
+  {
+    "name": "windmill_base_broken",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/windmill/windmill_base_broken.w2mesh"
+  },
+  {
+    "name": "windmill_interior_wood",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/windmill/windmill_interior_wood.w2mesh"
+  },
+  {
+    "name": "windmill_support_broken",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/custom_buildings/windmill/windmill_support_broken.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_balustrade_straight_long_dist",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_balustrade_straight_long_dist.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_entrance_tall_b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_entrance_tall_b.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_floor_b_corner",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_floor_b_corner.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_fresco_door",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_fresco_door.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_fresco_door_left",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_fresco_door_left.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_fresco_door_right",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_fresco_door_right.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_stairs_piece_c",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_stairs_piece_c.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_stairs_piece_d",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_stairs_piece_d.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_stairs_piece_e",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_stairs_piece_e.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_stairs_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/bob_elven_ruins_stairs_small.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruinsgarden_balustrade_straight_turn",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_garden/bob_elven_ruinsgarden_balustrade_straight_turn.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_garden_enterence",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_garden/bob_elven_ruins_garden_enterence.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_garden_floor_connector",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_garden/bob_elven_ruins_garden_floor_connector.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_garden_floor_turn",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_garden/bob_elven_ruins_garden_floor_turn.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_garden_wall_stairs",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_garden/bob_elven_ruins_garden_wall_stairs.w2mesh"
+  },
+  {
+    "name": "bob_elven_ruins_garden_wall_straight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_garden/bob_elven_ruins_garden_wall_straight.w2mesh"
+  },
+  {
+    "name": "bob_tower_arc_part_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_tower/bob_tower_arc_part_a.w2mesh"
+  },
+  {
+    "name": "bob_tower_arc_part_b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_tower/bob_tower_arc_part_b.w2mesh"
+  },
+  {
+    "name": "bob_tower_cap",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_tower/bob_tower_cap.w2mesh"
+  },
+  {
+    "name": "bob_tower_face_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_tower/bob_tower_face_a.w2mesh"
+  },
+  {
+    "name": "bob_tower_face_entrance",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_tower/bob_tower_face_entrance.w2mesh"
+  },
+  {
+    "name": "bob_tower_pillar_lo",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/elven_ruins/elven_ruins_tower/bob_tower_pillar_lo.w2mesh"
+  },
+  {
+    "name": "704_cloud_interior",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/giants_realm/704_cloud_interior.w2mesh"
+  },
+  {
+    "name": "704_giants_cloud_arena",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/giants_realm/704_giants_cloud_arena.w2mesh"
+  },
+  {
+    "name": "704_giants_cloud_castle",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/giants_realm/704_giants_cloud_castle.w2mesh"
+  },
+  {
+    "name": "704_giants_cloud_island",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/giants_realm/704_giants_cloud_island.w2mesh"
+  },
+  {
+    "name": "bob_fairytale_house_gingerbread_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/gingerbread_house/bob_fairytale_house_gingerbread_01.w2mesh"
+  },
+  {
+    "name": "bob_fairytale_house_gingerbread_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/gingerbread_house/bob_fairytale_house_gingerbread_02.w2mesh"
+  },
+  {
+    "name": "bob_fairytale_house_straw_destroyed",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/three_little_pig/bob_fairytale_house_straw_destroyed.w2mesh"
+  },
+  {
+    "name": "bob_fairytale_house_wood_destroyed",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/three_little_pig/bob_fairytale_house_wood_destroyed.w2mesh"
+  },
+  {
+    "name": "bob_704_rapunzel_stairs",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/tower/bob_704_rapunzel_stairs.w2mesh"
+  },
+  {
+    "name": "rapunzel_tower",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/fantasy_wunderland/tower/rapunzel_tower.w2mesh"
+  },
+  {
+    "name": "arches_city_hall",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/arches_city_hall.w2mesh"
+  },
+  {
+    "name": "arch_4x8",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/arch_4x8.w2mesh"
+  },
+  {
+    "name": "arch_city",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/arch_city.w2mesh"
+  },
+  {
+    "name": "arch_thin",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/arch_thin.w2mesh"
+  },
+  {
+    "name": "arkady",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/arkady.w2mesh"
+  },
+  {
+    "name": "bob_house_slopebase",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_house_slopebase.w2mesh"
+  },
+  {
+    "name": "bob_msm",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_msm.w2mesh"
+  },
+  {
+    "name": "bob_rich_house_gate_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_rich_house_gate_01.w2mesh"
+  },
+  {
+    "name": "bob_rich_piazza",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_rich_piazza.w2mesh"
+  },
+  {
+    "name": "bob_stable",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_stable.w2mesh"
+  },
+  {
+    "name": "divas_room_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/divas_room_01.w2mesh"
+  },
+  {
+    "name": "double_arches_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/double_arches_01.w2mesh"
+  },
+  {
+    "name": "feet_of_st_plegmund_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/feet_of_st_plegmund_02.w2mesh"
+  },
+  {
+    "name": "feet_of_st_plegmund_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/feet_of_st_plegmund_03.w2mesh"
+  },
+  {
+    "name": "foot_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/foot_a.w2mesh"
+  },
+  {
+    "name": "foot_b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/foot_b.w2mesh"
+  },
+  {
+    "name": "house_of_many_arches",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/house_of_many_arches.w2mesh"
+  },
+  {
+    "name": "man_190_cm",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/man_190_cm.w2mesh"
+  },
+  {
+    "name": "out_side_garden_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/out_side_garden_01.w2mesh"
+  },
+  {
+    "name": "out_side_garden_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/out_side_garden_02.w2mesh"
+  },
+  {
+    "name": "out_side_garden_support",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/out_side_garden_support.w2mesh"
+  },
+  {
+    "name": "park_centre_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/park_centre_01.w2mesh"
+  },
+  {
+    "name": "part_fountain_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/part_fountain_01.w2mesh"
+  },
+  {
+    "name": "pillar_12x1",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/pillar_12x1.w2mesh"
+  },
+  {
+    "name": "podstawka_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/podstawka_01.w2mesh"
+  },
+  {
+    "name": "podstawka_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/podstawka_02.w2mesh"
+  },
+  {
+    "name": "podstawka_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/podstawka_03.w2mesh"
+  },
+  {
+    "name": "podstawka_04",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/podstawka_04.w2mesh"
+  },
+  {
+    "name": "podstawka_cegly",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/podstawka_cegly.w2mesh"
+  },
+  {
+    "name": "south_beach_statue_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/south_beach_statue_01.w2mesh"
+  },
+  {
+    "name": "south_gate",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/south_gate.w2mesh"
+  },
+  {
+    "name": "stairs_6x4x4",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/stairs_6x4x4.w2mesh"
+  },
+  {
+    "name": "stairs_corner_out",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/stairs_corner_out.w2mesh"
+  },
+  {
+    "name": "steps",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/steps.w2mesh"
+  },
+  {
+    "name": "sukiennice_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/sukiennice_01.w2mesh"
+  },
+  {
+    "name": "sukiennice_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/sukiennice_02.w2mesh"
+  },
+  {
+    "name": "sukiennice_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/sukiennice_03.w2mesh"
+  },
+  {
+    "name": "tower_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/tower_01.w2mesh"
+  },
+  {
+    "name": "tower_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/tower_02.w2mesh"
+  },
+  {
+    "name": "town_tower_gb",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/town_tower_gb.w2mesh"
+  },
+  {
+    "name": "wall_4x8",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/wall_4x8.w2mesh"
+  },
+  {
+    "name": "wall_ramp_6x8",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/wall_ramp_6x8.w2mesh"
+  },
+  {
+    "name": "wedge_15_gp",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/wedge_15_gp.w2mesh"
+  },
+  {
+    "name": "wedge_45_gp",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/wedge_45_gp.w2mesh"
+  },
+  {
+    "name": "wegde_30_gp",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/wegde_30_gp.w2mesh"
+  },
+  {
+    "name": "bob_barber_shop_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/barber_shop/bob_barber_shop_01.w2mesh"
+  },
+  {
+    "name": "bob_barber_shop_interior_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/barber_shop/bob_barber_shop_interior_01.w2mesh"
+  },
+  {
+    "name": "bob_city_wall_corner",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/bob_city_wall_corner.w2mesh"
+  },
+  {
+    "name": "bob_city_wall_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/bob_city_wall_small.w2mesh"
+  },
+  {
+    "name": "bob_city_wall_tower",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/bob_city_wall_tower.w2mesh"
+  },
+  {
+    "name": "bob_city_wall_tower_gate",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/bob_city_wall_tower_gate.w2mesh"
+  },
+  {
+    "name": "building_poor_arc_big",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_arc_big.w2mesh"
+  },
+  {
+    "name": "building_poor_arc_doors",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_arc_doors.w2mesh"
+  },
+  {
+    "name": "building_poor_big_arc",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_big_arc.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_base",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_base.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_big",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_big.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_box",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_box.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_column",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_column.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_column_red",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_column_red.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_high",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_high.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_long",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_long.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_medium",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_medium.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_oriel_column",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_oriel_column.w2mesh"
+  },
+  {
+    "name": "building_poor_brick_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_brick_small.w2mesh"
+  },
+  {
+    "name": "building_poor_connector_25_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_connector_25_a.w2mesh"
+  },
+  {
+    "name": "building_poor_connector_25_b",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_connector_25_b.w2mesh"
+  },
+  {
+    "name": "building_poor_connector_25_degrees",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_connector_25_degrees.w2mesh"
+  },
+  {
+    "name": "building_poor_connector_a",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_connector_a.w2mesh"
+  },
+  {
+    "name": "building_poor_platform_l_stairs",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_platform_l_stairs.w2mesh"
+  },
+  {
+    "name": "building_poor_platform_medium",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_platform_medium.w2mesh"
+  },
+  {
+    "name": "building_poor_platform_stairs",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_platform_stairs.w2mesh"
+  },
+  {
+    "name": "building_poor_roof_ceramic_medium",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_roof_ceramic_medium.w2mesh"
+  },
+  {
+    "name": "building_poor_roof_ceramic_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_roof_ceramic_small.w2mesh"
+  },
+  {
+    "name": "building_poor_roof_wood_medium",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_roof_wood_medium.w2mesh"
+  },
+  {
+    "name": "building_poor_stairs_simple",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_stairs_simple.w2mesh"
+  },
+  {
+    "name": "building_poor_tower_medium",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_tower_medium.w2mesh"
+  },
+  {
+    "name": "building_poor_walls_arc",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_walls_arc.w2mesh"
+  },
+  {
+    "name": "building_poor_walls_stone_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_walls_stone_small.w2mesh"
+  },
+  {
+    "name": "building_poor_well_stone",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_well_stone.w2mesh"
+  },
+  {
+    "name": "building_poor_wood_oriel_column",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_wood_oriel_column.w2mesh"
+  },
+  {
+    "name": "building_poor_wood_tight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/building_poor_wood_tight.w2mesh"
+  },
+  {
+    "name": "decoration_poor_balustrade_simple_group",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/decoration_poor_balustrade_simple_group.w2mesh"
+  },
+  {
+    "name": "platform_connector_bend",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/platform_connector_bend.w2mesh"
+  },
+  {
+    "name": "platform_slope_15_degrees",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/platform_slope_15_degrees.w2mesh"
+  },
+  {
+    "name": "platform_viaduct",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/platform_viaduct.w2mesh"
+  },
+  {
+    "name": "platform_viaduct_decoration",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/bob_poor/platform_viaduct_decoration.w2mesh"
+  },
+  {
+    "name": "building_rich_stairs_simple",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/building_rich_stairs_simple.w2mesh"
+  },
+  {
+    "name": "door_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/door_small.w2mesh"
+  },
+  {
+    "name": "gate_big",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/gate_big.w2mesh"
+  },
+  {
+    "name": "pavement_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/pavement_small.w2mesh"
+  },
+  {
+    "name": "pavement_super_big",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/pavement_super_big.w2mesh"
+  },
+  {
+    "name": "support_big",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/support_big.w2mesh"
+  },
+  {
+    "name": "support_small",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/support_small.w2mesh"
+  },
+  {
+    "name": "trim_long_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/trim_long_01.w2mesh"
+  },
+  {
+    "name": "trim_long_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/trim_long_02.w2mesh"
+  },
+  {
+    "name": "trim_short_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/trim_short_01.w2mesh"
+  },
+  {
+    "name": "trim_short_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/trim_short_02.w2mesh"
+  },
+  {
+    "name": "trim_super_long_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/trim_super_long_01.w2mesh"
+  },
+  {
+    "name": "trim_super_long_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/trim_super_long_02.w2mesh"
+  },
+  {
+    "name": "trim_super_long_round",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/trim_super_long_round.w2mesh"
+  },
+  {
+    "name": "trim_super_long_round_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/trim_super_long_round_02.w2mesh"
+  },
+  {
+    "name": "wall_short",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/wall_short.w2mesh"
+  },
+  {
+    "name": "wall_super_big_round",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/wall_super_big_round.w2mesh"
+  },
+  {
+    "name": "wall_super_big_round_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/wall_super_big_round_02.w2mesh"
+  },
+  {
+    "name": "wall_super_wide",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/wall_super_wide.w2mesh"
+  },
+  {
+    "name": "wall_super_wide_hole",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/wall_super_wide_hole.w2mesh"
+  },
+  {
+    "name": "wall_wide",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/wall_wide.w2mesh"
+  },
+  {
+    "name": "wall_wide_hole",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/brick_wall_system/wall_wide_hole.w2mesh"
+  },
+  {
+    "name": "brick_frame_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/brick_frame_01.w2mesh"
+  },
+  {
+    "name": "catacombs_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/catacombs_01.w2mesh"
+  },
+  {
+    "name": "catacombs_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/catacombs_02.w2mesh"
+  },
+  {
+    "name": "catacombs_big_tomb_entrence_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/catacombs_big_tomb_entrence_01.w2mesh"
+  },
+  {
+    "name": "catacombs_doors_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/catacombs_doors_01.w2mesh"
+  },
+  {
+    "name": "catacombs_support_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/catacombs_support_01.w2mesh"
+  },
+  {
+    "name": "catacombs_support_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/catacombs_support_02.w2mesh"
+  },
+  {
+    "name": "catacombs_support_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/catacombs_support_03.w2mesh"
+  },
+  {
+    "name": "small_altar_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/small_altar_01.w2mesh"
+  },
+  {
+    "name": "small_altar_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/catacombs/small_altar_02.w2mesh"
+  },
+  {
+    "name": "arch_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/arch_01.w2mesh"
+  },
+  {
+    "name": "arch_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/arch_02.w2mesh"
+  },
+  {
+    "name": "bench_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/bench_01.w2mesh"
+  },
+  {
+    "name": "big",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/big.w2mesh"
+  },
+  {
+    "name": "bob_cemetery_inner_arches_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/bob_cemetery_inner_arches_01.w2mesh"
+  },
+  {
+    "name": "bob_cemetery_inner_arches_support_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/bob_cemetery_inner_arches_support_01.w2mesh"
+  },
+  {
+    "name": "bob_cemetery_inner_wall_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/bob_cemetery_inner_wall_01.w2mesh"
+  },
+  {
+    "name": "bob_cemetery_inner_wall_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/bob_cemetery_inner_wall_02.w2mesh"
+  },
+  {
+    "name": "bob_cemetery_inner_wall_support_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/bob_cemetery_inner_wall_support_01.w2mesh"
+  },
+  {
+    "name": "bob_cemetery_stairs_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/bob_cemetery_stairs_01.w2mesh"
+  },
+  {
+    "name": "bob_cemetery_stairs_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/bob_cemetery_stairs_02.w2mesh"
+  },
+  {
+    "name": "catacombs_entrance_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/catacombs_entrance_01.w2mesh"
+  },
+  {
+    "name": "gate_small_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/gate_small_01.w2mesh"
+  },
+  {
+    "name": "grave_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/grave_01.w2mesh"
+  },
+  {
+    "name": "grave_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/grave_02.w2mesh"
+  },
+  {
+    "name": "grave_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/grave_03.w2mesh"
+  },
+  {
+    "name": "grave_04",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/grave_04.w2mesh"
+  },
+  {
+    "name": "grave_05",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/grave_05.w2mesh"
+  },
+  {
+    "name": "grave_06",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/grave_06.w2mesh"
+  },
+  {
+    "name": "krypta_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/krypta_01.w2mesh"
+  },
+  {
+    "name": "krypts_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/krypts_01.w2mesh"
+  },
+  {
+    "name": "krypts_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/krypts_02.w2mesh"
+  },
+  {
+    "name": "krypts_entrence_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/krypts_entrence_01.w2mesh"
+  },
+  {
+    "name": "krypty_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/krypty_03.w2mesh"
+  },
+  {
+    "name": "murek_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/murek_01.w2mesh"
+  },
+  {
+    "name": "statue_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/statue_01.w2mesh"
+  },
+  {
+    "name": "vase_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/vase_01.w2mesh"
+  },
+  {
+    "name": "vase_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/cemetery/vase_02.w2mesh"
+  },
+  {
+    "name": "front_tower_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/east_entrance/front_tower_01.w2mesh"
+  },
+  {
+    "name": "house_small_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/east_entrance/house_small_01.w2mesh"
+  },
+  {
+    "name": "house_small_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/east_entrance/house_small_02.w2mesh"
+  },
+  {
+    "name": "house_small_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/east_entrance/house_small_03.w2mesh"
+  },
+  {
+    "name": "tower_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/east_entrance/tower_01.w2mesh"
+  },
+  {
+    "name": "tower_connector_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/east_entrance/tower_connector_01.w2mesh"
+  },
+  {
+    "name": "barn_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/barn_01.w2mesh"
+  },
+  {
+    "name": "connector_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/connector_01.w2mesh"
+  },
+  {
+    "name": "connector_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/connector_02.w2mesh"
+  },
+  {
+    "name": "connector_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/connector_03.w2mesh"
+  },
+  {
+    "name": "connector_04",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/connector_04.w2mesh"
+  },
+  {
+    "name": "entrance_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/entrance_01.w2mesh"
+  },
+  {
+    "name": "entrance_small_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/entrance_small_01.w2mesh"
+  },
+  {
+    "name": "guard_connector_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/guard_connector_01.w2mesh"
+  },
+  {
+    "name": "guard_tower_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/guard_tower_01.w2mesh"
+  },
+  {
+    "name": "lazaret_basement",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/lazaret_basement.w2mesh"
+  },
+  {
+    "name": "tower_001",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/tower_001.w2mesh"
+  },
+  {
+    "name": "tower_02",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/tower_02.w2mesh"
+  },
+  {
+    "name": "tower_03",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/militia/tower_03.w2mesh"
+  },
+  {
+    "name": "park_arches_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/park/park_arches_01.w2mesh"
+  },
+  {
+    "name": "park_arch_side_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/park/park_arch_side_01.w2mesh"
+  },
+  {
+    "name": "park_arch_walk_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/park/park_arch_walk_01.w2mesh"
+  },
+  {
+    "name": "park_centre_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/park/park_centre_01.w2mesh"
+  },
+  {
+    "name": "park_hedge_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/park/park_hedge_01.w2mesh"
+  },
+  {
+    "name": "park_slope_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/park/park_slope_01.w2mesh"
+  },
+  {
+    "name": "park_tree_spot_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/park/park_tree_spot_01.w2mesh"
+  },
+  {
+    "name": "bob_crane_simple_blockout",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/quarry/bob_crane_simple_blockout.w2mesh"
+  },
+  {
+    "name": "bob_quarry_main_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/quarry/bob_quarry_main_volume.w2mesh"
+  },
+  {
+    "name": "bob_quarry_side_a_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/quarry/bob_quarry_side_a_volume.w2mesh"
+  },
+  {
+    "name": "bob_quarry_side_b_volume",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/quarry/bob_quarry_side_b_volume.w2mesh"
+  },
+  {
+    "name": "forearm",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/quarry/forearm.w2mesh"
+  },
+  {
+    "name": "hand",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/quarry/hand.w2mesh"
+  },
+  {
+    "name": "quarry_crane",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/quarry/quarry_crane.w2mesh"
+  },
+  {
+    "name": "statue_head",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/quarry/statue_head.w2mesh"
+  },
+  {
+    "name": "upperarm",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/quarry/upperarm.w2mesh"
+  },
+  {
+    "name": "pavement_broken_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/road_system/pavement_broken_01.w2mesh"
+  },
+  {
+    "name": "pavement_corner_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/road_system/pavement_corner_01.w2mesh"
+  },
+  {
+    "name": "pavement_corner_45",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/road_system/pavement_corner_45.w2mesh"
+  },
+  {
+    "name": "pavement_corner_90",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/road_system/pavement_corner_90.w2mesh"
+  },
+  {
+    "name": "pavement_curb_long",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/road_system/pavement_curb_long.w2mesh"
+  },
+  {
+    "name": "pavement_curb_short",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/road_system/pavement_curb_short.w2mesh"
+  },
+  {
+    "name": "pavement_in_corner_90",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/road_system/pavement_in_corner_90.w2mesh"
+  },
+  {
+    "name": "pavement_long_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/road_system/pavement_long_01.w2mesh"
+  },
+  {
+    "name": "pavement_short_01",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/road_system/pavement_short_01.w2mesh"
+  },
+  {
+    "name": "a secluded flat",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/a secluded flat.w2mesh"
+  },
+  {
+    "name": "armor_shop",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/armor_shop.w2mesh"
+  },
+  {
+    "name": "arrow",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/arrow.w2mesh"
+  },
+  {
+    "name": "arrow_blue",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/arrow_blue.w2mesh"
+  },
+  {
+    "name": "bank",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/bank.w2mesh"
+  },
+  {
+    "name": "barber shop",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/barber shop.w2mesh"
+  },
+  {
+    "name": "brothel",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/brothel.w2mesh"
+  },
+  {
+    "name": "cemetery",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/cemetery.w2mesh"
+  },
+  {
+    "name": "crypts",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/crypts.w2mesh"
+  },
+  {
+    "name": "derelict",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/derelict.w2mesh"
+  },
+  {
+    "name": "fist_fight",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/fist_fight.w2mesh"
+  },
+  {
+    "name": "garden",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/garden.w2mesh"
+  },
+  {
+    "name": "grandpas",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/grandpas.w2mesh"
+  },
+  {
+    "name": "harbour",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/harbour.w2mesh"
+  },
+  {
+    "name": "herbs_shop",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/herbs_shop.w2mesh"
+  },
+  {
+    "name": "inn",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/inn.w2mesh"
+  },
+  {
+    "name": "lazaret",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/lazaret.w2mesh"
+  },
+  {
+    "name": "market_place",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/market_place.w2mesh"
+  },
+  {
+    "name": "meat_store",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/meat_store.w2mesh"
+  },
+  {
+    "name": "militia_hq",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/militia_hq.w2mesh"
+  },
+  {
+    "name": "mq_7015",
+    "category": "Meshes",
+    "origin": "BnW",
+    "tags": [],
+    "path": "dlc/bob/data/environment/architecture/grey_box_blockout/text_signs/mq_7015.w2mesh"
   }
 ]
